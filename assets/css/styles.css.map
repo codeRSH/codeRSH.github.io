@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n@import url('https://fonts.googleapis.com/css?family=Philosopher&display=swap');\n@import url('https://fonts.googleapis.com/css?family=Calligraffitti&display=swap');\n\n.navigation {\n    font: normal normal 36px Philosopher;\n    width: 80%;\n    position: relative;\n    left: 10%;\n}\n\n.content {\n    font: normal normal 16px Philosopher;\n    width: 60%;\n    position: relative;\n    left: 20%;\n    top: 10%;\n}\n\nh1 {\n    font: normal normal bold 30px Calligraffitti;\n}",
+		".current{\n    color : green;\n}"
+	],
+	"names": [],
+	"mappings": "AACA,OAAO,CAAC,uEAAI;AACZ,OAAO,CAAC,0EAAI;ACFZ,AAAA,QAAQ,CAAA,EACJ,KAAK,EAAG,KAAK,GAChB;;ADED,AAAA,WAAW,CAAC,EACR,IAAI,EAAE,8BAA8B,EACpC,KAAK,EAAE,GAAG,EACV,QAAQ,EAAE,QAAQ,EAClB,IAAI,EAAE,GAAG,GACZ;;AAED,AAAA,QAAQ,CAAC,EACL,IAAI,EAAE,8BAA8B,EACpC,KAAK,EAAE,GAAG,EACV,QAAQ,EAAE,QAAQ,EAClB,IAAI,EAAE,GAAG,EACT,GAAG,EAAE,GAAG,GACX;;AAED,AAAA,EAAE,CAAC,EACC,IAAI,EAAE,sCAAsC,GAC/C"
+}

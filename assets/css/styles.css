@@ -1,2 +1,11 @@
-.current {
-  color: green; }
+@import url("https://fonts.googleapis.com/css?family=Philosopher&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Calligraffitti&display=swap");
+.current { color: green; }
+
+.navigation { font: normal normal 36px Philosopher; width: 80%; position: relative; left: 10%; }
+
+.content { font: normal normal 16px Philosopher; width: 60%; position: relative; left: 20%; top: 10%; }
+
+h1 { font: normal normal bold 30px Calligraffitti; }
+
+/*# sourceMappingURL=styles.css.map */
