@@ -3,7 +3,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap");
 .current { color: green; }
 
-.navigation { font: normal normal 30px Courgette; width: 80%; position: relative; left: 10%; }
+.navigation { font: normal normal 28px Courgette; width: 80%; position: relative; left: 10%; }
 
 .content { font: normal normal 18px Philosopher; width: 80%; position: relative; left: 10%; top: 5%; }
 
@@ -18,5 +18,11 @@ a { text-decoration: none; }
 body { display: flex; flex-direction: column; height: 100vh; }
 
 footer { margin-top: auto; padding: 5% 0% 2% 0%; margin-left: 10%; text-align: center; }
+
+ul { list-style-type: '\21AA'; margin: 0; padding: 2px; }
+
+li { margin: 5px; padding: 2px; }
+
+li a { font-weight: bold; }
 
 /*# sourceMappingURL=styles.css.map */
