@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://ravs.in/feed.xml" rel="self" type="application/atom+xml" /><link href="http://ravs.in/" rel="alternate" type="text/html" /><updated>2022-05-20T00:25:25+05:30</updated><id>http://ravs.in/feed.xml</id><title type="html">The RavS Site</title><subtitle>This is the RavS site.</subtitle><entry><title type="html">First post</title><link href="http://ravs.in/blog/first" rel="alternate" type="text/html" title="First post" /><published>2022-05-18T00:00:00+05:30</published><updated>2022-05-18T00:00:00+05:30</updated><id>http://ravs.in/blog/First%20Post</id><content type="html" xml:base="http://ravs.in/blog/first"><![CDATA[# First Post
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="http://ravs.in/feed.xml" rel="self" type="application/atom+xml" /><link href="http://ravs.in/" rel="alternate" type="text/html" /><updated>2022-05-20T00:28:24+05:30</updated><id>http://ravs.in/feed.xml</id><title type="html">The RavS Site</title><subtitle>This is the RavS site.</subtitle><entry><title type="html">First post</title><link href="http://ravs.in/blog/first" rel="alternate" type="text/html" title="First post" /><published>2022-05-18T00:00:00+05:30</published><updated>2022-05-18T00:00:00+05:30</updated><id>http://ravs.in/blog/First%20Post</id><content type="html" xml:base="http://ravs.in/blog/first"><![CDATA[<h1 id="first-post">First Post</h1>
 
-Today I want to take another plunge into maintaining my own site and blog. I realize currently it's really barebone. Partly it's deliberate to keep it clean so that focus can be only on content. But I will definetely improve it as time goes by, and hope to be able to make it into something to be proud of.
+<p>Today I want to take another plunge into maintaining my own site and blog. I realize currently it’s really barebone. Partly it’s deliberate to keep it clean so that focus can be only on content. But I will definetely improve it as time goes by, and hope to be able to make it into something to be proud of.</p>
 
-For past many months and years, not writing consistently has left a void in my personal life. I want to be able to fill that again. Writing regularly is really important for to be able to keep myself grounded.
+<p>For past many months and years, not writing consistently has left a void in my personal life. I want to be able to fill that again. Writing regularly is really important for to be able to keep myself grounded.</p>
 
-The idea is to post at least one post per week on this with minimum 100 words. More the merrier. No other expectations about the topics or quality of the posts. We will see the rest as time goes by.
+<p>The idea is to post at least one post per week on this with minimum 100 words. More the merrier. No other expectations about the topics or quality of the posts. We will see the rest as time goes by.</p>
 
-For now God Bless us all.
+<p>For now God Bless us all.</p>
 
-Love,
-RSH]]></content><author><name>RavS</name></author><summary type="html"><![CDATA[First Post]]></summary></entry><entry><title type="html">First post copy</title><link href="http://ravs.in/blog/first" rel="alternate" type="text/html" title="First post copy" /><published>2022-05-17T00:00:00+05:30</published><updated>2022-05-17T00:00:00+05:30</updated><id>http://ravs.in/blog/First%20Post%20copy</id><content type="html" xml:base="http://ravs.in/blog/first"><![CDATA[# First Post
+<p>Love,
+RSH</p>]]></content><author><name>RavS</name></author><summary type="html"><![CDATA[First Post]]></summary></entry><entry><title type="html">First post copy</title><link href="http://ravs.in/blog/first" rel="alternate" type="text/html" title="First post copy" /><published>2022-05-17T00:00:00+05:30</published><updated>2022-05-17T00:00:00+05:30</updated><id>http://ravs.in/blog/First%20Post%20copy</id><content type="html" xml:base="http://ravs.in/blog/first"><![CDATA[<h1 id="first-post">First Post</h1>
 
-Today I want to take another plunge into maintaining my own site and blog. I realize currently it's really barebone. Partly it's deliberate to keep it clean so that focus can be only on content. But I will definetely improve it as time goes by, and hope to be able to make it into something to be proud of.
+<p>Today I want to take another plunge into maintaining my own site and blog. I realize currently it’s really barebone. Partly it’s deliberate to keep it clean so that focus can be only on content. But I will definetely improve it as time goes by, and hope to be able to make it into something to be proud of.</p>
 
-For past many months and years, not writing consistently has left a void in my personal life. I want to be able to fill that again. Writing regularly is really important for to be able to keep myself grounded.
+<p>For past many months and years, not writing consistently has left a void in my personal life. I want to be able to fill that again. Writing regularly is really important for to be able to keep myself grounded.</p>
 
-The idea is to post at least one post per week on this with minimum 100 words. More the merrier. No other expectations about the topics or quality of the posts. We will see the rest as time goes by.
+<p>The idea is to post at least one post per week on this with minimum 100 words. More the merrier. No other expectations about the topics or quality of the posts. We will see the rest as time goes by.</p>
 
-For now God Bless us all.
+<p>For now God Bless us all.</p>
 
-Love,
-RSH]]></content><author><name>RavS</name></author><summary type="html"><![CDATA[First Post]]></summary></entry></feed>
+<p>Love,
+RSH</p>]]></content><author><name>RavS</name></author><summary type="html"><![CDATA[First Post]]></summary></entry></feed>
