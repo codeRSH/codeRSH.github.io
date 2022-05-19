@@ -1,11 +1,22 @@
 @import url("https://fonts.googleapis.com/css?family=Philosopher&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Calligraffitti&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap");
 .current { color: green; }
 
-.navigation { font: normal normal 24px Georgia; width: 80%; position: relative; left: 10%; }
+.navigation { font: normal normal 30px Courgette; width: 80%; position: relative; left: 10%; }
 
-.content { font: normal normal 20px Philosopher; width: 80%; position: relative; left: 10%; top: 5%; }
+.content { font: normal normal 18px Philosopher; width: 80%; position: relative; left: 10%; top: 5%; }
 
-h1 { font: normal normal bold 30px Verdana; color: darkslategray; }
+h1 { font: normal normal bold 40px 'Grape Nuts'; color: darkslategray; }
+
+nav { padding: 1% 5% 1% 5%; }
+
+a { text-decoration: none; }
+
+.nav-space { padding: 0% 2%; float: right; }
+
+body { display: flex; flex-direction: column; height: 100vh; }
+
+footer { margin-top: auto; padding: 5% 0% 2% 0%; margin-left: 10%; text-align: center; }
 
 /*# sourceMappingURL=styles.css.map */
