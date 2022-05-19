@@ -3,13 +3,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap");
 .current { color: green; }
 
-.navigation { font: normal normal 28px Courgette; width: 90%; position: relative; left: 5%; }
+.navigation { font: normal normal 24px Courgette; width: 90%; position: relative; left: 5%; background-color: #e0dddd; padding-bottom: 5px; padding-top: 0; }
 
 .content { font: normal normal 18px Philosopher; width: 80%; position: relative; left: 10%; top: 5%; }
 
 h1 { font: normal normal bold 40px 'Grape Nuts'; color: darkslategray; }
 
-nav { padding: 1% 5% 1% 5%; }
+nav { padding: 1% 3% 1% 3%; }
 
 a { text-decoration: none; }
 
