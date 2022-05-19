@@ -6,7 +6,7 @@
 		"_sass/main.scss"
 	],
 	"sourcesContent": [
-		"@import 'main';\n@import url('https://fonts.googleapis.com/css?family=Philosopher&display=swap');\n@import url('https://fonts.googleapis.com/css?family=Calligraffitti&display=swap');\n\n.navigation {\n  font: normal normal 24px Georgia;\n  width: 80%;\n  position: relative;\n  left: 10%;\n}\n\n.content {\n  font: normal normal 16px Philosopher;\n  width: 80%;\n  position: relative;\n  left: 10%;\n  top: 5%;\n}\n\nh1 {\n  font: normal normal bold 30px Verdana;\n  // Calligraffitti;\n  color: darkslategray;\n}\n",
+		"@import 'main';\n@import url('https://fonts.googleapis.com/css?family=Philosopher&display=swap');\n@import url('https://fonts.googleapis.com/css?family=Calligraffitti&display=swap');\n\n.navigation {\n  font: normal normal 24px Georgia;\n  width: 80%;\n  position: relative;\n  left: 10%;\n}\n\n.content {\n  font: normal normal 20px Philosopher;\n  width: 80%;\n  position: relative;\n  left: 10%;\n  top: 5%;\n}\n\nh1 {\n  font: normal normal bold 30px Verdana;\n  // Calligraffitti;\n  color: darkslategray;\n}\n",
 		".current{\n    color : green;\n}"
 	],
 	"names": [],
