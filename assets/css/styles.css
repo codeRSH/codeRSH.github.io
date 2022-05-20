@@ -17,7 +17,7 @@ a { text-decoration: none; }
 
 body { display: flex; flex-direction: column; height: 100vh; }
 
-footer { margin-top: auto; padding: 5% 0% 2% 0%; margin-left: 10%; text-align: center; }
+footer { margin-top: auto; padding: 5% 0% 2% 0%; margin-left: 5%; text-align: center; }
 
 ul { list-style-type: '\21AA'; margin: 0; padding: 2px; }
 
