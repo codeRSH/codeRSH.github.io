@@ -17,4 +17,5 @@ permalink: /blog/first
   The idea is to post at least one post per week on this with minimum 100 words. More the merrier. No other expectations about the topics or quality of the posts. We will see the rest as time goes by.
   
   For now God Bless us all.
-- #blog
+  
+  - #blog

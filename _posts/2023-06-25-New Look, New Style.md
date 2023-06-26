@@ -10,7 +10,7 @@ permalink: /blog/new-look
 
 - # New Look, New Style
   
-  ![My Boy](../assets/image_1687647979559_0_1687723370955_0.png)
+  ![My Boy](../assets/blog-myboy.png)
   
   **OK so this my yet another way to restart my blogging habit with a new look and style.** The idea as always has been to be able to migrate to completely self hosted platform without having to depend on any other platform. Now while ~~Gitlab~~ Github is not a perfectly _'Self Hosted' Platform_ it does give me some freedom to keep my data with myself.
   
