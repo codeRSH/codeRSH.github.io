@@ -22,16 +22,17 @@ title: The RavS Site
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the RavS site.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ravs.in" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'http://ravs.in' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: twitrsh
-github_username:  codersh
+github_username: codersh
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
+future: true
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
