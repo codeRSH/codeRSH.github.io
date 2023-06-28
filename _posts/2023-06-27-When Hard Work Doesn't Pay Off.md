@@ -8,7 +8,7 @@ author: RavS
 permalink: /blog/pay-off
 ---
 
-- # When Hard Work Doesn't Pay Off
+# When Hard Work Doesn't Pay Off
 
 For past 1 day I was trying to make something work in a software for which the software wasn't design to work in first place. I spent almost 10+ hours trying to make it work but finally gave up now. 
 
@@ -16,4 +16,5 @@ There is a decent workflow developed for publishing blogs which albeit requires 
 
 It's disappointing but I have hope I learnt something from it. So it wasn't an utter waste. 
 
-- #blog 
+---
+#blog 
