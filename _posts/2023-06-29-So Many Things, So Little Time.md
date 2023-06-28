@@ -2,7 +2,7 @@
 title: "So Many Things, So Little Time"
 public: yes
 date: 2023-06-29
-tags: rant
+tags: [rant]
 layout: post
 author: RavS
 permalink: /blog/many-things

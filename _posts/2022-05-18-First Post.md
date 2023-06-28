@@ -2,7 +2,7 @@
 title: "First Post"
 public: yes
 date: 2022-05-18
-tags: first, special
+tags: [first, special]
 layout: post
 author: RavS
 permalink: /blog/first

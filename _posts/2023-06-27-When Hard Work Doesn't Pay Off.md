@@ -2,7 +2,7 @@
 title: "When Hard Work Doesn't Pay Off"
 public: yes
 date: 2023-06-27
-tags: rant
+tags: [rant]
 layout: post
 author: RavS
 permalink: /blog/pay-off

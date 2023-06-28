@@ -2,7 +2,7 @@
 title: "New Look, New Style"
 public: yes
 date: 2023-06-25
-tags: new, special
+tags: [new, special]
 layout: post
 author: RavS
 permalink: /blog/new-look
