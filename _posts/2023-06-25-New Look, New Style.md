@@ -2,14 +2,12 @@
 title: "New Look, New Style"
 public: yes
 date: 2023-06-25
-tags: [new, special]
+tags: [blog, new, special]
 layout: post
 author: RavS
 permalink: /blog/new-look
 ---
 
-# New Look, New Style
-  
   
   ![My Boy](../../assets/blog-myboy.png)
   
@@ -34,5 +32,3 @@ permalink: /blog/new-look
   
   `PS: Picture of my little boy enjoying his icecream. Of course he didn't eat it. He just 'enjoyed' it!`
   
-  ---
-#blog 
