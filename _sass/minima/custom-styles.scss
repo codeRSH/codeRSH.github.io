@@ -1,9 +1,7 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
+// Placeholder to allow defining custom styles that override everything else.
+// (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-@import 'minima';
-
+  
 @import url('https://fonts.googleapis.com/css?family=Philosopher&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
