@@ -1,7 +1,6 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
-  
 @import url('https://fonts.googleapis.com/css?family=Philosopher&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
@@ -11,6 +10,10 @@
   font-family: Courgette;
   font-size: 20px;
 }
+.site-footer {
+  font-family: Philosopher;
+}
+
 .page-content {
   font-family: Philosopher;
   font-size: 18px;
@@ -21,7 +24,7 @@
 }
 
 h1 {
-  font: normal normal bold 40px 'Grape Nuts';
+  font: normal normal bold 40px 'Courgette';
   color: darkslategray;
 }
 
