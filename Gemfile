@@ -36,3 +36,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # RSH++ Remote Theme Gem for Github
 gem "jekyll-remote-theme"
+
+# RSH++ Paginate
+# gem "jekyll-paginate"
