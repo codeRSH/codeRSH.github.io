@@ -22,10 +22,8 @@ author:
   name: RavS
 title: RavS' Site
 # description: >- # this means to ignore newlines until "baseurl:"
-# description: "© 2023 The RavS' Site.\n Hosted on Github Pages.\n Powered by Minima v3 Theme."
-description: |
-  "© 2023 The RavS' Site.""
-  "Hosted on Github Pages.\n Powered by Minima v3 Theme."
+description: "© 2023 The RavS' Site.\n Hosted on Github Pages.\n Powered by Minima v3 Theme."
+
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://ravs.in' # the base hostname & protocol for your site, e.g. http://example.com
 
