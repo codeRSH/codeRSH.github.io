@@ -8,7 +8,7 @@
 // .site-nav {
 .site-header {
   font-family: Courgette;
-  font-size: 20px;
+  font-size: 22px;
 }
 .site-footer {
   font-family: Philosopher;
@@ -16,10 +16,14 @@
 
 .page-content {
   font-family: Philosopher;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 h1 {
-  font: normal normal bold 40px 'Courgette';
-  color: darkslategray;
+  font-family: Courgette;
+  font-weight: bold;
+}
+
+#photo-ravs {
+  border-radius: 50%;
 }

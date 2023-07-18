@@ -12,4 +12,4 @@ I start reading a lot of books but don't finish most of them ( something I am tr
 
 I used to write with a fair bit of regularity a few years ago, but life has taken over the past sometime, thus bringing my writing to a screeching halt. But I haven't lost the dream and this site is another attempt to reboot myself as a writer.
 
-If you would like to reach me, then mail me at _mail[dot]ravs[at]yahoo[dot]co[dot]in_ .
+If you would like to reach me, then mail me at _mail[dot]ravs[at]yahoo[dot]com_ .

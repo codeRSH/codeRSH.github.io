@@ -1,0 +1,22 @@
+---
+layout: base
+---
+
+<div class="home">
+  <h1>Tag: {{page.tag}}</h1>
+  <ul class="post-list">
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%} {% for post in site.posts %} {% if
+    post.tags contains page.tag %}
+    <li>
+      <span class="post-meta">{{ post.date | date: date_format }}</span> •
+      <span class="post-meta">
+        {% assign words = post.content | number_of_words %} {% if words < 360 %} 1 min {% else %} {{ words |
+        divided_by:180 }} mins {% endif %}
+      </span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h3>
+    </li>
+    {% endif %} {% endfor %}
+  </ul>
+</div>
