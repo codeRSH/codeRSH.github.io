@@ -1,12 +1,10 @@
 ---
-title: "The Journey Begins.."
 public: yes
 layout: post
 title: The Journey Begins..
-date: 2010-04-26
+date: '2010-04-26T00:05:00.002+05:30'
 author: RavS
 tags:
-  - blog
   - me
   - special
   - first
@@ -31,3 +29,4 @@ The readers of this blog, if any, will most probably be my friends. And I want t
 So whenever you get to read this, all I want from you is to be consistent reader, if you can and a consistent criticizer (that you definitely can!), telling me the mistakes I have made and things I can improve on, because only then can I be an evolving and consistent blogger (I intend to post at least one blog every week).
 
 I don't know actually how much time will I be continuing here (knowing my will and resilience!), but I don't want that to deter my spirit right now. Hopefully our journey will be long and fruitful. Amen...
+

@@ -1,8 +1,8 @@
 ---
-title: "buzzRSH  (When it all started...)"
 public: yes
 layout: post
-date: 2010-07-15
+title: '### buzzRSH ### (When it all started...)'
+date: '2010-07-15T13:48:00.003+05:30'
 author: RavS
 tags:
   - me
@@ -38,9 +38,9 @@ So.. in this thread I will write my thoughts. I don't know what I will be bloggi
 2.  They won't contain anything about me that is obvious or known to everybody.
 3.  They will **usually** be relatively short. (Nobody has time to read tonnes of text.)
 4.  They will only contain stuffs that are related to my life somehow or things which I genuinely feel about.
-5.  ~They will also act like diary logs.~
+5.  ~~They will also act like diary logs.~~
 
-**Notes**
+**Notes:**
 
 Since this will be acting as a place for me to blog, I have to disable comments. Sorry, if you don't like it. If you have anything to say, you can always mail me.
 
