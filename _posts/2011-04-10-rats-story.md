@@ -13,7 +13,7 @@ tags:
 - rats
 modified_time: '2011-07-30T20:34:33.844+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6013238910766458351
-blogger_orig_url: https://blogrsh.blogspot.com/2011/04/rats-story.html
+blogger_orig_url: https://ravs.in/2011/04/rats-story.html
 ---
 
 _(Fiction, inspired by true story)._

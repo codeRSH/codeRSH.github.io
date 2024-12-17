@@ -12,7 +12,7 @@ tags:
 - Travelling
 modified_time: '2011-07-22T16:16:22.829+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1153454573277678239
-blogger_orig_url: https://blogrsh.blogspot.com/2010/10/me-and-autowallahs.html
+blogger_orig_url: https://ravs.in/2010/10/me-and-autowallahs.html
 ---
 
 First a short story: 

@@ -14,12 +14,12 @@ tags:
 - nostalgia
 modified_time: '2011-07-22T14:06:26.449+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1908721009131141931
-blogger_orig_url: https://blogrsh.blogspot.com/2011/01/adsareteasements.html
+blogger_orig_url: https://ravs.in/2011/01/adsareteasements.html
 ---
 
 So, India-South-Africa Test Series concluded recently. And what a great series it was. Though India couldn't come out trumps but it was heartening to see them fighting RSA ball to ball (literally!).
 
-But this post is not the 'post' series analysis by yet-another-wannabe-cricket-expert. This is actually about the agony of a long lost cricket lover who is just frustrated to see the deck of ads being slapped on him every second of his cricket watching moments.  
+But this post is not the 'post' series analysis by yet-another-wannabe-cricket-expert. This is actually about the agony of a long lost cricket lover who is just frustrated to see the deck of ads being slapped on him every second of his cricket watching moments.
 
 I was a big cricket fan. I really was. Used to go to others' home to watch cricket since we didn't have cable TV at home in childhood. Liked to watch match from end to end and always remain scared when Sachin used to bat (thinking he will get out soon and the match will be over). Used to enjoy fall of each opposition wicket like only a true Indian fan can do. Have in memory a lot of memorable cricket moments. Well in last 5-7 years, I turned to other sports and so now cricket is not that much of a passion to me.
 

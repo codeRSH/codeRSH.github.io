@@ -11,7 +11,7 @@ tags:
 - imagination
 modified_time: '2011-07-22T14:56:33.598+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-582408985602389900
-blogger_orig_url: https://blogrsh.blogspot.com/2011/01/if-i-could-suck-powers.html
+blogger_orig_url: https://ravs.in/2011/01/if-i-could-suck-powers.html
 ---
 
 Well I have been a big comic fan since my childhood. I used to read about these super heroes and super villains who were just full of awesomeness and incredibility. I used to fantasize about one day becoming a super hero myself and saving the world (I knew I would have to wear underwear out of pants but I really wanted to wear those knee length boots). I think those were the things that really got me into reading (more about my reading habits some other time).

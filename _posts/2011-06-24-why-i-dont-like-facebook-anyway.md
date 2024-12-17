@@ -12,7 +12,7 @@ tags:
 - Friends
 modified_time: '2011-06-24T19:59:51.924+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1052151689831015951
-blogger_orig_url: https://blogrsh.blogspot.com/2011/06/why-i-dont-like-facebook-anyway.html
+blogger_orig_url: https://ravs.in/2011/06/why-i-dont-like-facebook-anyway.html
 ---
 
 Well I have been getting numerous requests for joining Facebook for months now. I had to make a filter in my inbox to keep all requests away (but I still get one or 2 a month anyway). No, I am not a celebrity whom people would be delighted to see. It's just that a lot of my friends are on the "The" Social Network and they want to see me there too. And that's pretty understandable because I want to see more and more people in my own little network, interacting, participating and sharing stuffs. So what's the big deal in joining (or not joining) FB? Well, this post is a PR blog that explains the same:
@@ -26,8 +26,6 @@ Well I have been getting numerous requests for joining Facebook for months now. 
 **4. Do I need another network?**: And this is the most important thing. I still believe meeting one-to-one is the best form of buddying, followed by probably making calls/sms. And everybody will agree that I reply to their mails as soon as I can. Or you can use tons of mediums I noted down above to interact with me. The simple fact is that I can easily contact anyone whom I want to interact right now. So why use FB? You may remember when I wrote "[**Why I don't have a Mobile**]({% post_url 2010-08-28-why-i-dont-have-mobile %})". It's all about requirements. When you can do without it, what's the need?
 
 **5. I am a bit skeptical of it**: I don't know, but I don't get a very positive vibe when hear about Facebook. It's a lot like when other people think about Google and it's products. I have heard a lot of negative things about it (though I have to admit, every good thing has its shortcomings) and their privacy loopholes. I feel like it is a big monster waiting out there to engulf me. May be it has something to do with Big Company Syndrome.
-<br />
-<br />
 
 Now I know it is a bit lame to expect everyone to leave their favorite network just to interact with me (after all I don't do the same!). And I also know that I miss a lot of good things by not being on Facebook. So I do believe, I will join Facebook someday. May be tomorrow, may next week, this year or a few years down the line. I just don't know exactly when.
 

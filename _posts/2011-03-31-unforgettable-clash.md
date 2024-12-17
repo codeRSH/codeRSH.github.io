@@ -11,7 +11,7 @@ tags:
 - Friends
 modified_time: '2011-03-31T01:00:31.698+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5159351537652864662
-blogger_orig_url: https://blogrsh.blogspot.com/2011/03/unforgettable-clash.html
+blogger_orig_url: https://ravs.in/2011/03/unforgettable-clash.html
 ---
 
 I deliberately stay away from topics such as cricket, politics etc. because I believe there are much better pundits and gurus out there and we can do without having yet another. But what transpired today has literally forced me to write it here. I would like to capture the moment today.

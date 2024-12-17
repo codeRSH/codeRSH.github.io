@@ -11,7 +11,7 @@ tags:
   - start
 modified_time: '2011-07-30T19:19:29.623+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3202046174925722024
-blogger_orig_url: https://blogrsh.blogspot.com/2010/04/journey-begins.html
+blogger_orig_url: https://ravs.in/2010/04/journey-begins.html
 ---
 
 > **" साईं श्रद्धा शक्ति "**
@@ -29,4 +29,3 @@ The readers of this blog, if any, will most probably be my friends. And I want t
 So whenever you get to read this, all I want from you is to be consistent reader, if you can and a consistent criticizer (that you definitely can!), telling me the mistakes I have made and things I can improve on, because only then can I be an evolving and consistent blogger (I intend to post at least one blog every week).
 
 I don't know actually how much time will I be continuing here (knowing my will and resilience!), but I don't want that to deter my spirit right now. Hopefully our journey will be long and fruitful. Amen...
-

@@ -15,7 +15,7 @@ tags:
   - Engineer
 modified_time: '2011-07-30T19:20:38.752+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6183707198909998215
-blogger_orig_url: https://blogrsh.blogspot.com/2010/07/i-no-longer-want-to-be-engineer.html
+blogger_orig_url: https://ravs.in/2010/07/i-no-longer-want-to-be-engineer.html
 ---
 
 _(The very first post turned out to be a Super blog rather than a mini one, as promised. Well, sorry, but I had strong opinions on this one..)_

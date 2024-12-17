@@ -13,7 +13,7 @@ tags:
 - Bus
 modified_time: '2011-07-22T16:18:37.118+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1773759847955191480
-blogger_orig_url: https://blogrsh.blogspot.com/2011/07/bluelines-please-dont-go-please.html
+blogger_orig_url: https://ravs.in/2011/07/bluelines-please-dont-go-please.html
 ---
 
 As part of 'beautification' and 'modernization' drive for ~~undergoing~~ now-over CWG in Delhi, Delhi Govt. has been purchasing swanky new low floor AC and Non AC buses and adding them to DTC fleet of 'khataaraa' dirty yellow-green buses. And while doing this, they have also been removing an equal number of blueline buses. (Update: now the Govt. has decided to get rid of all the buses once and for all, by the end of January 2011). And that is bad news for me. I strongly oppose this decision.

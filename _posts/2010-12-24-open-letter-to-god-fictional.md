@@ -15,16 +15,16 @@ tags:
 - Friends
 modified_time: '2011-07-22T15:34:09.357+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4097776816052734416
-blogger_orig_url: https://blogrsh.blogspot.com/2010/12/open-letter-to-god-fictional.html
+blogger_orig_url: https://ravs.in/2010/12/open-letter-to-god-fictional.html
 ---
 
-Dear God,  
+Dear God,
 
-How are you? Well before I say anything, I must confess that I was too lazy to write to you, I had to make a sketch, so I asked my friend **RavS** to write this letter to you. But believe me, the emotions are all mine.  
+How are you? Well before I say anything, I must confess that I was too lazy to write to you, I had to make a sketch, so I asked my friend **RavS** to write this letter to you. But believe me, the emotions are all mine.
 
 So, what to say.. _Matlab_, _pata nahin kya kahun_?
 
-You see, you have given me an awesome life. My friends love me, and though I was abused as a child (_thappad gaal pe padte the impression kahin aur aate the_); I have got the most loving family in the world. I am the king of my home and my brother and sister have to do whatever I say. What else can I ask for.. _Matlab_, _aur kya maangu?_  
+You see, you have given me an awesome life. My friends love me, and though I was abused as a child (_thappad gaal pe padte the impression kahin aur aate the_); I have got the most loving family in the world. I am the king of my home and my brother and sister have to do whatever I say. What else can I ask for.. _Matlab_, _aur kya maangu?_
 
 _Bas mujhko ek hi cheej aur de do.. **Naukri**__.._ hehe, you thought I was gonna ask for _'Chokari'_ but that I want **100** times; after all I have to start my own **clan**. But you see, I want to take retirement soon, from life I mean, _jindagi se mera matlab_. And before I do that, I want to gather all the worldly pleasures and give all the happiness to my family. And a 'job', doesn't matter which kind, is key to that happiness, I think.
 

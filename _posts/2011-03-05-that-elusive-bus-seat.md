@@ -13,12 +13,12 @@ tags:
 - Travelling
 modified_time: '2011-07-30T20:33:31.069+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3337551333160527567
-blogger_orig_url: https://blogrsh.blogspot.com/2011/03/that-elusive-bus-seat.html
+blogger_orig_url: https://ravs.in/2011/03/that-elusive-bus-seat.html
 ---
 
 I am a daily user of public transport (which is a classier way of saying that I travel by buses daily). And usually it involves long journeys (>=40 mins). This of course demands a seat to sit, otherwise one ends up draining all the energy in travelling only. Now I am not the only daily long traveler, there are many others like me, which means everybody wants seat. But like all good things in life, they are limited. And from here starts the competition to grab that elusive seat...
 
-**Reservation**    
+**Reservation**
 One of my long standing dreams is to get reservation somewhere, anywhere. Unfortunately even inside buses, I am out of luck. I don't qualify for ladies seats (unless I go for sex change... no thanks), conductor seat (I am eligible, but I think my career aspirations are a bit higher), senior citizen (not getting that for next 35 years or so), physically handicapped (I am more of artistically handicapped). So, almost the one row of seats (the left side) is not meant for me. Now, damn the skewed sex ratio that there are usually a lot of contenders for the other row of the seats.
 
 **Tactics to get seat**

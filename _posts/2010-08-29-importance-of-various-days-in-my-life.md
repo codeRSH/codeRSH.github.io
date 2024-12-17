@@ -11,12 +11,12 @@ tags:
 - humor
 modified_time: '2011-07-21T12:45:47.882+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-592149934607217792
-blogger_orig_url: https://blogrsh.blogspot.com/2010/08/importance-of-various-days-in-my-life.html
+blogger_orig_url: https://ravs.in/2010/08/importance-of-various-days-in-my-life.html
 ---
 
 About 4 weeks ago I got 3 messages on the occasion of Friendship day. One message felt like it was made out of a Christmas SMS, so it felt more of an obligation for the day. Another felt apologetic for wishing, since the person knew I don't believe in Friendship day. And the third message was guilt ridden, since it came late to me! And it was amusing, because I never wanted any of those messages to remind me that they were one of my most cherished friends.
 
-Anyway, that prompted me to think about what all days hold importance in my life, and which ones don't. This post is a result of that. Here is the list of few days (not in any order) and why they are or aren't important to me.. 
+Anyway, that prompted me to think about what all days hold importance in my life, and which ones don't. This post is a result of that. Here is the list of few days (not in any order) and why they are or aren't important to me. 
 
 1. **The Independence Day**: OK I may not be the best patriot this country has ever produced, but that doesn't stop me of feeling proud to be an Indian, even after all the shortcomings it has. _"..Koi bhi desh perfect nahin hota, use perfect banana padata hai.."_. I like to spend the day giving some thoughts to India and its problems and resolving to do something for this country, howsoever small.
 

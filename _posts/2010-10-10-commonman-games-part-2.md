@@ -14,7 +14,7 @@ tags:
 - Travelling
 modified_time: '2011-07-21T13:48:31.561+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3006272533431542094
-blogger_orig_url: https://blogrsh.blogspot.com/2010/10/commonman-games-part-2.html
+blogger_orig_url: https://ravs.in/2010/10/commonman-games-part-2.html
 ---
 
 **Venue:** Major Dhyanchand Stadium **Date:** 07.10.2010 **Time:** 4 PM **Event:** Hockey 

@@ -9,13 +9,13 @@ tags:
   - metablogging
 modified_time: '2014-07-20T14:54:58.233+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-10999949296419747
-blogger_orig_url: https://blogrsh.blogspot.com/2010/11/not-so-faqs.html
+blogger_orig_url: https://ravs.in/2010/11/not-so-faqs.html
 ---
 
 **Who are you?**
-Hi, first of all,  thank you for visiting this page, for finding out more about me and my blog! My real name is **Ravi Singh**, but I prefer to call myself [**RavS**]({% post_url 2011-07-28-battle-royale-ravs-vs-ravi %}), so you can call it my pen name. I am a ~22~ 26 years  old Indian. Techie by profession, blogging is my hobby.
+Hi, first of all,  thank you for visiting this page, for finding out more about me and my blog! My real name is **Ravi Singh**, but I prefer to call myself [**RavS**]({% post_url 2011-07-28-battle-royale-ravs-vs-ravi %}), so you can call it my pen name. I am a ~22~ ~26~ 36 years  old Indian. Techie by profession, blogging is my hobby.
 
-To know more about me **[please read this](https://blogrsh.blogspot.com/p/myself.html)**.
+To know more about me **[please read this]({% post_url 2011-10-02-myself %})**.
 
 **What's the story behind this blog?**
 There is an interesting (or boring depending on how you perceive it) [**story behind this blog**]({% post_url 2011-09-10-anosm-blog-story-after-one-year %}) and the journey so far. While blogging remains a hobby I am quite serious about it and take it as an **[Engineering task]({% post_url 2011-07-06-engineering-blog-post %})**.

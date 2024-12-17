@@ -11,7 +11,7 @@ tags:
   - mobiles
 modified_time: '2011-07-09T11:55:23.574+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8334258047139222939
-blogger_orig_url: https://blogrsh.blogspot.com/2010/08/why-i-dont-have-mobile.html
+blogger_orig_url: https://ravs.in/2010/08/why-i-dont-have-mobile.html
 ---
 
 Sometime ago, someone asked me why don't I carry a mobile phone. And I replied that **'I don't want one'**. But later, I introspected.. Do I really don't want to have a mobile? And the answer I got was, No I need one... I need a mobile device which I can use as a PMP because, like everyone else, I am an avid music listener. And to be able to share a video or two with friends during free time, never hurts. I need a mobile device to take an odd picture or two. There are moments, that you really want to capture forever, and you rue the fact that you don't have a camera handy at that time. I need a device which I can use to read stuff on the move (think eBook reader). There are lot of cool stuff on the system or over web that you want to read, but reading through the monitor (that too a measly 15" CRT one) is really a pain in the.. eyes. A phone can be handy for everyday alarm and for making reminders.

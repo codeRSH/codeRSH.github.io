@@ -11,22 +11,21 @@ tags:
 - Friends
 modified_time: '2011-07-30T20:27:03.731+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4605945657156242422
-blogger_orig_url: https://blogrsh.blogspot.com/2011/01/that-awkward-phone-conversation.html
+blogger_orig_url: https://ravs.in/2011/01/that-awkward-phone-conversation.html
 ---
 
 _"... if that was the case, you could have at least called and told me.."_
 
 _"... where were you yesterday? I was calling..."_
-  
 
 Don't get me wrong if I am not calling you. It's not you, it's me...
 
-Remember I made a to-do list sometime ago? Well there was an important point mentioned there, _"Call friends"_. Well I was able to complete almost everything in that list but this was left behind. Well, I can give the excuse that it was because of I had no balance in the phone during morning, but then there was credit at evening time. But I didn't call anybody that day. 
+Remember I made a to-do list sometime ago? Well there was an important point mentioned there, _"Call friends"_. Well I was able to complete almost everything in that list but this was left behind. Well, I can give the excuse that it was because of I had no balance in the phone during morning, but then there was credit at evening time. But I didn't call anybody that day.
 
-**Reason??**  
-Well the reason is simple, I am not a very good phone buddy. Part of that can be attributed to my introvert nature. But more than that I am not comfortable with the mode of conversation itself. 
+**Reason??**
+Well the reason is simple, I am not a very good phone buddy. Part of that can be attributed to my introvert nature. But more than that I am not comfortable with the mode of conversation itself.
 
-• If you are text chatting with someone you are actually replying to the text sent, with a text of your own (yeah, as if you didn't knew already :); there is no face or voice involved here. Plus this mode is slower than other modes (unless you are the chat ninja) so you get time to articulate your thoughts and continue/divert the conversation. 
+• If you are text chatting with someone you are actually replying to the text sent, with a text of your own (yeah, as if you didn't knew already :); there is no face or voice involved here. Plus this mode is slower than other modes (unless you are the chat ninja) so you get time to articulate your thoughts and continue/divert the conversation.
 
 • If you are talking face to face, the person is in front of you, so you see her/his reaction/expressions and can change the topic. Otherwise the next person can sense your awkwardness and bail you out of the situation. Also there are a lot of other things that can be done besides talking ;)
 
@@ -43,12 +42,12 @@ So, in short my point is that I usually avoid phone conversations. And if someon
 So, if you are getting a phone call from my side; remember **2 things**:
 
 1. This call is so important that I felt other modes won't suffice. Thank Me! And try to keep the conversation short so as to maximise your probability of getting a phone call in future.
-**AND/OR**  
+**AND/OR**
 2. You are one of the lucky fews with whom I can share a good phone conversation, without much problem. Congratulate yourself!
 
 Alright, now that you have read it. _"Yaar, kya baat hai. Tum to kabhi call hi nahin karte"_ .... DUBAARA MAT POOCHANA!
 
-**It's Not "My" Problem**  
+**It's Not "My" Problem**
 There are a few people who are gifted with the ability to talk over long times, so one doesn't really have to try hard to keep up the conversation. But it seems, it's not just my problem (although I may be the terminal case). I have heard many people repeating _"how is X, how is x (X's son), how is y, how is a, how is x"_ OR _"so what's up; what's going on; anything new; so what's up"_. I know these act as conversation starters/fillers, but if the conversation mainly consist of these phrases only then I think it is time to shut up and hang up.
 
 So, if you are also suffering from similar kind of inhibitions, (anonymously) comment and tell about your tragic story. Remember, don't consider yourself alone in this world. When God made man, he didn't realise that man will have to converse over phone.

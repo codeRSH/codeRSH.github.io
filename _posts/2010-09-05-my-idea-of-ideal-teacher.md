@@ -13,12 +13,11 @@ tags:
 - occasion
 modified_time: '2011-07-21T13:08:21.479+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6696589039546098839
-blogger_orig_url: https://blogrsh.blogspot.com/2010/09/my-idea-of-ideal-teacher.html
+blogger_orig_url: https://ravs.in/2010/09/my-idea-of-ideal-teacher.html
 ---
 
-> > _"Teachers teachers everywhere, everyone has to preach_
-
-> > _Teachers teachers everywhere, not a single to teach"_
+>  _"Teachers teachers everywhere, everyone has to preach_
+>  _Teachers teachers everywhere, not a single to teach"_
 
 I have been a student all my life. And as a result, have encountered teachers of every kind based on region, language, gender, color, and physical appearance. They being a teacher, these criteria does not matter also. But may be barring a few, most of them haven't been able to meet my high (impossible?) expectations. But this post is not about showing negativity and disappointment. This is about positivity and hope.. that may be aliens will teach us someday.
 
