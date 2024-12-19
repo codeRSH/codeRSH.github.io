@@ -1,14 +1,14 @@
 ---
 public: yes
 layout: post
-title: 'Experiment: Now Giving 50 Rs. Daily'
-date: '2012-12-29T21:12:00.002+05:30'
-author: RavS
+title: "Experiment: Now Giving 50 Rs. Daily"
+date: 2012-12-29T21:12:00.002+05:30
+author:
+  - RavS
 tags:
   - special
   - experiment
-  - writer's block
-modified_time: '2012-12-29T21:12:31.605+05:30'
+modified_time: 2012-12-29T21:12:31.605+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2545802305766027162
 blogger_orig_url: https://ravs.in/2012/12/experiment-now-giving-50-rs-daily
 ---

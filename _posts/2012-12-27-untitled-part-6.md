@@ -58,4 +58,4 @@ _"Oh, so all that conversation was a dream?"_, a deep sense of pain ran through 
 
 Half of the bus was now empty, but the bus seemed to have not moved from its position. I heard a commotion going on outside the bus, but I still did not know what the hell had happened. And more importantly, where on earth, did the girl go?
 
-**[\[To be continued\]](http://blogrsh.blogspot.com/2013/05/untitled-part-7.html)**
+**[\[To be continued\]]({% post_url 2013-05-19-untitled-part-7 %})**
