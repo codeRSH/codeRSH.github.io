@@ -5,7 +5,6 @@ title: 'Untitled: Part 2'
 date: '2012-02-17T19:58:00.000+05:30'
 author: RavS
 tags:
-  - story 
   - fiction
 modified_time: '2012-12-28T12:53:42.028+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7837469530999356904
@@ -26,4 +25,4 @@ As I watched him struggle to reach other passengers, I remembered one lady condu
 
 Anyway, back on the target! It was of no use standing at the rear end of the bus when the butterfly-clipped hair were towards the first end. I had to somehow reach there but the task was next to impossible. The crowd in between me and her was so much that even with my wiry body frame, I was sure I would suffocate to death, if I tried to move through it. But it was a risk worth taking! As I slowly started moving ahead, I could feel my pulse rate rising...
 
-[**\[to be continued\]**]({% post_url 2012-02-19-untitled-part-3 %})
+[**\[To be continued\]**]({% post_url 2012-02-19-untitled-part-3 %})

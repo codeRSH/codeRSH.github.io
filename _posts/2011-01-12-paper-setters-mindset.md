@@ -7,10 +7,7 @@ author: RavS
 tags:
 - teacher
 - exams
-- Frustration
 - me
-- thoughts
-- School
 - College
 - Friends
 modified_time: '2011-07-22T14:00:16.054+05:30'

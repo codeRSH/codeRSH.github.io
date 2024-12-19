@@ -7,9 +7,6 @@ author: RavS
 tags:
 - exams
 - buffalo
-- special
-- Funny
-- bhains
 - humor
 modified_time: '2011-07-30T20:27:19.482+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1042932962501099116

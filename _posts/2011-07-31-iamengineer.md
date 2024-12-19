@@ -6,16 +6,12 @@ date: '2011-07-31T09:44:00.000+05:30'
 author: RavS
 tags:
 - me
-- special
 - Computers
 - Engineer
-- sentimental
 modified_time: '2011-07-31T09:44:33.016+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-574239656774062627
 blogger_orig_url: https://ravs.in/2011/07/iamengineer.html
 ---
-
-
 
 Exactly an year ago I wrote my first blog post on [**buzzRSH**]({% post_url 2010-07-15-buzzrsh-when-it-all-started %}). It was titled **[I NO longer WANT to be an Engineer]({% post_url 2010-07-31-i-no-longer-want-to-be-engineer %})**. Well, 3 days ago my last semester result was announced and by God's grace I have been able to clear all the semesters without any hiccup. So today I am proud to say, **I AM ENGINEER !**
 

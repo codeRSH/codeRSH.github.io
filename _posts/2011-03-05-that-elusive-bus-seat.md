@@ -5,10 +5,7 @@ title: That Elusive (Bus) Seat
 date: '2011-03-05T21:20:00.004+05:30'
 author: RavS
 tags:
-- DTC
 - me
-- special
-- Blueline
 - Bus
 - Travelling
 modified_time: '2011-07-30T20:33:31.069+05:30'

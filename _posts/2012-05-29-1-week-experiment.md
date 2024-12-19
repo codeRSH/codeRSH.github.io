@@ -5,9 +5,8 @@ title: The 1 Week Experiment
 date: '2012-05-29T10:48:00.001+05:30'
 author: RavS
 tags:
-  - me 
-  - experiment 
-  - life 
+  - me
+  - experiment
   - Friends
 modified_time: '2012-05-29T10:48:32.739+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6833826295697495174
@@ -18,7 +17,7 @@ First thing first, I apologize to all those who were inconvenienced by my 'biza
 
 This post is about explaining why I conducted this experiment and what I achieved as a result of it. Let's talk about them one by one:
 
-**1\. Facebook:**
+**1. Facebook:**
 
 Less than an year ago, I simply **[hated Facebook]({% post_url 2011-06-24-why-i-dont-like-facebook-anyway %})** because :
 
@@ -38,7 +37,7 @@ Now, while I return to FB 'cured', I must be careful not to engage myself in it 
 
 ---
 
-**2\. Messages:**
+**2. Messages:**
 
 In past few months, the self-taken responsibility of updating friends about my whereabouts on a daily basis, has converted me into a text junkie. I found myself texting first thing in the morning and last thing at night, and so many times in between. In fact, it affected me so much that I was not talking to friends on phone for weeks at a stretch.
 
@@ -54,7 +53,7 @@ Going forward, I plan to send messages when I 'really' have something to say, an
 
 ---
 
-**3\. MS Lync** (Work place's internal communicator):
+**3. MS Lync** (Work place's internal communicator):
 
 The purpose of this tool in office is to instantly connect with people for 'official' tasks. But we end up using it to chat at work. And people who have ever tried to work peacefully would tell you how much difficult it is to work without distraction with IM open all the time.
 

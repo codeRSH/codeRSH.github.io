@@ -38,9 +38,18 @@ layout: base
     {%- endfor -%}
   </ul>
 
+  {% assign first_page_path = paginator.first_page_path | default: site.paginate_path | replace: 'page:num', '' |
+  replace: '//', '/' %}
+
+  {% assign last_page_path = site.paginate_path | replace: 'page:num', 'page' | append: paginator.total_pages | replace:
+  '/page/', '/page' | replace: '//', '/' %}
+
   {% if site.paginate %}
   <div class="pager">
     <ul class="pagination">
+      <li>
+        <a href="{{ first_page_path | relative_url }}" class="previous-page">First</a>
+      </li>
       {%- if paginator.previous_page %}
       <li>
         <a href="{{ paginator.previous_page_path | relative_url }}" class="previous-page">{{ paginator.previous_page
@@ -61,6 +70,9 @@ layout: base
         <div class="pager-edge">•</div>
       </li>
       {%- endif %}
+      <li>
+        <a href="{{ last_page_path | relative_url }}" class="next-page">Last</a>
+      </li>
     </ul>
   </div>
   {%- endif %}

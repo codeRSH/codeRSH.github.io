@@ -6,7 +6,6 @@ date: '2012-01-20T18:59:00.001+05:30'
 author: RavS
 tags: 
 - poem 
-- listen
 modified_time: '2012-01-20T19:03:26.778+05:30' 
 thumbnail: http://4.bp.blogspot.com/-uaMwLKKJBbI/TxlrsU6zQdI/AAAAAAAAA0E/mjLxrV\_U\_zk/s72-c/2163760529\_914e576884\_b.jpg
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6632877422675691630

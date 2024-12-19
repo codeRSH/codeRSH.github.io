@@ -13,7 +13,6 @@ blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-59674630501011136
 blogger_orig_url: https://ravs.in/2011/12/blog-post.html
 ---
 
-
 मत  आ  मेरे  पास , तुझे  मैं  बर्बाद  कर  दूंगा ।
 तेरी  हर  अच्छी  आदत  को  मैं  खराब  कर  दूंगा ।
 

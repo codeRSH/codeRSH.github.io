@@ -6,8 +6,6 @@ date: '2011-04-10T17:06:00.003+05:30'
 author: RavS
 tags:
 - me
-- raterrorists
-- Funny
 - family
 - humor
 - rats

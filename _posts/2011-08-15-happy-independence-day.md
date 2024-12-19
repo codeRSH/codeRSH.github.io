@@ -5,9 +5,7 @@ title: Happy? Independence Day
 date: '2011-08-15T20:56:00.004+05:30'
 author: RavS
 tags:
-- thoughts
 - India
-- occasion
 modified_time: '2011-08-15T21:02:28.646+05:30'
 thumbnail: http://farm3.static.flickr.com/2256/2214658212_9d9183226f_t.jpg
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2476190934837134510
@@ -34,4 +32,4 @@ So, I wonder if India would have been better served without Independence? Now, p
 
 I know you must have read such sceptical/negative articles before also. And you may have rubbished them (I have), ignored them, but there is a reason why a few people "genuinely" write such stuffs: for us, to think about it for a moment. We are just clinging on the hope that tomorrow we will progress, we will become better. But what about making today better?
 
-**Happy Independence day everybody!**
+**Happy Independence Day Everybody!**

@@ -6,10 +6,7 @@ date: '2011-08-12T13:52:00.002+05:30'
 author: RavS
 tags:
 - poem
-- special
-- Funny
 - hindi
-- life
 - humor
 modified_time: '2011-09-05T18:44:19.468+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4711204533647713937

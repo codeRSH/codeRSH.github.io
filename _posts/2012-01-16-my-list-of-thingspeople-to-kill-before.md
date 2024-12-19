@@ -5,9 +5,6 @@ title: My list of Things/People to kill before I die... this Doomsday
 date: '2012-01-16T21:13:00.000+05:30'
 author: RavS
 tags: 
-- '2012' 
-- Funny 
-- doomsday 
 - humor
 modified_time: '2012-01-16T22:57:12.321+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8030087956271454625

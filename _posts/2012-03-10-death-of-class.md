@@ -5,7 +5,6 @@ title: The Death of a Class
 date: '2012-03-10T11:53:00.001+05:30'
 author: RavS
 tags:
-  - sports 
   - me 
   - cricket 
   - RahulDravid

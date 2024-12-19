@@ -5,12 +5,10 @@ title: Kill me... So I don't feel terrorized
 date: '2011-07-15T20:23:00.003+05:30'
 author: RavS
 tags:
-- Frustration
 - special
 - India
 - politics
 - terror
-- sentimental
 modified_time: '2011-07-30T20:31:50.829+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6550616375379553223
 blogger_orig_url: https://ravs.in/2011/07/kill-me-so-i-dont-feel-terrorized.html

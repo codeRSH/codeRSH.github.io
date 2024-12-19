@@ -6,8 +6,6 @@ date: '2011-07-30T09:35:00.001+05:30'
 author: RavS
 tags:
 - me
-- special
-- metablogging
 - blog
 - Friends
 modified_time: '2011-07-31T09:38:00.243+05:30'

@@ -7,10 +7,7 @@ author: RavS
 tags:
   - me
   - special
-  - experiment
-  - metablogging
   - start
-  - blog
   - buzzRSH
   - Friends
 modified_time: '2011-07-30T19:20:02.568+05:30'

@@ -5,8 +5,8 @@ title: 'Experiment: Now Giving 50 Rs. Daily'
 date: '2012-12-29T21:12:00.002+05:30'
 author: RavS
 tags:
-  - special 
-  - experiment 
+  - special
+  - experiment
   - writer's block
 modified_time: '2012-12-29T21:12:31.605+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2545802305766027162
@@ -23,11 +23,11 @@ Starting January 1, I want to make it a habit of writing uninterrupted for half 
 
 Here is what I want to try:
 
-1.  I try to write for (at least) half an hour daily preferably between 10 to 10.30 am.
-2.  The Accountability Partner checks DAILY if I am maintaining the habit.
-3.  The AP will make sure to remind me daily block half an hour in the 'busy' schedule to write.
-4.  In case, I am not able to write for 30 mins (not a minute less), I give 50 Rs. to AP for that day, to be given to them at the end of the month as lump sum.
-5.  Though, I am not required to show it to the AP what I wrote.
+1. I try to write for (at least) half an hour daily preferably between 10 to 10.30 am.
+2. The Accountability Partner checks DAILY if I am maintaining the habit.
+3. The AP will make sure to remind me daily block half an hour in the 'busy' schedule to write.
+4. In case, I am not able to write for 30 mins (not a minute less), I give 50 Rs. to AP for that day, to be given to them at the end of the month as lump sum.
+5. Though, I am not required to show it to the AP what I wrote.
 
 Of course, there is a scope of cheating here. But then there has to be a degree of trust for this experiment to pass. And while 50 Rs. in a day may not be that big an amount, totalling it for 30 days will make it 1500 which does become a significant amount for me.
 

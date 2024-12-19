@@ -6,7 +6,6 @@ date: '2011-08-18T23:30:00.000+05:30'
 author: RavS
 tags:
 - me
-- thoughts
 - India
 - Corruption
 modified_time: '2011-08-22T11:07:23.046+05:30'

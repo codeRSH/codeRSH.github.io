@@ -5,7 +5,6 @@ title: 'Untitled: Part 3'
 date: '2012-02-19T21:07:00.000+05:30'
 author: RavS
 tags:
-  - story 
   - fiction
 modified_time: '2012-12-28T12:56:07.786+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-733382072726965694
@@ -14,7 +13,7 @@ blogger_orig_url: https://ravs.in/2012/02/untitled-part-3
 
 **[\[Previous Part\]]({% post_url 2012-02-17-untitled-part-2 %})**
 
-Reaching the front end of the bus was nothing short of an adventure in itself. If anyone ever wanted to research on how much flexible a human body can be, then they should try travelling in one of these Indian buses. But I have had plenty of such experiences **[travelling in Delhi buses]({% post_url 2011-09-17-10 %})**, that I managed to do the impossible. After nudging the elbows, knees and feet of about 2 dozen men and women I somehow reached my 'destination' (destiny?).
+Reaching the front end of the bus was nothing short of an adventure in itself. If anyone ever wanted to research on how much flexible a human body can be, then they should try travelling in one of these Indian buses. But I have had plenty of such experiences **[travelling in Delhi buses]({% post_url 2011-09-17-10-DTC %})**, that I managed to do the impossible. After nudging the elbows, knees and feet of about 2 dozen men and women I somehow reached my 'destination' (destiny?).
 
 On any other day, I would have whined about how overcrowded Indian buses are or how overcrowded India itself is, or moaned about how easy it is for women to travel in buses with **[seats always reserved]({% post_url 2011-03-05-that-elusive-bus-seat %})** for them. More so in this city where I found that seats are reserved for women not on one but both sides of the bus! But not today. Today my mind was busy with something more useful!
 
@@ -30,4 +29,4 @@ So, I tried to memorize all the features of her round little face: the lips, the
 
 Suddenly, I realized that the phone in my pocket had been vibrating for sometime now. As I reached to take up the call, I knew who would be calling me at this time...
 
-[**\[to be continued\]**]({% post_url 2012-02-26-untitled-part-4-prologue %})
+[**\[To be continued\]**]({% post_url 2012-02-26-untitled-part-4-prologue %})

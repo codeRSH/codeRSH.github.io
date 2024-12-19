@@ -6,7 +6,6 @@ date: '2012-03-04T15:50:00.001+05:30'
 author: RavS
 tags:
   - poem 
-  - inspiration
 modified_time: '2012-03-04T15:52:01.013+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7540651259386698241
 blogger_orig_url: https://ravs.in/2012/03/job-well-done
@@ -31,3 +30,5 @@ the only noise that was impeding between the ears,
 was of my own conscience.  
 It was shouting, voice mixed with relief and excitement,  
 "Job well done, Job well done, Job well done"...
+
+~ RavS

@@ -7,7 +7,6 @@ author: RavS
 tags:
 - me
 - thoughts
-- holiday homework
 modified_time: '2011-07-03T08:47:25.931+05:30'
 thumbnail: http://farm4.static.flickr.com/3042/2460522850_a95c6356db_t.jpg
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3199563697897766059

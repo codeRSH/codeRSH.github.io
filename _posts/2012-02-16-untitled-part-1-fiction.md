@@ -6,7 +6,6 @@ date: '2012-02-16T00:45:00.000+05:30'
 author: RavS
 tags:
   - special 
-  - story 
   - fiction 
   - first
 modified_time: '2012-12-28T12:49:36.007+05:30'
@@ -24,6 +23,6 @@ So, that was the little one sided meeting I had and from here onwards we were to
 
 The bus would have moved at least 50 metres away when I started my sprint, but thank God for that old _'khataara'_ bus that I hopped into it within next 50 metres. As I struggled to catch my breath while hanging at the gate steps, I realized that other passengers were staring at me, passing me that weird "what a lunatic, was he sleeping when the bus was standing at the stop?" look.
 
-There was also that troubling thought of not reaching my own destination on time, but I chose to throw those _useless_ thoughts out of window, and searched frantically inside the bus. There was that teenaged couple standing near the gate talking teenaged-nonsense, there was that aunty haggling with the conductor over the petty fair just ahead of me, and also that old man looking out of the window with his glum eyes... but where was she? Did I... Did I hop into the wrong bus?  
-**  
-[\[To be continued\]]({% post_url 2012-02-17-untitled-part-2 %})**
+There was also that troubling thought of not reaching my own destination on time, but I chose to throw those _useless_ thoughts out of window, and searched frantically inside the bus. There was that teenaged couple standing near the gate talking teenaged-nonsense, there was that aunty haggling with the conductor over the petty fair just ahead of me, and also that old man looking out of the window with his glum eyes... but where was she? Did I... Did I hop into the wrong bus?
+
+[**\[To be continued\]**]({% post_url 2012-02-17-untitled-part-2 %})

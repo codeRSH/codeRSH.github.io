@@ -5,8 +5,6 @@ title: Happy BuzzDay!!
 date: '2011-02-09T16:13:00.004+05:30'
 author: RavS
 tags:
-- Buzz
-- Funny
 - birthday
 - Google
 - Friends

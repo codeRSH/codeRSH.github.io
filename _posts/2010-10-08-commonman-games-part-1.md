@@ -7,9 +7,8 @@ author: RavS
 tags:
 - me
 - India
-- Commonwealth Games
+- CommonwealthGames
 - Friends
-- diary
 - Travelling
 modified_time: '2011-07-21T13:38:30.551+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6777624393113966590

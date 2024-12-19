@@ -5,8 +5,6 @@ title: When Friends Become a Problem
 date: '2012-08-05T15:31:00.000+05:30'
 author: RavS
 tags:
-  - Problems 
-  - Frustration 
   - me 
   - Friends
 modified_time: '2012-08-05T15:31:07.315+05:30'

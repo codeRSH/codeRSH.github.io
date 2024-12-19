@@ -47,4 +47,6 @@ Alright, let's not get more philosophical and come back to the actual experime
 
 1. I am addicted to Internet, but not to the extent that I can't live without it for a day (or even more).
 2. I still didn't achieve as much as I could have in the absence of Internet. So, Internet is just a means, the real culprit is Me. If I want to make changes in my life, I need to take the responsibility and stop blaming Internet (and other distractions).
-3. Overall the experiment was successful (if we ignore the 15 mins error). **Next experiment:** _No system for a day!_
+3. Overall the experiment was successful (if we ignore the 15 mins error). 
+ 
+**Next experiment:** _No system for a day!_

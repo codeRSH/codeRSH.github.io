@@ -5,7 +5,6 @@ title: Not Your Wife’s Daughter
 date: '2011-06-26T20:44:00.003+05:30'
 author: RavS
 tags:
-- thoughts
 - India
 - daughter
 modified_time: '2011-07-09T11:50:45.786+05:30'

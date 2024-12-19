@@ -5,12 +5,11 @@ title: Reserved Thoughts
 date: '2011-09-06T21:50:00.000+05:30'
 author: RavS
 tags:
-- Frustration
-- thoughts
 - College
 - education
 - reservation
 - Friends
+- Frustration
 modified_time: '2011-09-06T21:50:58.024+05:30'
 thumbnail: http://farm4.static.flickr.com/3274/3107780632_70ff6d0235_t.jpg
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1713632573632613466

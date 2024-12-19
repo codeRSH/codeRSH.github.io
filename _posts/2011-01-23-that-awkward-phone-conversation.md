@@ -7,7 +7,6 @@ author: RavS
 tags:
 - me
 - phone
-- PR
 - Friends
 modified_time: '2011-07-30T20:27:03.731+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4605945657156242422

@@ -5,9 +5,8 @@ title: An year long affair... with Mobile Phone
 date: '2012-12-28T19:31:00.000+05:30'
 author: RavS
 tags:
-  - Problems
   - me
-  - mobiles
+  - mobile
   - habit
 modified_time: '2012-12-28T19:31:09.619+05:30'
 thumbnail: http://1.bp.blogspot.com/-JTtUFJvp7To/UN2ljEoKgOI/AAAAAAAABHc/jb6dAfNS-Mk/s72-c/12.jpg

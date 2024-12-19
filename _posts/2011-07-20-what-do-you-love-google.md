@@ -9,7 +9,6 @@ tags:
 - technology
 - Google
 - Computers
-- Love
 modified_time: '2011-07-22T20:13:33.076+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4748913429479236393
 blogger_orig_url: https://ravs.in/2011/07/what-do-you-love-google.html

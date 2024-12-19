@@ -5,12 +5,9 @@ title: Good bye XP... Will miss you
 date: '2010-12-22T15:40:00.000+05:30'
 author: RavS
 tags:
-- Linux
 - me
-- XP
-- advertisements
 - Windows
-- nostalgia
+- Linux
 - Computers
 modified_time: '2011-07-22T15:44:22.299+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4907129830478977273

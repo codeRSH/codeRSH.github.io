@@ -6,9 +6,7 @@ date: '2011-08-08T14:10:00.010+05:30'
 author: RavS
 tags:
 - me
-- Twitter
 - Friends
-- Love
 modified_time: '2011-08-09T07:17:37.133+05:30'
 thumbnail: http://3.bp.blogspot.com/-YPl7ipgubno/Tj1HIXYohHI/AAAAAAAAAn0/8S6wCngtwq8/s72-c/Version-Diversion.png
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7038849525126858033

@@ -6,12 +6,10 @@ date: '2011-09-11T10:00:00.000+05:30'
 author: RavS
 tags:
 - me
-- occasion
 modified_time: '2011-09-11T10:00:55.223+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6162559482391314356
 blogger_orig_url: https://ravs.in/2011/09/911-promises-review.html
 ---
-
 
 Today is 9/11 yet again and it will be gross injustice to the **[previous 9/11 post]({% post_url 2010-09-11-911-promises-on-911 %})** if I don't review it today.
 

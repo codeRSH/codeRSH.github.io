@@ -7,8 +7,6 @@ author: RavS
 tags:
 - me
 - experiment
-- writer's block
-- crap
 modified_time: '2011-07-15T20:28:25.961+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1505891938748560108
 blogger_orig_url: https://ravs.in/2011/07/crap-worth-500-words.html

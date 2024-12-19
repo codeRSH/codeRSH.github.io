@@ -6,9 +6,7 @@ date: '2011-06-24T19:08:00.001+05:30'
 author: RavS
 tags:
 - me
-- PR
 - Internet
-- Facebook
 - Friends
 modified_time: '2011-06-24T19:59:51.924+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1052151689831015951

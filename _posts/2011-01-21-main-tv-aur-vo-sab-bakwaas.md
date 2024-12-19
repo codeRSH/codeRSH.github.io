@@ -5,7 +5,6 @@ title: Main, TV aur Vo... (sab bakwaas)
 date: '2011-01-21T00:18:00.005+05:30'
 author: RavS
 tags:
-- Frustration
 - me
 - TV
 modified_time: '2011-07-09T11:50:21.210+05:30'

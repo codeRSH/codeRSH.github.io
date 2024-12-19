@@ -8,9 +8,7 @@ tags:
   - me 
   - OpenLetter 
   - family 
-  - Dad 
   - Love 
-  - sentimental
 modified_time: '2012-12-30T15:46:23.962+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1715360972772671768
 blogger_orig_url: https://ravs.in/2012/04/an-open-letter-to-my-dad

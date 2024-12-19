@@ -5,9 +5,6 @@ title: Bluelines. Please don't go. Please...
 date: '2010-12-21T08:58:00.001+05:30'
 author: RavS
 tags:
-- DTC
-- thoughts
-- Blueline
 - nostalgia
 - humor
 - Bus

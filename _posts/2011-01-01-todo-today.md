@@ -6,7 +6,7 @@ date: '2011-01-01T15:06:00.003+05:30'
 author: RavS
 tags:
 - me
-- new year
+- newYear
 - experiment
 - humor
 - todo

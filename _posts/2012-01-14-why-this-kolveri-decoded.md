@@ -5,7 +5,6 @@ title: 'Why This Kolaveri: De(coded)'
 date: '2012-01-14T18:42:00.002+05:30'
 author: RavS
 tags: 
-- kolaveri 
 - special 
 - humor 
 - song

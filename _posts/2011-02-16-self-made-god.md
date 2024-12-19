@@ -6,10 +6,7 @@ date: '2011-02-16T15:31:00.019+05:30'
 author: RavS
 tags:
 - me
-- special
-- confusion
 - God
-- Faith
 - Religion
 modified_time: '2011-07-30T20:28:45.612+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2317824856906773783

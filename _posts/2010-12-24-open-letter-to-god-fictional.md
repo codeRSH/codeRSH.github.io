@@ -5,9 +5,8 @@ title: An open letter.. to God (fictional)
 date: '2010-12-24T15:32:00.000+05:30'
 author: RavS
 tags:
-- Open Letter
+- OpenLetter
 - special
-- Funny
 - birthday
 - Christmas
 - humor

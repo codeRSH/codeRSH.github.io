@@ -5,8 +5,6 @@ title: AdsAreTeasements
 date: '2011-01-09T14:04:00.000+05:30'
 author: RavS
 tags:
-- sports
-- Frustration
 - me
 - TV
 - advertisements

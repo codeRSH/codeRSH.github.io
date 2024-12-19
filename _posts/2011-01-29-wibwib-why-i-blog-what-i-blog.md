@@ -6,9 +6,6 @@ date: '2011-01-29T01:13:00.000+05:30'
 author: RavS
 tags:
 - me
-- why
-- special
-- metablogging
 - blog
 modified_time: '2011-01-29T01:13:02.590+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4467950861937915691

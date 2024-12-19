@@ -49,5 +49,5 @@ The kind of news (full of negativity: corruption, scandals, scams) that I get to
 
 **\*Moral\***
 
-Newspapers have vastly improved my reading skills. And it goes without saying I have learnt a lot about the world from the vast amount of information I have consumed through them. But I have also learned a few lessons for life from this habit. It's that we shouldn't try to hold on to the stuffs. There will always be more news, more videos, more music, more movies to watch (even better than the current ones). Just be content with what can consume within the time you have. That would give real peace of mind.  
+Newspapers have vastly improved my reading skills. And it goes without saying I have learnt a lot about the world from the vast amount of information I have consumed through them. But I have also learned a few lessons for life from this habit. It's that we shouldn't try to hold on to the stuffs. There will always be more news, more videos, more music, more movies to watch (even better than the current ones). Just be content with what can consume within the time you have. That would give real peace of mind.
 And, by going away from this habit, I have also learnt that there is almost nothing in this world that I _can't live without_ (more about it in some other post).

@@ -6,10 +6,7 @@ date: '2011-07-28T16:29:00.016+05:30'
 author: RavS
 tags:
 - me
-- special
-- battle royale
 - Ravi
-- RavS
 modified_time: '2011-07-30T20:30:55.155+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2437024381047201961
 blogger_orig_url: https://ravs.in/2011/07/battle-royale-ravs-vs-ravi.html

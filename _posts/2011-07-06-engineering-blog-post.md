@@ -14,8 +14,6 @@ blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-39876910990369334
 blogger_orig_url: https://ravs.in/2011/07/engineering-blog-post.html
 ---
 
-
-
 This is another "meta-blogging" post.
 
 A lot of people are bloggers. I don't know how do they blog, how they get ideas and how they articulate them. But I think I know what's my process of blogging is.Writing a post, for me, is a process that has certain distinct phases and at least 2 passes: 

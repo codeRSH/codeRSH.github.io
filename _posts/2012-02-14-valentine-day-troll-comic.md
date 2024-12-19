@@ -5,8 +5,6 @@ title: Valentine Day (Troll Comic)
 date: '2012-02-14T20:06:00.000+05:30'
 author: RavS
 tags: 
-- special 
-- Funny 
 - comic 
 - first
 modified_time: '2012-02-14T20:06:18.928+05:30' 

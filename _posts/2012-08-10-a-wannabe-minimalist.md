@@ -5,11 +5,9 @@ title: A Wannabe Minimalist
 date: '2012-08-10T11:31:00.000+05:30'
 author: RavS
 tags:
-  - me 
-  - minimalism 
-  - experiment 
-  - life 
-  - simplicity
+  - me
+  - minimalism
+  - experiment
 modified_time: '2012-08-10T11:31:48.322+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6415674125354649477
 blogger_orig_url: https://ravs.in/2012/08/a-wannabe-minimalist

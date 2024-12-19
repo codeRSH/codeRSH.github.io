@@ -6,9 +6,6 @@ date: '2012-01-22T20:35:00.000+05:30'
 author: RavS
 tags:
   - poem 
-  - first 
-  - Love 
-  - translated
 modified_time: '2012-01-22T20:41:07.829+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8175489913628941322
 blogger_orig_url: https://ravs.in/2012/01/it-feels-good
@@ -16,8 +13,7 @@ blogger_orig_url: https://ravs.in/2012/01/it-feels-good
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://www.flickr.com/photos/megnphotography/5584533992/" style="margin-left: auto; margin-right: auto;" title="92/365 by meghannash, on Flickr"><img alt="92/365" height="400" src="http://farm6.staticflickr.com/5269/5584533992_c381dfc8f1.jpg" width="380"></a></td></tr><tr><td class="tr-caption" style="text-align: center;">From Flickr. Courtesy Meghannash.</td></tr></tbody></table>
 
-The faces that you make,
-
+The faces that you make,  
 makes me feel good.  
 And when a smile comes on that very face,  
 it feels good.
