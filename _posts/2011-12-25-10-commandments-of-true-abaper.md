@@ -12,8 +12,6 @@ thumbnail: http://2.bp.blogspot.com/-iL9TnoXxM7w/TvnxFN0DoeI/AAAAAAAAAs0/UdjVt72
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8500700570988699300
 blogger_orig_url: https://ravs.in/2011/12/10-commandments-of-true-abaper.html
 ---
-
-
 1. Thou shall write the actual code for 1 hour and spend next 5 hours on commenting and aligning the code.
 ![blog-abap-command1](../../assets/blog-abap-command1.JPG)
 

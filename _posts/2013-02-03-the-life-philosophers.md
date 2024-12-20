@@ -15,11 +15,7 @@ blogger_orig_url: https://ravs.in/2013/02/the-life-philosophers.html
 ---
 
 In yet **[another attempt]({% post_url 2013-01-27-ethics-absolute-or-relative %})** to crowd-source views on a common topic, I asked people (known to me):  
-  
-
 _"What philosophy/rule that you follow to live your life? Is there any idea at the core of your way of living"._ 
-
-  
 
 And **[as always]({% post_url 2011-08-02-superstitious-views %})**, I got some really interesting (and not so interesting!) views. This time I have kept the contributions anonymous (as far as possible), to make it more interesting. I have presented them (almost) unedited so as to show what people think about their life. Thank you all who contributed. It of course, wasn't possible without you. Indulge!
 
@@ -68,8 +64,6 @@ _"'Average' is my philosophy....everything is average (neither good nor bad)"_
 _"Heaven and hell are two things.its depends upon you what you want....make life like heaven."_  
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://www.flickr.com/photos/helico/362481790/" style="margin-left: auto; margin-right: auto;" title="LEGO® philosophers by Helico, on Flickr"><img alt="LEGO® philosophers" height="287" src="http://farm1.staticflickr.com/124/362481790_d7c36bc88a.jpg" width="500"></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Lego Philosophers from Helico. Taken under CC license.</td></tr></tbody></table>
-
-  
 
 _"Philosophy/Rule : Work hard,leave past, live in present & wait for d future._
 

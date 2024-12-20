@@ -40,6 +40,4 @@ I myself have been a teacher in some sense (teaching my brothers, and being a pa
 2. **Sexi(st)**: Its been a long since boys have been victims of discrimination in the class. Its time girls should also get the know what it is like to be beaten, just because you are not a boy. Grr..
 
 3. **Charming**: There I said it. She doesn't know anything about the subject? No problem. She can't solve even the basics of problems? I will manage. She doesn't think she is qualified to be a teacher? You are in majority, mam! All I want is that she (here she implies she) has a nice personality, good looking face and sweet voice. If you can't be easy on brain then just be easy on eyes and ears. Just don't make the 50 mins of an already boring class a torture for me.
-
-
 **Happy Teachers' Day!**

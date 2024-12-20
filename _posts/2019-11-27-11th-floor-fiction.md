@@ -78,8 +78,6 @@ The toy's faced turned sombre. "THEN DIE!".
   
 All of a sudden, the toy's hands grew and  pulled the rug under Chirag's feet. Chirag slipped down the balcony. From 11th floor...  
   
-  
-
 \---
 
   

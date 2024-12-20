@@ -64,6 +64,4 @@ Well, I don't know....
 Long back a great guy told me "_An eye for an eye makes the whole world Bhains ki eye_" (that guy was a drug addict and died prematurely).  
   
 Let's forget the past. Stop obsessing  over who hit your bhains with an Andaa. Let's have truce now... Friends?  
-  
-
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-6Qp7Z4QjjxM/Uv8ZuQ4q3aI/AAAAAAAADpY/8IckO8qB_-M/s1600/IMG_0582a.JPG" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://1.bp.blogspot.com/-6Qp7Z4QjjxM/Uv8ZuQ4q3aI/AAAAAAAADpY/8IckO8qB_-M/s1600/IMG_0582a.JPG" height="456" width="640"></a></td></tr><tr><td class="tr-caption" style="text-align: center;">'Colored' Lord Krishna with all 'White' animals. I take inspiration from him for racism. Picture taken in a temple of AP.</td></tr></tbody></table>

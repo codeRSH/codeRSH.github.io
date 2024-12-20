@@ -16,8 +16,6 @@ blogger_orig_url: https://ravs.in/2014/01/ek-ladki-ko-dekha-to-aisa-laga-reprise
 
 **Note:** _The following is a "RavS & Pro - duction". Republished from FB notes. It's so awesome that it deserved to be posted on the main blog instead of [**1000Sher**](http://1000sher.tumblr.com/), and didn't need the usual transliteration in Hindi and translation in English. It's perfect just the way it is._  
   
-  
-
 **The video of the original song. It was fairly good too.** 
 
   

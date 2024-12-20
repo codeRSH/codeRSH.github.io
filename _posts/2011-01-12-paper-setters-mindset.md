@@ -14,8 +14,6 @@ modified_time: '2011-07-22T14:00:16.054+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4789353560619667510
 blogger_orig_url: https://ravs.in/2011/01/paper-setters-mindset.html
 ---
-
-
 _"Let her/him attempt this paper and pass it"_
 _"Did they copy the paper from another university?"_
 _"WTF was that, was the paper of some other subject?"_

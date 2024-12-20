@@ -1,15 +1,15 @@
 ---
 public: yes
 layout: post
-title: "जन्मदिन मुबारक हो बेटा "
-date: 2014-09-11T17:19:00.000+05:30
-author:
-  - RavS
-tags:
-  - story
-  - 9/11
-modified_time: 2014-09-15T10:45:51.305+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6747714090021285156
+title: 'जन्मदिन मुबारक हो बेटा '
+date: '2014-09-11T17:19:00.000+05:30'
+author: RavS
+tags: 
+- 9/11
+- story 
+- hindi
+modified_time: '2014-09-15T10:45:51.305+05:30' 
+blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6747714090021285156 
 blogger_orig_url: https://ravs.in/2014/09/blog-post.html
 ---
 
