@@ -23,7 +23,7 @@ author:
 title: RavS' Site
 # description: >- # this means to ignore newlines until "baseurl:"
 description: "© 2025 The RavS' Site.
-            \n Github Pages.\n Minima v3 Theme."
+            \n Jekyll. Minima v3."
 
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://ravs.in' # the base hostname & protocol for your site, e.g. http://example.com
