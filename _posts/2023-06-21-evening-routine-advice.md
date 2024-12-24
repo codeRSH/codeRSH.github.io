@@ -1,6 +1,6 @@
 ---
-title: "Evening Routine Advice"
 public: yes
+title: Evening Routine Advice
 date: 2023-06-21
 tags: advice
 layout: post

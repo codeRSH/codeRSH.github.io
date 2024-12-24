@@ -1,6 +1,6 @@
 ---
-title: "New Look, New Style"
 public: yes
+title: New Look, New Style
 date: 2023-06-01
 tags: [blog, new, special]
 layout: post

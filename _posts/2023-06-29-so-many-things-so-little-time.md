@@ -1,6 +1,6 @@
 ---
-title: "So Many Things, So Little Time"
 public: yes
+title: So Many Things, So Little Time
 date: 2023-06-29
 tags:
 - me

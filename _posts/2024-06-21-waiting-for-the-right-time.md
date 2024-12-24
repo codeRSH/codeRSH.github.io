@@ -1,6 +1,6 @@
 ---
-title: "Waiting for the 'Right Time'"
 public: yes
+title: Waiting for The Right Time
 date: 2024-06-21
 tags: me
 layout: post

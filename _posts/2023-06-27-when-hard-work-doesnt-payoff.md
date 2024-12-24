@@ -1,6 +1,6 @@
 ---
-title: "When Hard Work Doesn't Pay Off"
 public: yes
+title: "When Hard Work Doesn't Payoff"
 date: 2023-06-27
 tags:
 - me
