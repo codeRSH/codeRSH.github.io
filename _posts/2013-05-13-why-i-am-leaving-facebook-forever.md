@@ -5,7 +5,7 @@ title: Why I am Leaving Facebook... Forever.
 date: '2013-05-13T22:20:00.000+05:30'
 author: RavS
 tags:
-- Facebook
+- facebook
 modified_time: '2013-05-19T22:48:16.424+05:30'
 thumbnail: http://4.bp.blogspot.com/-SGXxPUVA4Tg/UZkJKeUOtQI/AAAAAAAABjg/jCbBQ9bOAJc/s72-c/Ra+Vi.png
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4641351896907293584

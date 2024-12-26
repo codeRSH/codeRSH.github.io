@@ -6,7 +6,6 @@ date: '2014-01-03T00:58:00.000+05:30'
 author: RavS
 tags:
 - newYear
-- traditions
 modified_time: '2014-01-03T00:58:00.419+05:30'
 thumbnail: http://1.bp.blogspot.com/-a2JACTGGQeQ/UsRzF4LdoNI/AAAAAAAADdM/JMBgrYyHNnc/s72-c/media-20140101.jpg
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-184554846733455456

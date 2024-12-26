@@ -7,7 +7,6 @@ author:
   - RavS
 tags:
   - special
-  - Hinglish
   - first
   - satire
 modified_time: 2014-02-15T16:08:11.746+05:30

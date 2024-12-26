@@ -5,7 +5,6 @@ title: Last post of the Streak.
 date: '2019-11-30T00:32:00.000+05:30'
 author: RavS
 tags:
-- me
 - writing
 modified_time: '2019-12-01T00:36:14.754+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-590995921017551214

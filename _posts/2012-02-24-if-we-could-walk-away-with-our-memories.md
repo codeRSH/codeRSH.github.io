@@ -6,7 +6,7 @@ date: '2012-02-24T23:10:00.000+05:30'
 author: RavS
 tags:
   - poem 
-  - Friends 
+  - friends 
 modified_time: '2012-02-24T23:10:00.806+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7380220309268162779
 blogger_orig_url: https://ravs.in/2012/02/if-we-could-walk-away-with-our-memories

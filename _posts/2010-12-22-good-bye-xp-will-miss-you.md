@@ -5,7 +5,6 @@ title: Good bye XP... Will miss you
 date: '2010-12-22T15:40:00.000+05:30'
 author: RavS
 tags:
-- me
 - Windows
 - Linux
 - Computers

@@ -5,7 +5,6 @@ title: The Voice of a Writer
 date: '2019-11-06T23:21:00.003+05:30'
 author: RavS
 tags:
-- me
 - writing
 modified_time: '2019-11-06T23:21:32.029+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7101359952320813473

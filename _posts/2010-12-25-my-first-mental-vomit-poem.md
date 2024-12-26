@@ -5,7 +5,6 @@ title: My First Mental Vomit [Poem]
 date: '2010-12-25T15:13:00.000+05:30'
 author: RavS
 tags:
-- me
 - poem
 - special
 - Christmas

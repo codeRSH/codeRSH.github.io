@@ -5,9 +5,7 @@ title: 'Newspapers: A Habit lost.'
 date: '2012-12-25T21:30:00.001+05:30'
 author: RavS
 tags:
-  - me
   - habit
-  - newspaper
 modified_time: '2012-12-25T22:03:34.564+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3715303503359538882
 blogger_orig_url: https://ravs.in/2012/12/newspapers-habit-lost

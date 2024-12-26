@@ -5,9 +5,7 @@ title: Me and Autowallah(s)
 date: '2010-10-20T16:12:00.003+05:30'
 author: RavS
 tags:
-- me
-- auto
-- Travelling
+- travelling
 modified_time: '2011-07-22T16:16:22.829+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1153454573277678239
 blogger_orig_url: https://ravs.in/2010/10/me-and-autowallahs.html

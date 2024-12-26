@@ -5,7 +5,6 @@ title: 'Now Introducing: 1000 Sher'
 date: '2012-06-25T23:50:00.000+05:30'
 author: RavS
 tags:
-  - me 
   - special 
   - 1000sher 
   - start

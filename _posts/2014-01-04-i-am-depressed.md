@@ -5,7 +5,6 @@ title: I am depressed
 date: '2014-01-04T01:51:00.000+05:30'
 author: RavS
 tags:
-- me
 - depression
 modified_time: '2014-01-04T01:51:00.339+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6869943269363871746

@@ -6,10 +6,9 @@ date: 2014-04-27T10:22:00.000+05:30
 author:
   - RavS
 tags:
-  - me
   - birthday
   - racism
-  - Friend
+  - friends
 modified_time: 2014-04-27T10:22:05.329+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7583026265449000129
 blogger_orig_url: https://ravs.in/2014/04/happy-birthday-kaalu-or-why-am-i-such.html

@@ -5,9 +5,8 @@ title: So What do You Think?
 date: '2011-03-14T09:26:00.001+05:30'
 author: RavS
 tags:
-- thoughts
-- Funny
-- Friends
+- humor
+- friends
 modified_time: '2011-07-09T11:56:28.610+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3906244343393813766
 blogger_orig_url: https://ravs.in/2011/03/so-what-do-you-think.html

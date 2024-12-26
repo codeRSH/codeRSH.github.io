@@ -5,9 +5,8 @@ title: The 1 Week Experiment
 date: '2012-05-29T10:48:00.001+05:30'
 author: RavS
 tags:
-  - me
   - experiment
-  - Friends
+  - friends
 modified_time: '2012-05-29T10:48:32.739+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6833826295697495174
 blogger_orig_url: https://ravs.in/2012/05/1-week-experiment

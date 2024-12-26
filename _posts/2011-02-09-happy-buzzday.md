@@ -6,8 +6,8 @@ date: '2011-02-09T16:13:00.004+05:30'
 author: RavS
 tags:
 - birthday
-- Google
-- Friends
+- google
+- friends
 modified_time: '2011-07-30T20:29:01.320+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3882176834605883984
 blogger_orig_url: https://ravs.in/2011/02/happy-buzzday.html

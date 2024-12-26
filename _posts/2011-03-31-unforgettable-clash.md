@@ -8,7 +8,7 @@ tags:
 - worldCup
 - India
 - cricket
-- Friends
+- friends
 modified_time: '2011-03-31T01:00:31.698+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5159351537652864662
 blogger_orig_url: https://ravs.in/2011/03/unforgettable-clash.html

@@ -40,4 +40,4 @@ At a distance, he saw a yellow figure with something of red color at the top com
 
 Aakash looked at his adjacent seat, still stunned at what just happened. He always made sure to lock all the doors while driving. How was the door of his car even open?
 
-**[\[Continued\]]({% post_url 2014-11-19-but-there-is-just-one-little-problem %})**
+**[\[Continued\]]({% post_url 2014-11-19-little-problem-2 %})**

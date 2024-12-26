@@ -6,8 +6,6 @@ date: 2014-05-18T13:35:00.000+05:30
 author:
   - RavS
 tags:
-  - me
-  - lazy
   - advice
 modified_time: 2014-05-18T13:35:15.648+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1290579241198256054

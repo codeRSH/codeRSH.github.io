@@ -5,9 +5,6 @@ title: 'Battle Royale: RavS 3.5 Vs RavS'' Bro 3.5'
 date: '2011-07-09T10:35:00.000+05:30'
 author: RavS
 tags:
-- me
-- battle royale
-- bro
 - nostalgia
 - humor
 - RavS

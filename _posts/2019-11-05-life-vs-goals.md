@@ -6,11 +6,8 @@ date: 2019-11-05T23:16:00.002+05:30
 author:
   - RavS
 tags:
-  - me
   - life
-  - Life
-  - Goals
-  - block
+  - goals
   - writing
 modified_time: 2019-11-05T23:17:06.709+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4084664495592251685

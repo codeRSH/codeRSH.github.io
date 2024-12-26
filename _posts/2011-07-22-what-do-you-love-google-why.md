@@ -5,9 +5,8 @@ title: 'What do you Love?: Google (Why)'
 date: '2011-07-22T19:56:00.001+05:30'
 author: RavS
 tags:
-- me
 - technology
-- Google
+- google
 modified_time: '2011-07-22T20:14:27.766+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2400745005356273609
 blogger_orig_url: https://ravs.in/2011/07/what-do-you-love-google-why.html

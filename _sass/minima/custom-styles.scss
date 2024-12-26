@@ -30,3 +30,35 @@ h1 {
 p {
   text-align: justify;
 }
+
+/* Add this to your assets/main.scss file */
+.tag-cloud {
+  margin: 1em 0;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.tag-cloud-item {
+  display: inline-block;
+  margin: 0.15em;
+  padding: 0.2em 0.4em;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.tag-cloud-item:hover {
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+/* More gradual size progression */
+.tag-cloud-item[data-weight="1"] { font-size: 0.9em; }
+.tag-cloud-item[data-weight="2"] { font-size: 1.1em; }
+.tag-cloud-item[data-weight="3"] { font-size: 1.3em; }
+.tag-cloud-item[data-weight="4"] { font-size: 1.5em; }
+.tag-cloud-item[data-weight="5"] { font-size: 1.7em; }
+
+.tag-count {
+  font-size: 0.8em;
+  color: #6c757d;
+}

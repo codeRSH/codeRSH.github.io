@@ -5,7 +5,6 @@ title: My Idol. Take 2
 date: '2011-01-26T22:18:00.002+05:30'
 author: RavS
 tags:
-- me
 - Idol
 modified_time: '2011-07-09T11:46:57.849+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2604159779235615325

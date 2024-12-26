@@ -5,9 +5,8 @@ title: 'AnOSM Blog Story: After One Year'
 date: '2011-09-10T23:27:00.000+05:30'
 author: RavS
 tags:
-- me
 - special
-- blog
+- metablogging
 modified_time: '2011-09-10T23:27:15.486+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7990917628232917066
 blogger_orig_url: https://ravs.in/2011/09/anosm-blog-story-after-one-year.html

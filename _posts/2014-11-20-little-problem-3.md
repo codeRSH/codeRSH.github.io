@@ -1,7 +1,7 @@
 ---
 public: yes
 layout: post
-title: But there is just one little problem... \[Part 3\]
+title: But there is just one little problem... Part-3
 date: '2014-11-20T04:00:00.000+05:30'
 author: RavS
 tags:

@@ -6,7 +6,6 @@ date: '2012-08-04T17:25:00.000+05:30'
 author: RavS
 tags:
   - poem 
-  - pain
 modified_time: '2012-08-05T17:27:15.092+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-186662342145018475
 blogger_orig_url: https://ravs.in/2012/08/have-you-ever-experienced-pain

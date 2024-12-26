@@ -5,7 +5,6 @@ title: Why I don't have a Mobile?
 date: '2010-08-28T19:08:00.006+05:30'
 author: RavS
 tags:
-  - me
   - mobile
 modified_time: '2011-07-09T11:55:23.574+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8334258047139222939

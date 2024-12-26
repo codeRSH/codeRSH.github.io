@@ -7,7 +7,7 @@ author:
   - RavS
 tags:
   - first
-  - BookReview
+  - book-review
 modified_time: 2014-01-17T01:39:28.489+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3790870678281610251
 blogger_orig_url: https://ravs.in/2014/01/book-review-tribes.html

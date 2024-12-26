@@ -6,7 +6,6 @@ date: '2012-04-20T01:53:00.000+05:30'
 author: RavS
 tags:
   - poem 
-  - hurt
 modified_time: '2012-12-30T15:32:28.967+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8110067305996871432
 blogger_orig_url: https://ravs.in/2012/04/still-dont-want-you-to-get-hurt

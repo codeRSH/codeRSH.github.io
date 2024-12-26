@@ -5,10 +5,9 @@ title: Engineering a Blog Post
 date: '2011-07-06T08:47:00.003+05:30'
 author: RavS
 tags:
-- me
 - special
 - metablogging
-- blog
+- metablogging
 modified_time: '2011-07-30T20:32:17.469+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3987691099036933471
 blogger_orig_url: https://ravs.in/2011/07/engineering-blog-post.html

@@ -5,7 +5,6 @@ title: 'What do You Love: Linux'
 date: '2011-06-28T20:47:00.003+05:30'
 author: RavS
 tags:
-- me
 - technology
 - Linux
 modified_time: '2011-07-30T20:32:42.897+05:30'

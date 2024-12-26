@@ -6,9 +6,8 @@ date: 2019-11-02T23:53:00.000+05:30
 author:
   - RavS
 tags:
-  - me
   - career
-  - Goals
+  - goals
 modified_time: 2019-11-02T23:53:16.968+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1642045051183221140
 blogger_orig_url: https://ravs.in/2019/11/is-relativity-good-for-you-dont-think-so.html

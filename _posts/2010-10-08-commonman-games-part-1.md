@@ -5,11 +5,10 @@ title: 'The CommonMan Games: Part 1'
 date: '2010-10-08T13:31:00.006+05:30'
 author: RavS
 tags:
-- me
 - India
 - CommonwealthGames
-- Friends
-- Travelling
+- friends
+- travelling
 modified_time: '2011-07-21T13:38:30.551+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6777624393113966590
 blogger_orig_url: https://ravs.in/2010/10/commonman-games-part-1.html

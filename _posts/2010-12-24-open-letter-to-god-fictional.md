@@ -11,7 +11,7 @@ tags:
 - Christmas
 - humor
 - God
-- Friends
+- friends
 modified_time: '2011-07-22T15:34:09.357+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4097776816052734416
 blogger_orig_url: https://ravs.in/2010/12/open-letter-to-god-fictional.html

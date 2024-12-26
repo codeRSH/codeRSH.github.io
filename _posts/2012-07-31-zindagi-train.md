@@ -6,7 +6,6 @@ date: '2012-07-31T17:11:00.000+05:30'
 author: RavS
 tags: 
 - poem 
-- train 
 - hindi
 modified_time: '2012-08-05T17:13:38.241+05:30' 
 thumbnail: http://3.bp.blogspot.com/-GZ4Kq8ebXtU/UB5bstaKl-I/AAAAAAAABCo/CUKPpocwsiA/s72-c/IMG\_0746.JPG

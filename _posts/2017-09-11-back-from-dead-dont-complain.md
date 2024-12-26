@@ -6,9 +6,7 @@ date: 2017-09-11T23:02:00.000+05:30
 author:
   - RavS
 tags:
-  - me
   - birthday
-  - Complain
 modified_time: 2017-09-11T23:02:33.488+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5220323828013168666
 blogger_orig_url: https://ravs.in/2017/09/back-from-dead-dont-complain.html

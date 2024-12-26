@@ -6,7 +6,6 @@ date: 2014-03-12T12:51:00.000+05:30
 author:
   - RavS
 tags:
-  - me
   - writing
 modified_time: 2014-04-27T12:56:10.241+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2222557812633004400

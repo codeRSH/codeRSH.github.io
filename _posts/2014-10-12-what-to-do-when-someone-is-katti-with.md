@@ -6,8 +6,7 @@ date: 2014-10-12T02:46:00.000+05:30
 author:
   - RavS
 tags:
-  - me
-  - Friend
+  - friends
   - flowchart
 modified_time: 2014-10-12T02:46:42.317+05:30
 thumbnail: http://1.bp.blogspot.com/-xyYq32\_3N4k/VDmaPdIF39I/AAAAAAAAJow/psv8RPBaNXI/s72-c/Screenshot\_2014-10-11-13-10-48.png

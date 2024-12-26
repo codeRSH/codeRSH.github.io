@@ -5,7 +5,7 @@ title: '12 Random Wishes for 2012: A Review'
 date: '2012-12-31T14:11:00.000+05:30'
 author: RavS
 tags:
-- me
+ - review
 modified_time: '2012-12-31T14:11:26.464+05:30'
 thumbnail: http://i.ytimg.com/vi/ZKzJATPF210/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-397358230951534396

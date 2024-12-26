@@ -2,7 +2,8 @@
 public: yes
 title: Waiting for The Right Time
 date: 2024-06-21
-tags: me
+tags: 
+ - thoughts
 layout: post
 author: RavS
 permalink: /blog/right-time

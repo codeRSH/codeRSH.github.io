@@ -5,7 +5,6 @@ title: The importance of various days in my life
 date: '2010-08-29T12:43:00.001+05:30'
 author: RavS
 tags:
-- me
 - humor
 modified_time: '2011-07-21T12:45:47.882+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-592149934607217792

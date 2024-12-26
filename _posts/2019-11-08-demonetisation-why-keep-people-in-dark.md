@@ -7,7 +7,6 @@ author:
   - RavS
 tags:
   - politics
-  - Demonetization
 modified_time: 2019-11-08T23:46:18.179+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1320944492166353780
 blogger_orig_url: https://ravs.in/2019/11/demonetisation-why-keep-people-in-dark.html

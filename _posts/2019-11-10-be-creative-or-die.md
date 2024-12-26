@@ -6,8 +6,6 @@ date: 2019-11-10T23:30:00.000+05:30
 author:
   - RavS
 tags:
-  - me
-  - creativity
   - writing
 modified_time: 2019-11-11T00:09:06.860+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5090349014077784318

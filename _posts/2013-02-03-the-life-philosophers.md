@@ -8,7 +8,7 @@ tags:
 - collaboration 
 - special 
 - life 
-- Friends
+- friends
 modified_time: '2013-02-03T01:10:28.595+05:30' 
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2807244824578560513 
 blogger_orig_url: https://ravs.in/2013/02/the-life-philosophers.html

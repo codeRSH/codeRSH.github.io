@@ -5,7 +5,6 @@ title: Self Made God
 date: '2011-02-16T15:31:00.019+05:30'
 author: RavS
 tags:
-- me
 - God
 - Religion
 modified_time: '2011-07-30T20:28:45.612+05:30'

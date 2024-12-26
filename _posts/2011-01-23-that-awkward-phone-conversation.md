@@ -5,9 +5,7 @@ title: That Awkward Phone Conversation
 date: '2011-01-23T13:50:00.003+05:30'
 author: RavS
 tags:
-- me
-- phone
-- Friends
+- friends
 modified_time: '2011-07-30T20:27:03.731+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4605945657156242422
 blogger_orig_url: https://ravs.in/2011/01/that-awkward-phone-conversation.html

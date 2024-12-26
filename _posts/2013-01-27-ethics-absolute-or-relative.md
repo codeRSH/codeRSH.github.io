@@ -5,10 +5,9 @@ title: 'Ethics: Absolute or Relative?'
 date: '2013-01-27T20:35:00.000+05:30'
 author: RavS
 tags:
-- me
 - special
 - ethics
-- Friends
+- friends
 modified_time: '2013-01-27T20:54:02.758+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-508309468450407462
 blogger_orig_url: https://ravs.in/2013/01/ethics-absolute-or-relative.html

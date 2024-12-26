@@ -5,7 +5,6 @@ title: '(Not so) FAQs'
 date: '2010-11-10T14:54:00.000+05:30'
 author: RavS
 tags:
-  - FAQs
   - metablogging
 modified_time: '2014-07-20T14:54:58.233+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-10999949296419747

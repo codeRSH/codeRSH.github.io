@@ -6,8 +6,6 @@ date: 2019-11-11T23:30:00.000+05:30
 author:
   - RavS
 tags:
-  - me
-  - socialMedia
   - mobile
 modified_time: 2019-11-12T00:03:19.619+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1391077199079216626

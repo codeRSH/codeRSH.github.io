@@ -5,8 +5,7 @@ title: A Bunch of Thoughts
 date: '2019-11-03T23:40:00.003+05:30'
 author: RavS
 tags:
-- me
-- random
+- thoughts
 modified_time: '2019-11-03T23:40:41.635+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3588730306529627231
 blogger_orig_url: https://ravs.in/2019/11/a-bunch-of-thoughts.html

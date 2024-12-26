@@ -7,7 +7,6 @@ author:
   - RavS
 tags:
   - lessons
-  - feat
 modified_time: 2014-01-05T02:02:29.866+05:30
 thumbnail: http://1.bp.blogspot.com/-7hEwNWex8g4/UshrKQqSHYI/AAAAAAAADeE/WjiKdGb-oqQ/s72-c/dl\_cp20x30-DDDA2818-9709.jpeg
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-224523071981869348

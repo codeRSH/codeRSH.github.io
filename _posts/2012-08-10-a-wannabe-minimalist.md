@@ -5,7 +5,6 @@ title: A Wannabe Minimalist
 date: '2012-08-10T11:31:00.000+05:30'
 author: RavS
 tags:
-  - me
   - minimalism
   - experiment
 modified_time: '2012-08-10T11:31:48.322+05:30'

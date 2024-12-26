@@ -5,9 +5,7 @@ title: 'HR Interview: Part 1'
 date: '2011-05-31T14:49:00.002+05:30'
 author: RavS
 tags:
-- me
 - job
-- Interview
 modified_time: '2011-07-09T11:47:41.996+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-960876295360916486
 blogger_orig_url: https://ravs.in/2011/05/hr-interview-part-1.html

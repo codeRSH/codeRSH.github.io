@@ -5,7 +5,7 @@ title: '9/11 Promises: Review'
 date: '2011-09-11T10:00:00.000+05:30'
 author: RavS
 tags:
-- me
+ - review
 modified_time: '2011-09-11T10:00:55.223+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6162559482391314356
 blogger_orig_url: https://ravs.in/2011/09/911-promises-review.html

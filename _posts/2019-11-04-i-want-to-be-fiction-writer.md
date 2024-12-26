@@ -5,7 +5,6 @@ title: I want to be a fiction writer.
 date: '2019-11-04T23:59:00.000+05:30'
 author: RavS
 tags:
-- me
 - fiction
 modified_time: '2019-11-05T00:00:28.274+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1896173755079321140
@@ -24,7 +23,7 @@ Through [stories]({% post_url 2014-09-11-janmdin-mubarak %}) are how we progress
 
 Writing blogs is a great way to express myself, bringing out whatever is going inside onto the paper. But I still think they aren't the most creative mediums. Deep inside, I want to write more [poetry](https://1000sher.in/), [long]({% post_url 2014-02-14-happy-valentines-day-love %})  fiction, and even [satire]({% post_url 2014-02-15-aur-roti-fir-jal-gayi %}). That's what I feel is a true form of creativity.
 
-Today I read back one of my [old stories]({% post_url 2014-11-19-but-there-is-just-one-little-problem %}). I liked what I read, although I could feel it's not really story with too many arcs, but just a short scene. But I was impressed with the way I made the story a medium of self-expression through the views expressed by the protagonists, even though the story had nothing to do with me.
+Today I read back one of my [old stories]({% post_url 2014-11-18-little-problem-1 %}). I liked what I read, although I could feel it's not really story with too many arcs, but just a short scene. But I was impressed with the way I made the story a medium of self-expression through the views expressed by the protagonists, even though the story had nothing to do with me.
 
 But here's a problem for this fiction writer. I am not a natural . Writing [stories]({% post_url 2013-11-03-sahab-kesua %}) takes a lot out of me, because you have to imagine scenarios and invent characters. That's the reason, I could never write another novella.
 

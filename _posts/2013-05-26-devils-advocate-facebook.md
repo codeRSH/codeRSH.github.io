@@ -5,7 +5,7 @@ title: 'Devil''s Advocate: Facebook'
 date: '2013-05-26T13:49:00.002+05:30'
 author: RavS
 tags:
-- Facebook
+- facebook
 - advocate
 modified_time: '2013-05-26T13:59:13.227+05:30'
 thumbnail: http://2.bp.blogspot.com/-gKY1J-rsIPY/UaHEBlconrI/AAAAAAAABl4/QkUlu-amRxQ/s72-c/Ra+Vi+-+Profile+2013-05-26+13-39-17.png

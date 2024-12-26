@@ -5,8 +5,7 @@ title: Removing Friction
 date: '2019-10-22T00:10:00.000+05:30'
 author: RavS
 tags:
-- me
-- friction
+- thoughts
 modified_time: '2019-10-22T00:10:34.864+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3894731882459351240
 blogger_orig_url: https://ravs.in/2019/10/removing-friction.html

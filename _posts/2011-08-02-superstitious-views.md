@@ -5,10 +5,9 @@ title: Superstitious Views
 date: '2011-08-02T06:35:00.000+05:30'
 author: RavS
 tags:
-- me
 - thoughts
 - special
-- Friends
+- friends
 modified_time: '2011-08-02T06:35:21.342+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1028659013896195373
 blogger_orig_url: https://ravs.in/2011/08/superstitious-views.html

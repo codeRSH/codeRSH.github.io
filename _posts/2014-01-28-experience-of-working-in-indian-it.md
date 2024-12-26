@@ -5,7 +5,7 @@ title: Experience of working in Indian IT Services Sector
 date: '2014-01-28T01:30:00.000+05:30'
 author: RavS
 tags:
-- IT
+- job
 modified_time: '2014-01-28T01:30:03.956+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6608221824243818257
 blogger_orig_url: https://ravs.in/2014/01/experience-of-working-in-indian-it.html

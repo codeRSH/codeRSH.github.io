@@ -5,8 +5,7 @@ title: When Friends Become a Problem
 date: '2012-08-05T15:31:00.000+05:30'
 author: RavS
 tags:
-  - me 
-  - Friends
+  - friends
 modified_time: '2012-08-05T15:31:07.315+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7464956844989151964
 blogger_orig_url: https://ravs.in/2012/08/when-friends-become-problem

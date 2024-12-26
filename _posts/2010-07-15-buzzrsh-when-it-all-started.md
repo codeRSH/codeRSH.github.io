@@ -5,11 +5,10 @@ title: '### buzzRSH ### (When it all started...)'
 date: '2010-07-15T13:48:00.003+05:30'
 author: RavS
 tags:
-  - me
   - special
   - start
   - buzzRSH
-  - Friends
+  - friends
 modified_time: '2011-07-30T19:20:02.568+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-85621446573780874
 blogger_orig_url: https://ravs.in/2010/07/buzzrsh-when-it-all-started.html

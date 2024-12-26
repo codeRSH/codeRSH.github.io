@@ -6,7 +6,7 @@ date: '2012-03-29T00:12:00.001+05:30'
 author: RavS
 tags: 
 - humor 
-- Friends 
+- friends 
 modified_time: '2012-03-29T00:12:31.384+05:30' 
 thumbnail: http://3.bp.blogspot.com/-pFTd0m9MCxM/T3ICKEimt3I/AAAAAAAAA3A/-9lHXHqMjPI/s72-c/IMG\_0561.png
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-162875959515333978

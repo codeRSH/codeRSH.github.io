@@ -54,8 +54,8 @@ future: true
 
 header_pages:
   - blog/index.html
-  - projects.html
-  - about.md
+  - blog/tags.md
+  - blog/about.md
   - index.markdown
 
 sass:

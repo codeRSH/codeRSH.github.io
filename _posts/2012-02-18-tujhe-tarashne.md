@@ -6,7 +6,6 @@ date: '2012-02-18T18:19:00.003+05:30'
 author: RavS
 tags:
   - poem 
-  - romantic 
   - hindi
 modified_time: '2012-08-10T18:26:17.998+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8343972882122406200

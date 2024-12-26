@@ -5,7 +5,6 @@ title: An Open Letter to My Dad
 date: '2012-04-02T15:40:00.000+05:30'
 author: RavS
 tags:
-  - me 
   - OpenLetter 
   - family 
   - Love 

@@ -5,7 +5,6 @@ title: A Shockless Post
 date: '2011-07-25T19:22:00.046+05:30'
 author: RavS
 tags:
-- me
 - electricity
 modified_time: '2011-07-26T20:13:14.489+05:30'
 thumbnail: http://farm1.static.flickr.com/29/101363593_eda80c6729_t.jpg

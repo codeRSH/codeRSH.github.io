@@ -5,7 +5,6 @@ title: The Journey Begins..
 date: '2010-04-26T00:05:00.002+05:30'
 author: RavS
 tags:
-  - me
   - special
   - first
   - start

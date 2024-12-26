@@ -5,7 +5,6 @@ title: Maha Drama in Maharashtra
 date: '2019-11-26T23:52:00.001+05:30'
 author: RavS
 tags:
-- me
 - politics
 modified_time: '2019-11-26T23:52:49.892+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2916261683369719010

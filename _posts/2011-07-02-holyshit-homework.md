@@ -5,7 +5,6 @@ title: HolyShit... Homework!
 date: '2011-07-02T21:52:00.001+05:30'
 author: RavS
 tags:
-- me
 - thoughts
 modified_time: '2011-07-03T08:47:25.931+05:30'
 thumbnail: http://farm4.static.flickr.com/3042/2460522850_a95c6356db_t.jpg

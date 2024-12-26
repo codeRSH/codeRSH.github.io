@@ -5,7 +5,6 @@ title: When you came in thoughts... (An year ago)
 date: '2012-07-08T22:31:00.000+05:30'
 author: RavS
 tags:
-  - me 
   - poem 
   - Love
 modified_time: '2012-07-08T22:34:58.425+05:30'

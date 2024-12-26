@@ -5,10 +5,8 @@ title: 'Ravi Ji: Conditions Apply'
 date: '2012-07-19T08:22:00.001+05:30'
 author: RavS
 tags:
-  - me
-  - RaviJi
   - humor
-  - Friends
+  - friends
 modified_time: '2012-07-19T08:34:05.799+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3862655813418484657
 blogger_orig_url: https://ravs.in/2012/07/ravi-ji-conditions-apply

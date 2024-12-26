@@ -6,9 +6,8 @@ date: 2014-08-03T10:54:00.000+05:30
 author:
   - RavS
 tags:
-  - me
   - guest
-  - Friend
+  - friends
 modified_time: 2014-08-03T10:54:06.272+05:30
 thumbnail: http://3.bp.blogspot.com/-tuFfQ0T9bAo/U93HCMJYRFI/AAAAAAAAE-8/9APs3L6uuMo/s72-c/IMG-20140803-WA0017.jpg
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-892033414797827046

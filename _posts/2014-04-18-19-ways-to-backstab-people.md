@@ -6,7 +6,6 @@ date: 2014-04-18T08:33:00.000+05:30
 author:
   - RavS
 tags:
-  - backstab
   - humor
 modified_time: 2014-04-18T08:33:10.151+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8190047772186960284

@@ -5,7 +5,6 @@ title: You "Mean" Teachers...
 date: '2011-09-05T18:09:00.001+05:30'
 author: RavS
 tags:
-- me
 - teacher
 - occasion
 modified_time: '2011-09-05T18:09:51.847+05:30'

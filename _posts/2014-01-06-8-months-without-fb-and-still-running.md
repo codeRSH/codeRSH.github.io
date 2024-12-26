@@ -5,8 +5,7 @@ title: 8 months without FB... and still running
 date: '2014-01-06T01:25:00.000+05:30'
 author: RavS
 tags:
-- me
-- Facebook
+- facebook
 modified_time: '2014-01-06T01:25:00.554+05:30'
 thumbnail: http://2.bp.blogspot.com/-gQ\_D0ICEdq0/UsXHqo8vs-I/AAAAAAAADdk/5FC9U5bYOSk/s72-c/2013-06-05+10.33.26.png
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-404226883423835094

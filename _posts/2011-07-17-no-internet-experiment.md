@@ -5,7 +5,6 @@ title: The NO Internet Experiment
 date: '2011-07-17T20:24:00.001+05:30'
 author: RavS
 tags:
-  - me
   - experiment
   - Internet
 modified_time: '2011-07-17T20:34:29.802+05:30'

@@ -7,7 +7,7 @@ author:
   - RavS
 tags:
   - humor
-  - Facebook
+  - facebook
 modified_time: 2014-01-22T00:06:42.132+05:30
 thumbnail: https://ytimg.googleusercontent.com/vi/hTwjrTLB2nI/0.jpg
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8735866020091775624

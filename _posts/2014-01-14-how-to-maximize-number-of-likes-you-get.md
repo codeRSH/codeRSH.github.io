@@ -6,8 +6,7 @@ date: 2014-01-14T01:00:00.000+05:30
 author:
   - RavS
 tags:
-  - Facebook
-  - Likes
+  - facebook
 modified_time: 2014-01-14T01:10:10.723+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-450161569387516380
 blogger_orig_url: https://ravs.in/2014/01/how-to-maximize-number-of-likes-you-get.html

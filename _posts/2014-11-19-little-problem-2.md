@@ -1,7 +1,7 @@
 ---
 public: yes
 layout: post
-title: But there is just one little problem... Part - 2
+title: But there is just one little problem... Part-2
 date: '2014-11-19T04:00:00.000+05:30'
 author: RavS
 tags:
@@ -112,4 +112,4 @@ He noticed a black dot on her waist a few inches away from her navel on the righ
 
 
 
-**[\[Continued\]]({% post_url 2014-11-20-but-there-is-just-one-little-problem_20 %})**
+**[\[Continued\]]({% post_url 2014-11-20-little-problem-3 %})**

@@ -5,9 +5,7 @@ title: How To Torture Kids
 date: '2014-04-13T09:04:00.000+05:30'
 author: RavS
 tags:
-- torture
 - humor
-- kids
 modified_time: '2014-04-13T09:04:59.553+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8959058570450371040
 blogger_orig_url: https://blogrsh.blogspot.com/2014/04/how-to-torture-kids.html

@@ -5,9 +5,7 @@ title: AdsAreTeasements
 date: '2011-01-09T14:04:00.000+05:30'
 author: RavS
 tags:
-- me
-- TV
-- advertisements
+- tv
 - cricket
 - nostalgia
 modified_time: '2011-07-22T14:06:26.449+05:30'

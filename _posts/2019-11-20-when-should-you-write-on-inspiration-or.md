@@ -6,7 +6,6 @@ date: 2019-11-20T00:14:00.000+05:30
 author:
   - RavS
 tags:
-  - me
   - writing
 modified_time: 2019-11-21T00:16:59.467+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2891102470709551337
