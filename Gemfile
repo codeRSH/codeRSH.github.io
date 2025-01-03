@@ -36,6 +36,12 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # RSH++ Remote Theme Gem for Github
 gem "jekyll-remote-theme"
-
+if Gem.win_platform?
+  # Do nothing on Windows
+else
+  gem 'logger'
+  gem 'base64'
+  gem "csv"
+end
 # RSH++ Paginate
 gem "jekyll-paginate"
