@@ -65,13 +65,13 @@ Keep Dsmile awn !1
 * * *
 
 _**[PK](http://thetrashpandiary.blogspot.com/)**_ (via email)
-_Definitions (from [http://oxforddictionaries.com](http://oxforddictionaries.com/))
 
-ethics:_
-            _\[usually treated as plural\] moral principles that govern a person's behaviour or the  conducting of an activity
+Definitions (from [http://oxforddictionaries.com](http://oxforddictionaries.com/))
 
-moral:
-            concerned with the principles of right and wrong behaviour_
+_ethics: \[usually treated as plural\] moral principles that govern a person's behaviour or the  conducting of an activity_
+
+_moral: concerned with the principles of right and wrong behaviour_
+
  So basically ethics are the principles that tell a person what is right or wrong
 
 Now, of all the (very few) things that I have understood in life, one of them is that almost nothing has a definite white or black. Things most often lie in the grey area. And thus, I believe the same is the case with ethics. The answer to the question will obviously depend on the person answering the question. I think ethics are relative/circumstatial. That means  what is right/wrong at some point of time, depends on the environment, the people, the circumstances and so on, at that point. On the contrary "absolute ethics" would mean: If something is wrong/right than it is wrong/right, _no matter what_, which seems kind of absurd to me (that might be because I cannot imagine myself function that way).

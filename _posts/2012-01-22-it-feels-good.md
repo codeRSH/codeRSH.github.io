@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-81754899136289413
 blogger_orig_url: https://ravs.in/2012/01/it-feels-good
 ---
 
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://www.flickr.com/photos/megnphotography/5584533992/" style="margin-left: auto; margin-right: auto;" title="92/365 by meghannash, on Flickr"><img alt="92/365" height="400" src="http://farm6.staticflickr.com/5269/5584533992_c381dfc8f1.jpg" width="380"></a></td></tr><tr><td class="tr-caption" style="text-align: center;">From Flickr. Courtesy Meghannash.</td></tr></tbody></table>
 
 The faces that you make,  
 makes me feel good.  
@@ -78,3 +77,5 @@ would have far gone from here.
 Your memories will all I be left with,  
 And the things that feel good now  
 Will make me cry, forever.
+
+~RavS

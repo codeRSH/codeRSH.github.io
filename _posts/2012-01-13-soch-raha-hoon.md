@@ -23,7 +23,9 @@ blogger_orig_url: https://ravs.in/2012/01/blog-post
 मगर  कुछ  पाने  के  लिए ,  
 बहुत  कुछ  खोना  भी  तो पड़ता  है । 
 
-[![scream](http://farm4.staticflickr.com/3605/3674906958_cde5e99e81.jpg)](http://www.flickr.com/photos/karochkin/3674906958/ 'scream by Maks Karochkin, on Flickr') दिन  रात  फ़ोन  मेरा  कुछ  इस  तरह  चिल्लाएगा ,  
+[![scream](http://farm4.staticflickr.com/3605/3674906958_cde5e99e81.jpg)](http://www.flickr.com/photos/karochkin/3674906958/ 'scream by Maks Karochkin, on Flickr') 
+
+दिन  रात  फ़ोन  मेरा  कुछ  इस  तरह  चिल्लाएगा ,  
 के  खुद  ही  के  फ़ोन  से  डर  लगने  लग  जाएगा.  
 उसकी  चांय चांय  काँय  काँय  से ,  
 जो बिल\* अभी देश के विकास की तरह मद्ध्म है  
@@ -50,6 +52,8 @@ blogger_orig_url: https://ravs.in/2012/01/blog-post
 एक  गर्लफ्रेंड  बना  ही  ली  जाए .  
 अगर  खुदखुशी  करनी  ही  है ,  
 तो  खुद ही  की  ख़ुशी  से  क्यों  ना  की  जाए ?
+
+~ रबी
 
 ---
 

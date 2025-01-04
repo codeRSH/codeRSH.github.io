@@ -15,7 +15,7 @@ blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-73535082935035012
 blogger_orig_url: https://ravs.in/2011/09/blog-post.html
 ---
 
-[![](http://2.bp.blogspot.com/-fTTeezQO_vM/TnX6JY4IfjI/AAAAAAAAAsU/W5FqzmiZFn4/s400/264990_204878779565126_100001290172059_622354_4339747_n.jpg)](http://2.bp.blogspot.com/-fTTeezQO_vM/TnX6JY4IfjI/AAAAAAAAAsU/W5FqzmiZFn4/s1600/264990_204878779565126_100001290172059_622354_4339747_n.jpg)
+![](../../../assets/blog-berozgaar-ki-aah.jpg)
 
 ```
 क्यूँ पूछते हो मुझसे तुम ?
@@ -25,7 +25,7 @@ blogger_orig_url: https://ravs.in/2011/09/blog-post.html
 नहीं मानी है पूरी हार
 
 कल तक कहा 'चैम्प' मुझे
-अब कहते हो,हूँ मैं बेकार
+अब कहते हो, हूँ मैं बेकार
 
 अब तकल्लुफ बस करो,
 मत पूछो ये मुझसे यार

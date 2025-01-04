@@ -14,15 +14,13 @@ blogger_orig_url: https://ravs.in/2011/08/what-do-you-love-twitter.html
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/-YPl7ipgubno/Tj1HIXYohHI/AAAAAAAAAn0/8S6wCngtwq8/s1600/Version-Diversion.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="265" src="http://3.bp.blogspot.com/-YPl7ipgubno/Tj1HIXYohHI/AAAAAAAAAn0/8S6wCngtwq8/s400/Version-Diversion.png" width="400"></a></td></tr><tr><td class="tr-caption" style="font-size: 13px; text-align: center;"><b>Miss the lady with the phone :'(</b></td></tr></tbody></table>
 
-Under "**[What do you Love?](https://ravs.in/tag/Love)**" series, I have previously talked about **[Linux]({% post_url 2011-06-28-what-do-you-love-linux %})** and [**Google**]({% post_url 2011-07-20-what-do-you-love-google %}). Today I am going to talk about another thing I absolutely Love: **[Twitter](https://twitter.com/#%21/).** (**Note**: _you can click any of the screen-shots below to go to the original tweet!_ :)
+Under "**[What do you Love?](https://ravs.in/tag/love)**" series, I have previously talked about **[Linux]({% post_url 2011-06-28-what-do-you-love-linux %})** and [**Google**]({% post_url 2011-07-20-what-do-you-love-google %}). Today I am going to talk about another thing I absolutely Love: **[Twitter](https://twitter.com/#%21/).** (**Note**: _you can click any of the screen-shots below to go to the original tweet!_ :)
 
 I joined twitter in February 2010...
 
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: left; margin-right: 1em; text-align: left;"><tbody><tr><td style="text-align: center;"><a href="https://twitter.com/#%21/twitRSH/status/9430672368" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="158" src="http://3.bp.blogspot.com/-zw5yYtomeEI/Tj01oNR2t_I/AAAAAAAAAlw/Vk29XuBCFZM/s400/1.png" width="400"></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><span class="Apple-style-span" style="font-size: small;"><b>My first tweet :)&nbsp;</b></span></td></tr></tbody></table>
 
 Initially I would use it just to share any news I came across web because I found it easier to share on twitter (as compared to other SNS) due to some extensions.
-
-[![](http://3.bp.blogspot.com/-4Cra9j5qp-g/Tj01ob7symI/AAAAAAAAAl0/W6tBlll1_9I/s400/2.png)](https://twitter.com/#%21/twitrsh/status/11307355104)
 
 At first, I didn't follow many people except a few friends who also had made an account just to try out the service.
 

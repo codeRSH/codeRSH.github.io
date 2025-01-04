@@ -58,9 +58,9 @@ The most interesting part remains the number of new ideas and theories that the 
 
 ### About the Author 
 
-Seth Godin is a very well known American Entrepreneur, Marketer and Writer. I have known about Seth for a few years now, but only recently started following **[his blog](http://sethgodin.typepad.com/)**. He writes almost 2 blogs a day, mostly less than a 100 words.  He is an exceptionally delightful to-the-point writer. Personally, he inspires me to cut out the fluff in my own writings, always be looking for more ideas, and being consistent. So many times his succinct articles have made me sit down and say "Wow! Now, that's an idea worth trying. " They say he is a great speaker too, but haven't heard anything from him yet.
+Seth Godin is a very well known American Entrepreneur, Marketer and Writer. I have known about Seth for a few years now, but only recently started following **[his blog](https://seths.blog)**. He writes almost 2 blogs a day, mostly less than a 100 words.  He is an exceptionally delightful to-the-point writer. Personally, he inspires me to cut out the fluff in my own writings, always be looking for more ideas, and being consistent. So many times his succinct articles have made me sit down and say "Wow! Now, that's an idea worth trying. " They say he is a great speaker too, but haven't heard anything from him yet.
 
 
 ### Everything else
 
-Seth has written quite a **[lot of books](http://www.sethgodin.com/sg/books.asp)**. I leave it up to you, to find out how to get "Tribes" should you decide to read it. Also, if you have a favorite book, which you think I should read, please do tell. I want to keep it in my buffer for the rest of the year.  As I (hopefully) read more and more books, there's a chance, with time it might become one of the regular posts on this blog.
+Seth has written quite a **[lot of books](https://seths.blog/more/)**. I leave it up to you, to find out how to get "Tribes" should you decide to read it. Also, if you have a favorite book, which you think I should read, please do tell. I want to keep it in my buffer for the rest of the year.  As I (hopefully) read more and more books, there's a chance, with time it might become one of the regular posts on this blog.

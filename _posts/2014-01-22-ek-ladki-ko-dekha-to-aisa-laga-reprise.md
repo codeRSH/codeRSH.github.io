@@ -1,7 +1,7 @@
 ---
 public: yes
 layout: post
-title: Ek ladki ko dekha to aisa laga... \[The Reprise\]
+title: "Ek ladki ko dekha to aisa laga... [The Reprise]"
 date: 2014-01-22T00:06:00.004+05:30
 author:
   - RavS

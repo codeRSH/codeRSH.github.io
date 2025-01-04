@@ -1,7 +1,7 @@
 ---
 public: yes
 layout: post
-title: What it means to be a Friend? \[Guest Post\]
+title: "What it means to be a Friend? (Guest Post)"
 date: 2014-08-03T10:54:00.000+05:30
 author:
   - RavS

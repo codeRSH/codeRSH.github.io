@@ -11,7 +11,7 @@ blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-71950275864117576
 blogger_orig_url: https://ravs.in/2014/01/untitled-part-10.html
 ---
 
-### [\[Previous Part\]]({% post_url 2014-01-15-untitled-part-9 %})
+**[\[Previous Part\]]({% post_url 2014-01-15-untitled-part-9 %})**
 
 "Saara".
 
@@ -85,4 +85,4 @@ I feared the worst. This was a secluded place, it was pretty dark even in the mi
 
 With a pounding heart, I turned behind...
 
-### **[\[To be Continued\]]({% post_url 2014-02-23-untitled-part-11 %})**
+**[\[To be Continued\]]({% post_url 2014-02-23-untitled-part-11 %})**

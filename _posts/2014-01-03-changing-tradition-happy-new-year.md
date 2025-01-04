@@ -35,8 +35,8 @@ A few years ago, I preferred to personally call everyone (with whom I am comfort
 **But in all this, I wonder what is the point of wishing after all?** Are these wishes a medium to reconnect with those whom we haven't been in contact for a while? Or are they a way to be a part of each other's happiness? Do we genuinely care that they have a great year, or is just a social norm, a duty that we should fulfill?
 
 I think these are really important points that we should ask every time we wish anyone. A non-genuine wish or wish without warmth and love mixed in it, is a wish wasted, in my opinion.
-[![](http://1.bp.blogspot.com/-a2JACTGGQeQ/UsRzF4LdoNI/AAAAAAAADdM/JMBgrYyHNnc/s1600/media-20140101.jpg)](http://1.bp.blogspot.com/-a2JACTGGQeQ/UsRzF4LdoNI/AAAAAAAADdM/JMBgrYyHNnc/s1600/media-20140101.jpg)
 
+[![](http://1.bp.blogspot.com/-a2JACTGGQeQ/UsRzF4LdoNI/AAAAAAAADdM/JMBgrYyHNnc/s1600/media-20140101.jpg)](http://1.bp.blogspot.com/-a2JACTGGQeQ/UsRzF4LdoNI/AAAAAAAADdM/JMBgrYyHNnc/s1600/media-20140101.jpg)
 
 
 **Update:** This year I received all the wishes almost exclusively on Whatsapp, thank God for **[quitting FB]({% post_url 2013-05-13-why-i-am-leaving-facebook-forever %})**, besides a few close friends calling. That made it super manageable for me, and I sent a personal note to everyone (unlike Diwali). I was also happy that this year, almost everybody preferred to keep it simple. There weren't a lot of those irritating forwarded greetings, or those big incomprehensible words like 'joyous', 'prosperous', 'marvelous' et al.

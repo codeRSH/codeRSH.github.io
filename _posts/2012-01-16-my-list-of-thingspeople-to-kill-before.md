@@ -21,8 +21,6 @@ blogger_orig_url: https://ravs.in/2012/01/my-list-of-thingspeople-to-kill-before
 
 - **XP:** He, I mean; it has become so old and path3tic, I just fail to understand why he.. err.. it is still liked by people. I have already said him- no- it **[good bye a long time ago]({% post_url 2010-12-22-good-bye-xp-will-miss-you %})**. It's time the world says so as well. And I hope ~he~ it gets a painful end!
 
-<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody><tr><td style="text-align: center;"><a href="http://www.flickr.com/photos/zeke_/302566784/" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;" title="Dog by madmolecule, on Flickr"><img alt="Dog" height="133" src="http://farm1.staticflickr.com/122/302566784_ee17f1262f.jpg" width="200"></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Taken from Flickr under CC license.<br>Picture representative of what<br>&nbsp;I face sometimes :/</td></tr></tbody></table>
-
 - **Stray dogs in my neighbourhood:** I just fail to understand where do they keep coming from? It's like every time I go out for a walk, I find a new dog sitting around saying "Hey bro, What up!". And yesterday's black one was like "Your derriere is written all over my teeth, cutie!".
 
 - **Anti-corruption crusaders:** Life was so easy in the pre-2011 era. It was so much fun to pay some extra cash and the work used to get done in no time. But ever since, these people came, they have almost taken away the fun. And their propaganda of _"Hum Bharat se Bhrashtaachar ka vinaash kar denge". Abe, poore Bharat ka vinaash nahin ho jaayega?_

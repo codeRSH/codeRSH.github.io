@@ -33,7 +33,7 @@ This year, for me, is about building a solid base. I know I do something like th
 
 And for this blog, I want to go back to my **[original promise/goal]({% post_url 2010-04-26-journey-begins %})** of posting one post per week (Sunday morning at 9 am?). And I want to develop a habit of writing daily for just 10 minutes (at least). My 'perfectionism' is always a hindrance in moving ahead and achieving my goals. So, I want to break that characteristic as well. 
 
-So, I would post anything that's in my draft for that week. Even, if it's not complete. I don't need a ~1000 word essay like this one. Just a 100 word mind dump would do. No fancy formatting, nothing to impress. Just a simple goal of one post per week. Either here, or on **[Medium](https://medium.com/@twitRSH)**. 
+So, I would post anything that's in my draft for that week. Even, if it's not complete. I don't need a ~1000 word essay like this one. Just a 100 word mind dump would do. No fancy formatting, nothing to impress. Just a simple goal of one post per week. Either here, or on **[Medium](https://medium.com/@medmRSH)**. 
 
 I haven't written any post for the first week of the year. So, I have already failed. That's fine. I will fail more often. If I don't post on a certain weekend, I would continue to do it in the next. I don't need to be perfect, but I need to try and achieve consistency. You don't become a Superhuman by writing a blogpost. You do it by failing a lot of times, but never giving up. 
 

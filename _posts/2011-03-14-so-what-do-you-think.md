@@ -28,7 +28,7 @@ Is it like...
 
 **Laloo:** Why does he keep messaging me about this buzzRSH every alternate night? And what the gobar is this? Why waste so much time writing and reading this. He could have made a animated gif out of it. Or asked me to make it. End of matter. (Sheepish smile :? )
 
-**Manish:** ..... (Sorry, he is still to figure out what this is all about, so I can't think what he would have thought reading one of my typical posts). (No expression :|  )
+**Manish:** ..... (Sorry, he is still to figure out what this is all about, so I can't think what he would have thought reading one of my typical posts). (No expression ). 
 
 **PK:** Hmm.. This is good. But my last post was way more hilarious than this one. Of course, I can't comment that, since he is one of the permanent commentators on my own blog. So, let's write all the goody goody things. May be one or 2 sentences of criticism/differences thrown in sometimes. BTW check out [thepath3ticblog.blogspot.com](http://thetrashpandiary.blogspot.com/). (innocuous laugh with an ulterior motive ;D  )
 
