@@ -62,3 +62,15 @@ p {
   font-size: 0.8em;
   color: #6c757d;
 }
+
+/* Adjust the width of the Desktop Screen */ 
+.wrapper {
+  max-width: 900px; /* Adjust this value to your desired width */
+  margin: 0 auto; /* Center the content */
+}
+
+@media screen and (min-width: 800px) { /* Adjust breakpoint as needed */
+  .page-content {
+    padding: 20px; /* Adjust padding as needed */
+  }
+}

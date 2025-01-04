@@ -59,6 +59,7 @@ future: true
 header_pages:
   - blog/index.html
   - blog/tags.md
+  - blog/search.html
   - blog/about.md
   - index.markdown
 
