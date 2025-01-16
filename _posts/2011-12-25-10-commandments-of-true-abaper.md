@@ -5,7 +5,7 @@ title: 10 commandments of a true ABAPer
 date: '2011-12-25T22:07:00.000+05:30'
 author: RavS
 tags:
-  - ABAP
+  - abap
   - humor
 modified_time: '2013-01-01T18:55:28.611+05:30'
 thumbnail: http://2.bp.blogspot.com/-iL9TnoXxM7w/TvnxFN0DoeI/AAAAAAAAAs0/UdjVt72GYhc/s72-c/IMG_0100.JPG

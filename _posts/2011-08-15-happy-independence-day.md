@@ -5,7 +5,7 @@ title: Happy? Independence Day
 date: '2011-08-15T20:56:00.004+05:30'
 author: RavS
 tags:
-- India
+- india
 modified_time: '2011-08-15T21:02:28.646+05:30'
 thumbnail: http://farm3.static.flickr.com/2256/2214658212_9d9183226f_t.jpg
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2476190934837134510

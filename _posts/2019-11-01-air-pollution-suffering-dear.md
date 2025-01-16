@@ -8,7 +8,7 @@ author:
 tags:
   - politics
   - pollution
-  - Delhi
+  - delhi
 modified_time: 2019-11-01T23:52:11.043+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-388375281263525116
 blogger_orig_url: https://ravs.in/2019/11/air-pollution-suffering-dear.html

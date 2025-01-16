@@ -2,13 +2,13 @@
 public: yes
 layout: post
 title: Good bye XP... Will miss you
-date: '2010-12-22T15:40:00.000+05:30'
-author: RavS
+date: 2010-12-22T15:40:00.000+05:30
+author:
+  - RavS
 tags:
-- Windows
-- Linux
-- Computers
-modified_time: '2011-07-22T15:44:22.299+05:30'
+  - windows
+  - linux
+modified_time: 2011-07-22T15:44:22.299+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4907129830478977273
 blogger_orig_url: https://ravs.in/2010/12/good-bye-xp-will-miss-you.html
 ---

@@ -6,8 +6,8 @@ date: 2014-01-10T01:00:00.000+05:30
 author:
   - RavS
 tags:
-  - OpenLetter
-  - promises
+  - open-letter
+  - promise
   - friends
 modified_time: 2014-01-10T01:00:00.482+05:30
 thumbnail: http://3.bp.blogspot.com/-FrmKViwztpE/Us4rjSAJ6bI/AAAAAAAADec/H7Q8FSqOa80/s72-c/media-20140109.png

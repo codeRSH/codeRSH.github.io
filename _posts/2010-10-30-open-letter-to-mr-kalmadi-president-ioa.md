@@ -5,9 +5,9 @@ title: An Open Letter... to Mr. Kalmadi, President, IOA
 date: '2010-10-30T16:28:00.000+05:30'
 author: RavS
 tags:
-- OpenLetter
+- open-letter
 - government
-- CommonwealthGames
+- commonwealth-games
 modified_time: '2011-07-22T16:28:48.958+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4033308129575851064
 blogger_orig_url: https://ravs.in/2010/10/open-letter-to-mr-kalmadi-president-ioa.html

@@ -5,7 +5,7 @@ title: An Open Letter to My Reader(s)
 date: '2013-05-20T11:08:00.000+05:30'
 author: RavS
 tags:
-- OpenLetter
+- open-letter
 modified_time: '2013-05-20T11:08:09.658+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7009002101941714923
 blogger_orig_url: https://ravs.in/2013/05/an-open-letter-to-my-readers.html

@@ -5,8 +5,8 @@ title: The Unforgettable Clash
 date: '2011-03-31T00:59:00.001+05:30'
 author: RavS
 tags:
-- worldCup
-- India
+- world-cup
+- india
 - cricket
 - friends
 modified_time: '2011-03-31T01:00:31.698+05:30'

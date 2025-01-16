@@ -8,7 +8,9 @@ author: RavS
 permalink: /blog/evening-advice
 ---
 
-Following is some advice I captured while hearing podcast from Mel Robbins. She says the Perfect Morning Routine starts with fixing your Evening Routine. So here are some of her tips :
+Following is some advice I captured while hearing podcast from Mel Robbins. I found it useful so I thought I might just share it with you as well. 
+
+She says the Perfect Morning Routine starts with fixing your Evening Routine. Here are some of her tips :
 
 - **3-2-1 Rule:**
 	- 3 hours before sleep : Stop eating/ drinking

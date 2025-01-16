@@ -6,7 +6,7 @@ date: 2014-04-15T08:37:00.000+05:30
 author:
   - RavS
 tags:
-  - India
+  - india
   - politics
   - porn
   - humor

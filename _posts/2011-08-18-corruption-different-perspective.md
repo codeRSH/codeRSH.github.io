@@ -5,8 +5,8 @@ title: 'Corruption: A Different Perspective'
 date: '2011-08-18T23:30:00.000+05:30'
 author: RavS
 tags:
-- India
-- Corruption
+- india
+- corruption
 modified_time: '2011-08-22T11:07:23.046+05:30'
 thumbnail: http://farm2.static.flickr.com/1253/1402363280_5b6de07f20_t.jpg
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1047764628146492817

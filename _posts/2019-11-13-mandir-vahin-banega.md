@@ -6,7 +6,7 @@ date: 2019-11-13T23:40:00.000+05:30
 author:
   - RavS
 tags:
-  - Ram
+  - ram
   - politics
 modified_time: 2019-11-13T23:40:22.747+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2392480597336724986

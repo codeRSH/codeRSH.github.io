@@ -7,7 +7,7 @@ author: RavS
 tags:
 - nostalgia
 - humor
-- Bus
+- bus
 modified_time: '2011-07-22T16:18:37.118+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1773759847955191480
 blogger_orig_url: https://ravs.in/2011/07/bluelines-please-dont-go-please.html

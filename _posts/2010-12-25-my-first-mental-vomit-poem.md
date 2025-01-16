@@ -7,7 +7,7 @@ author: RavS
 tags:
 - poem
 - special
-- Christmas
+- christmas
 - sad
 - first
 modified_time: '2013-01-01T18:57:41.231+05:30'

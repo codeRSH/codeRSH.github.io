@@ -5,7 +5,7 @@ title: 'Killing Multiple Online Identities: The Experience'
 date: '2013-05-12T00:32:00.000+05:30'
 author: RavS
 tags:
-- Internet
+- internet
 modified_time: '2013-05-20T00:35:29.030+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-696834574809537254
 blogger_orig_url: https://ravs.in/2013/05/killing-multiple-online-identities.html

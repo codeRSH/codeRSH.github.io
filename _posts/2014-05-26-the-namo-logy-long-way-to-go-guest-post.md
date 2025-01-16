@@ -6,7 +6,7 @@ date: 2014-05-26T07:30:00.000+05:30
 author:
   - RavS
 tags:
-  - India
+  - india
   - politics
   - guest
 modified_time: 2014-05-26T07:30:01.628+05:30
@@ -94,7 +94,7 @@ Its more than evident, _Men like him, are like musical glasses, to produce thei
 Battling all odds ,viz, 2002 Godhra Massacre, Accusation of being an Anti-privatization, and Anti-globalization person, 'Slaughterer', 'Merchant of Death' and most lately 'Tsunami', this Man surely knows how to build a Mansion off the bricks people have been throwing at him since years.
 
 
-Not very long ago, in  2012, his Live Chat made him the First Indian Politician to interact with Netizens this way. Of course, #Modi Hangout, was not the Most Trending Topic on Twitter without a reason. And enemies are enemies anyway, not trailing behind, #VoteOutModi was the third most trending.
+Not very long ago, in  2012, his Live Chat made him the First Indian Politician to interact with Netizens this way. Of course, #modi Hangout, was not the Most Trending Topic on Twitter without a reason. And enemies are enemies anyway, not trailing behind, #voteoutmodi was the third most trending.
 
 Is this Record too easy to beat ?
 

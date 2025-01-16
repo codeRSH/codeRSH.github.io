@@ -6,7 +6,7 @@ date: 2014-01-24T01:00:00.000+05:30
 author:
   - RavS
 tags:
-  - RavS
+  - ravs
 modified_time: 2014-01-24T01:00:00.132+05:30
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5845202659863077620
 blogger_orig_url: https://ravs.in/2014/01/the-ravs-and-art-of-changing-hair-styles.html

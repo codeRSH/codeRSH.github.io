@@ -5,7 +5,7 @@ title: That Elusive (Bus) Seat
 date: '2011-03-05T21:20:00.004+05:30'
 author: RavS
 tags:
-- Bus
+- bus
 - travelling
 modified_time: '2011-07-30T20:33:31.069+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3337551333160527567

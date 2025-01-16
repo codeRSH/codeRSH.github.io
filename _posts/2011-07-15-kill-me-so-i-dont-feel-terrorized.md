@@ -6,7 +6,7 @@ date: '2011-07-15T20:23:00.003+05:30'
 author: RavS
 tags:
 - special
-- India
+- india
 - politics
 - terror
 modified_time: '2011-07-30T20:31:50.829+05:30'

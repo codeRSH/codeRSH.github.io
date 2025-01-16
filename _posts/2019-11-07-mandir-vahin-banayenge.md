@@ -6,7 +6,7 @@ date: 2019-11-07T23:54:00.001+05:30
 author:
   - RavS
 tags:
-  - Ram
+  - ram
   - politics
   - advocate
 modified_time: 2019-11-07T23:54:31.559+05:30

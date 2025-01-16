@@ -5,7 +5,7 @@ title: My Idol. Take 1
 date: '2011-01-26T18:00:00.001+05:30'
 author: RavS
 tags:
-- Idol
+- idol
 modified_time: '2011-01-26T22:22:22.691+05:30'
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1384746277410588750
 blogger_orig_url: https://ravs.in/2011/01/my-idol-take-1.html

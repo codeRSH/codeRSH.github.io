@@ -5,7 +5,7 @@ title: 12 Random Wishes for 2012...
 date: '2012-01-01T12:33:00.000+05:30'
 author: RavS
 tags:
-  - newYear
+  - new-year
   - special
   - occasion
 modified_time: '2012-01-01T12:33:44.155+05:30'

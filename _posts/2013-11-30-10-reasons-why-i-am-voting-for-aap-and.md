@@ -6,7 +6,7 @@ date: '2013-11-30T00:15:00.000+05:30'
 author: RavS
 tags:
 - politics
-- AAP
+- aap
 modified_time: '2013-11-30T00:40:12.638+05:30'
 thumbnail: http://4.bp.blogspot.com/-UKsuqoOW3vk/Upjdzrm6mmI/AAAAAAAADIo/6RGXK03LEdQ/s72-c/BaPsJiaCUAEoM\_n.jpg
 blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-200273350485918976

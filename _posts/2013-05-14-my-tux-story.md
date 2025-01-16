@@ -5,7 +5,7 @@ title: My Tux Story
 date: '2013-05-14T22:38:00.000+05:30'
 author: RavS
 tags: 
-- Linux 
+- linux 
 - story
 modified_time: '2013-05-19T22:46:09.754+05:30'
 thumbnail: http://2.bp.blogspot.com/-TVhHShafQuc/UZkIkMl8BCI/AAAAAAAABjY/Ld\_r2to6K1c/s72-c/Linux.jpg 

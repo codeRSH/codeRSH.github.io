@@ -5,8 +5,8 @@ title: 'The CommonMan Games: Part 2'
 date: '2010-10-10T13:48:00.000+05:30'
 author: RavS
 tags:
-- India
-- CommonwealthGames
+- india
+- commonwealth-games
 - friends
 - travelling
 modified_time: '2011-07-21T13:48:31.561+05:30'

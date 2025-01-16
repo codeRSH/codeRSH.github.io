@@ -5,7 +5,7 @@ title: ToDo Today
 date: '2011-01-01T15:06:00.003+05:30'
 author: RavS
 tags:
-- newYear
+- new-year
 - experiment
 - humor
 - friends

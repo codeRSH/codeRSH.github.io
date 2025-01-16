@@ -70,7 +70,7 @@ Then came 2011 as I left College. Something changed. I was bored. I wanted to tr
 
 I thought may be I can also write something serious. So, I started putting some of my own thoughts in the form of rhyming lines. Most would get ignored, but some started to get appreciated too. It was fun. Friends were encouraging. And the best part, my Superstar friend was appreciative. He would critic them sometimes, sometimes he would write a few lines in 'response' to my own (a tradition that continues till date). It was such a humbling experience. So slowly, it started to become a habit. 
 
-I also started to put the long form of the poems on the **[main blog]({% post_url 2012-01-20-i-will-listen %})**. Then sometime in early 2012 I realized, may be I could be in this for the long run. So why not archive my creations? And hence the project **[#1000Sher was born]({% post_url 2012-06-25-now-introducing-1000-sher %})**. 
+I also started to put the long form of the poems on the **[main blog]({% post_url 2012-01-20-i-will-listen %})**. Then sometime in early 2012 I realized, may be I could be in this for the long run. So why not archive my creations? And hence the project **[#1000sher was born]({% post_url 2012-06-25-now-introducing-1000-sher %})**. 
 
 1000 Sher! - it's intimidating. But the number isn't impossible to achieve either. It's going to take years and years of constantly writing shit. But I am up for the challenge. 
 
@@ -78,6 +78,6 @@ My Superstar friend(s) have been supportive and that has always been an essentia
 
 Do I write good? I don't know. It may very well be ordinary. Who am I to judge? But my yardstick is that if at least one person likes it genuinely, then it's an effort well spent. And by that yardstick 95% of my compositions (in whatever form) have been successful. 
 
-I don't know if Project #1000Sher will ever see its completion. It's an ultra-marathon considering I am not a professional writer. But I am not giving up on it anytime in the near future. 
+I don't know if Project #1000sher will ever see its completion. It's an ultra-marathon considering I am not a professional writer. But I am not giving up on it anytime in the near future. 
 
 And ohh!... Vikas, the Superstar Poet/Philosopher/Friend in my life  for the past 1 decade. And the one who has been an inspiration of it all - Thank You!
