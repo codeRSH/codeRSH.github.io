@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: Bhains Ki Post
-date: '2011-01-14T14:16:00.002+05:30'
-author: RavS
+date: 2011-01-14
 tags:
 - exams
 - buffalo
 - humor
-modified_time: '2011-07-30T20:27:19.482+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1042932962501099116
-blogger_orig_url: https://ravs.in/2011/07/bhains-ki-post.html
 ---
 
 **Q. 9: What do you know about foot and mouth disease of African Buffalo? Explain with an elaborate diagram.**                              **(15 Marks)**

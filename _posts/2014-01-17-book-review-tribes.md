@@ -2,18 +2,13 @@
 public: yes
 layout: post
 title: 'Book Review: "Tribes"'
-date: 2014-01-17T01:39:00.000+05:30
-author:
-  - RavS
+date: 2014-01-17
 tags:
   - first
   - book-review
-modified_time: 2014-01-17T01:39:28.489+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3790870678281610251
-blogger_orig_url: https://ravs.in/2014/01/book-review-tribes.html
 ---
 
-Reading 50 books this year is one of **[my new year's resolutions]({% post_url 2014-01-01-2014-greatest-year-yet_1 %})**. I am running late on it though and I take this opportunity to blame my other resolution of publishing 31 posts in January. It's taking all my focus right now, if not all the time. 
+Reading 50 books this year is one of **[my new year's resolutions]({% post_url 2014-01-01-2014-greatest-year-yet %})**. I am running late on it though and I take this opportunity to blame my other resolution of publishing 31 posts in January. It's taking all my focus right now, if not all the time. 
 
 But anyway, I had decided to do a **[book review today](https://medium.com/30-day-challenge/4ec9e5d67292)** and I would go ahead with one. Now, I don't know how to review a book. I haven't even read a full fledged book review to know what it actually looks like. That's exactly the reason I am doing it here. 
 

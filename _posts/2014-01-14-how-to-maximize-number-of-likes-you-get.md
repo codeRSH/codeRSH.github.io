@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: How to maximize the number of 'Likes' you get on Facebook!
-date: 2014-01-14T01:00:00.000+05:30
-author:
-  - RavS
+date: 2014-01-14
 tags:
   - facebook
-modified_time: 2014-01-14T01:10:10.723+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-450161569387516380
-blogger_orig_url: https://ravs.in/2014/01/how-to-maximize-number-of-likes-you-get.html
 ---
 
 **Note:** _The following is republished from my now defunct FB notes. I am putting this hard earned knowledge out again in the public domain for the greater good of FB humanity._  

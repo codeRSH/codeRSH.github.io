@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: A Bunch of Thoughts
-date: '2019-11-03T23:40:00.003+05:30'
-author: RavS
+date: 2019-11-03
 tags:
 - thoughts
-modified_time: '2019-11-03T23:40:41.635+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3588730306529627231
-blogger_orig_url: https://ravs.in/2019/11/a-bunch-of-thoughts.html
 ---
 
 Again in the spirit of [Removing Friction]({{ site.baseurl }}{% post_url 2019-10-22-removing-friction %}), I am just stating a bunch of thoughts here. These are random thoughts which may not have any correlation (or may be they have). May be in future,  I will make them as themes of my future blog posts (or may be I won't). But some of them have been going on in my head for far too long. It's just better, if I can put them on (virtual) paper.

@@ -2,17 +2,11 @@
 public: yes
 layout: post
 title: An Open Letter To A Friend
-date: 2014-01-10T01:00:00.000+05:30
-author:
-  - RavS
+date: 2014-01-10
 tags:
   - open-letter
   - promise
   - friends
-modified_time: 2014-01-10T01:00:00.482+05:30
-thumbnail: http://3.bp.blogspot.com/-FrmKViwztpE/Us4rjSAJ6bI/AAAAAAAADec/H7Q8FSqOa80/s72-c/media-20140109.png
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1960912126667726958
-blogger_orig_url: https://ravs.in/2014/01/an-open-letter-to-friend.html
 ---
 
 [![](http://3.bp.blogspot.com/-FrmKViwztpE/Us4rjSAJ6bI/AAAAAAAADec/H7Q8FSqOa80/s1600/media-20140109.png)](http://3.bp.blogspot.com/-FrmKViwztpE/Us4rjSAJ6bI/AAAAAAAADec/H7Q8FSqOa80/s1600/media-20140109.png)

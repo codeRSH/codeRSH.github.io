@@ -2,14 +2,10 @@
 public: yes
 layout: post
 title: The 1 Week Experiment
-date: '2012-05-29T10:48:00.001+05:30'
-author: RavS
+date: 2012-05-29
 tags:
   - experiment
   - friends
-modified_time: '2012-05-29T10:48:32.739+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6833826295697495174
-blogger_orig_url: https://ravs.in/2012/05/1-week-experiment
 ---
 
 First thing first, I apologize to all those who were inconvenienced by my 'bizarre' experiment of not accessing FB, Msgs and Lync for a full week. This life experiment was called everything from 'stupid' to 'manic', which is understandable. But the fact is, this is **[not the first time]({% post_url 2011-07-17-no-internet-experiment %})** I have done something like this. Those who know me for a long time would know about [**some**](http://thinkxp.blogspot.in/search/label/31DLH) of my **[past similar life-experiments]({% post_url 2010-10-10-my-experiments-with-truth-life-during %})**. In fact, I am a self-proclaimed life hacker and a life hacker keeps on hacking his life, trying new stuffs to see what works for him and what doesn't.

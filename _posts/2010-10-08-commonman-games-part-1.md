@@ -2,16 +2,12 @@
 public: yes
 layout: post
 title: 'The CommonMan Games: Part 1'
-date: '2010-10-08T13:31:00.006+05:30'
-author: RavS
+date: 2010-10-08
 tags:
 - india
 - commonwealth-games
 - friends
 - travelling
-modified_time: '2011-07-21T13:38:30.551+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6777624393113966590
-blogger_orig_url: https://ravs.in/2010/10/commonman-games-part-1.html
 ---
 
 We are having CWG in India this time (now that's _Breaking News_!) and there was no way I was gonna miss being a part of it. After all these games are being organized for me(read an Indian) by My country (that's India stupid). I got the opportunity to be at 2 different stadium, on 2 different days, for 2 different events (with 2 slightly different sets of friends!). So, how was the experience? There you go:

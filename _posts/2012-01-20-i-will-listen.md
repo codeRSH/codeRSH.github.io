@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: I Will Listen.
-date: '2012-01-20T18:59:00.001+05:30'
-author: RavS
+date: 2012-01-20
 tags: 
 - poem 
-modified_time: '2012-01-20T19:03:26.778+05:30' 
-thumbnail: http://4.bp.blogspot.com/-uaMwLKKJBbI/TxlrsU6zQdI/AAAAAAAAA0E/mjLxrV\_U\_zk/s72-c/2163760529\_914e576884\_b.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6632877422675691630
-blogger_orig_url: https://ravs.in/2012/01/i-will-listen
 ---
 
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody><tr><td style="text-align: center;"><a href="http://www.flickr.com/photos/ktylerconk/2163760529/" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" height="320" src="http://4.bp.blogspot.com/-uaMwLKKJBbI/TxlrsU6zQdI/AAAAAAAAA0E/mjLxrV_U_zk/s320/2163760529_914e576884_b.jpg" width="256"></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="http://draft.blogger.com/goog_1998998281">Taken from Flickr under CC license</a></td><td class="tr-caption" style="text-align: center;"><br></td></tr></tbody></table>

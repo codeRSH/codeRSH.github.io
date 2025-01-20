@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: 'Battle Royale : RavS vs Ravi'
-date: '2011-07-28T16:29:00.016+05:30'
-author: RavS
+date: 2011-07-28
 tags:
 - ravs
-modified_time: '2011-07-30T20:30:55.155+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2437024381047201961
-blogger_orig_url: https://ravs.in/2011/07/battle-royale-ravs-vs-ravi.html
 ---
 
 To you \*RavS\* and \*Ravi\* might be one and the same, or the names might even not matter. But for me, RavS and Ravi seem to be 2 completely different personalities. It's like I have dual nature and I don't know which one is correct or better than the other. So, to get a clearer view, I asked myself the question... 

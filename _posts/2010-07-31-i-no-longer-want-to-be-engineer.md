@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: I NO Longer WANT to be an Engineer
-date: '2010-07-31T12:29:00.007+05:30'
-author: RavS
+date: 2010-07-31
 tags:
   - college
-modified_time: '2011-07-30T19:20:38.752+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6183707198909998215
-blogger_orig_url: https://ravs.in/2010/07/i-no-longer-want-to-be-engineer.html
 ---
 
 _(The very first post turned out to be a Super blog rather than a mini one, as promised. Well, sorry, but I had strong opinions on this one..)_

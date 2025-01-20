@@ -6,7 +6,6 @@ tags:
  - metablogging
  - special
 layout: post
-author: RavS
 permalink: /blog/new-look
 ---
 

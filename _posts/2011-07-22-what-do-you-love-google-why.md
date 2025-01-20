@@ -2,14 +2,10 @@
 public: yes
 layout: post
 title: 'What do you Love?: Google (Why)'
-date: '2011-07-22T19:56:00.001+05:30'
-author: RavS
+date: 2011-07-22
 tags:
 - technology
 - google
-modified_time: '2011-07-22T20:14:27.766+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2400745005356273609
-blogger_orig_url: https://ravs.in/2011/07/what-do-you-love-google-why.html
 ---
 
 The "Why" do I love Google is even important than the **[previous post]({% post_url 2011-07-20-what-do-you-love-google %})** which was mostly a free and very liberal advertisement of Google and its services. The reason it is important is because this is the question I have been asked a few times (why am I such a big fanboy), and while I have always had my reasons, I never articulated them. So here we go:

@@ -2,16 +2,10 @@
 public: yes
 layout: post
 title: Meri Bhains ko Andaa kyon maara?
-date: 2014-02-19T12:26:00.000+05:30
-author:
-  - RavS
+date: 2014-02-19
 tags:
   - buffalo
   - humor
-modified_time: 2014-02-20T10:25:21.201+05:30
-thumbnail: http://1.bp.blogspot.com/-6Qp7Z4QjjxM/Uv8ZuQ4q3aI/AAAAAAAADpY/8IckO8qB\_-M/s72-c/IMG\_0582a.JPG
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8543105044633495006
-blogger_orig_url: https://ravs.in/2014/02/meri-bhains-ko-andaa-kyon-maara.html
 ---
 
 > Aka... **Why did you hit my buffalo with an egg?**
@@ -31,7 +25,7 @@ Well, I don't know....
   
 **May be I just wanted to argue with you.** (Which means either I hate you, or I like you a lot. Like really a lot).  
   
-**May be I just wanted you to talk to me, so that I can tell you an important thing.** "Why didn't you call bro?" You ask. **[Well]({% post_url 2011-01-23-that-awkward-phone-conversation %})**. **[Well]({% post_url 2013-05-29-my-phone-my-rules %})**. **[Well]({% post_url 2014-01-01-2014-greatest-year-yet_1 %})**..  
+**May be I just wanted you to talk to me, so that I can tell you an important thing.** "Why didn't you call bro?" You ask. **[Well]({% post_url 2011-01-23-that-awkward-phone-conversation %})**. **[Well]({% post_url 2013-05-29-my-phone-my-rules %})**. **[Well]({% post_url 2014-01-01-2014-greatest-year-yet %})**..  
   
 **May be I was just aiming at you, but your loyal bhains came in between to save her master.** (Quite a possibility. I have a very bad aim. Besides numerous scientific researches say bhains is more loyal than dogs).  
   

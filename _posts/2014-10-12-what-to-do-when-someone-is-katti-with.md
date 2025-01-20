@@ -2,16 +2,10 @@
 public: yes
 layout: post
 title: What to do when someone is "Katti" with you
-date: 2014-10-12T02:46:00.000+05:30
-author:
-  - RavS
+date: 2014-10-12
 tags:
   - friends
   - flowchart
-modified_time: 2014-10-12T02:46:42.317+05:30
-thumbnail: http://1.bp.blogspot.com/-xyYq32\_3N4k/VDmaPdIF39I/AAAAAAAAJow/psv8RPBaNXI/s72-c/Screenshot\_2014-10-11-13-10-48.png
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2221367913815161176
-blogger_orig_url: https://ravs.in/2014/10/what-to-do-when-someone-is-katti-with.html
 ---
 
 OK, I have got a problem. Someone I know is Katti from me. Yeah, you heard it right, K.A.T.T.I. - Katti.

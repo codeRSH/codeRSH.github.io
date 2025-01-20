@@ -6,7 +6,6 @@ tags:
  - thoughts
  - frustration
 layout: post
-author: RavS
 permalink: /blog/pay-off
 ---
 

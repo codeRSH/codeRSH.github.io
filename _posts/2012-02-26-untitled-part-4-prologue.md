@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: 'Untitled: Part 4 (Prologue)'
-date: '2012-02-26T00:21:00.000+05:30'
-author: RavS
+date: 2012-02-26
 tags:
   - fiction
-modified_time: '2012-12-28T12:58:16.239+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5500353306711604283
-blogger_orig_url: https://ravs.in/2012/02/untitled-part-4-prologue
 ---
 
 [**\[Previous Part\]**]({% post_url 2012-02-19-untitled-part-3 %})

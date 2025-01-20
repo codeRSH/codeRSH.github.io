@@ -2,16 +2,12 @@
 public: yes
 layout: post
 title: '... तो अच्छा लगता है.'
-date: '2012-01-22T14:26:00.000+05:30'
-author: RavS
+date: 2012-01-22
 tags:
   - poem 
   - special 
   - hindi 
   - Love
-modified_time: '2012-08-10T18:34:11.483+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8443917633255618407
-blogger_orig_url: https://ravs.in/2012/01/blog-post\_22
 ---
 
 \[Translated version [**here**]({% post_url 2012-01-22-it-feels-good %})\]

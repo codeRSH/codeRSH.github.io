@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: Back from the dead - Don’t Complain.
-date: 2017-09-11T23:02:00.000+05:30
-author:
-  - RavS
+date: 2017-09-11
 tags:
   - birthday
-modified_time: 2017-09-11T23:02:33.488+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5220323828013168666
-blogger_orig_url: https://ravs.in/2017/09/back-from-dead-dont-complain.html
 ---
 
 In January 2015, I wrote a post called []({{ site.baseurl }}{% post_url 2015-01-11-consistent-and-reliable %})[**Consistent and Reliable**]({{ site.baseurl }}{% post_url 2015-01-11-consistent-and-reliable %}) expressing my desire to be more and consistent and reliable in my life in general and in blogging specifically. 

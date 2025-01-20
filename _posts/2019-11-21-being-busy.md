@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: Being Busy
-date: '2019-11-21T23:49:00.004+05:30'
-author: RavS
+date: 2019-11-21
 tags:
 - thoughts
-modified_time: '2019-11-21T23:49:58.066+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5044258508039140238
-blogger_orig_url: https://ravs.in/2019/11/being-busy.html
 ---
 
 A friend of mine is calling me since last 3-4 days and I haven't been able to return his call. I have been meaning to but since it's usually long conversation with him, so I try to find a relatively big chunk of time (say 30 mins or so) to call him back.

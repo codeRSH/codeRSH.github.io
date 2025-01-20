@@ -2,16 +2,11 @@
 public: yes
 layout: post
 title: Aur Roti Fir Jal Gayi
-date: 2014-02-15T16:08:00.001+05:30
-author:
-  - RavS
+date: 2014-02-15
 tags:
   - special
   - first
   - satire
-modified_time: 2014-02-15T16:08:11.746+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6117811358419374927
-blogger_orig_url: https://ravs.in/2014/02/aur-roti-fir-jal-gayi.html
 ---
 
 Subah utha to sir ka dard kuch kam tha. Aaj shanivaar tha to ek ghanta jyada sone ko mila. Jab shanivaar, itvaar ko chutti milti hai to lagta hai is duniya me sach me bhagwaan hain.

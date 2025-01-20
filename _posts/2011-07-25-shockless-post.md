@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: A Shockless Post
-date: '2011-07-25T19:22:00.046+05:30'
-author: RavS
+date: 2011-07-25
 tags:
 - electricity
-modified_time: '2011-07-26T20:13:14.489+05:30'
-thumbnail: http://farm1.static.flickr.com/29/101363593_eda80c6729_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3391619254521786249
-blogger_orig_url: https://ravs.in/2011/07/shockless-post.html
 ---
 
 **Note:** _If you have power backup at home all the time, this may not be the best post for you to read. Having said that, no one will hate you if you go on to read it anyway :)_

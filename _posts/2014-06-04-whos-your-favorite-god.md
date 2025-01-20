@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: "\"Who's Your Favorite God?\""
-date: 2014-06-04T10:41:00.000+05:30
-author:
-  - RavS
+date: 2014-06-04
 tags:
   - crowd-sourced
   - god
-modified_time: 2014-06-09T10:47:38.218+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8091760485323143153
-blogger_orig_url: https://ravs.in/2014/06/whos-your-favorite-god.html
 ---
 
 So a few days ago, I asked my family, friends and associates about who's their favorite God (about 37 of them). 16 of them replied (must have been my lucky day!). Some of them told about having multiple favorites. And that's fine. It's difficult to have a single "favorite" God when we have so many choices. 

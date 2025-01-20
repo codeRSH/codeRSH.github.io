@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: Resetting Priorities
-date: 2014-01-02T00:25:00.001+05:30
-author:
-  - RavS
+date: 2014-01-02
 tags:
   - priorities
-modified_time: 2014-01-02T00:25:33.231+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4609156664892352714
-blogger_orig_url: https://ravs.in/2014/01/resetting-priorities.html
 ---
 
 **Note:** _This post is written more for me than for anyone else. But if you still choose to read it, I hope it encourages you to think about what are the priorities of your life._ 

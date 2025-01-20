@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: 'Untitled : Part 12'
-date: '2014-03-01T19:33:00.002+05:30'
-author: RavS
+date: 2014-03-01
 tags: 
 - fiction
-modified_time: '2014-03-04T00:49:05.456+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-656605846890697190
-blogger_orig_url: https://ravs.in/2014/03/untitled-part-12\_1.html
 ---
 
 **[\[Previous Part\]]({% post_url 2014-02-23-untitled-part-11 %})**

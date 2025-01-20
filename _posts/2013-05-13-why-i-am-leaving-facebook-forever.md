@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: Why I am Leaving Facebook... Forever.
-date: '2013-05-13T22:20:00.000+05:30'
-author: RavS
+date: 2013-05-13
 tags:
 - facebook
-modified_time: '2013-05-19T22:48:16.424+05:30'
-thumbnail: http://4.bp.blogspot.com/-SGXxPUVA4Tg/UZkJKeUOtQI/AAAAAAAABjg/jCbBQ9bOAJc/s72-c/Ra+Vi.png
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4641351896907293584
-blogger_orig_url: https://ravs.in/2013/05/why-i-am-leaving-facebook-forever.html
 ---
 
 On 29th of May 2013, I will be completing 2 years on Facebook and I will use the occasion to PERMANENTLY delete my FB account, hopefully never to come back to it again. In a way, it's not a big deal. I mean, it's not as if I am leaving my online life forever. But, looking it from another angle, it IS a big deal. Facebook, like it or not, is the second identity of millions of people online. 

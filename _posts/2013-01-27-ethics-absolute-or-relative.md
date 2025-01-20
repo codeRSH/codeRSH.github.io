@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: 'Ethics: Absolute or Relative?'
-date: '2013-01-27T20:35:00.000+05:30'
-author: RavS
+date: 2013-01-27
 tags:
 - special
 - ethics
 - friends
-modified_time: '2013-01-27T20:54:02.758+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-508309468450407462
-blogger_orig_url: https://ravs.in/2013/01/ethics-absolute-or-relative.html
 ---
 
 I love collaborations, more so if it's [**in writing**]({% post_url 2011-08-02-superstitious-views %})! This Monday I asked some of my friends (after being asked by one of my friends) the following question:

@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: How To Invite People To A Wedding
-date: '2014-05-24T13:58:00.000+05:30'
-author: RavS
+date: 2014-05-24
 tags: 
 - wedding
-modified_time: '2014-05-24T13:58:05.964+05:30' 
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3170092267590803925 
-blogger_orig_url: https://ravs.in/2014/05/how-to-invite-people-to-wedding.html
 ---
 
 I hate the world. Each and every person in this world. Well... actually not every person. There are a few people I love. My family. My friends. Babies. People who inspire me. Beautiful girls which make the world a better place just by being beautiful. My favorite Authors. Scarlette Johansson.

@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: List of 10 Reasons Why I Write in List Format
-date: 2014-03-12T12:51:00.000+05:30
-author:
-  - RavS
+date: 2014-03-12
 tags:
   - writing
-modified_time: 2014-04-27T12:56:10.241+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2222557812633004400
-blogger_orig_url: https://ravs.in/2014/03/list-of-10-reasons-why-i-write-in-list.html
 ---
 
 About 2 months ago, I wrote a post titled "Love will make you Bankrupt".  I usually don't write about "these" kinda stuffs, but I took a gamble. So when I finished it and hit published, I imagined 1000s and 1000s of followers to tell me how much they were moved by my writing. 

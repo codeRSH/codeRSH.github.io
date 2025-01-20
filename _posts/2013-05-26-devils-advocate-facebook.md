@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: 'Devil''s Advocate: Facebook'
-date: '2013-05-26T13:49:00.002+05:30'
-author: RavS
+date: 2013-05-26
 tags:
 - facebook
 - advocate
-modified_time: '2013-05-26T13:59:13.227+05:30'
-thumbnail: http://2.bp.blogspot.com/-gKY1J-rsIPY/UaHEBlconrI/AAAAAAAABl4/QkUlu-amRxQ/s72-c/Ra+Vi+-+Profile+2013-05-26+13-39-17.png
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3960850315951952386
-blogger_orig_url: https://ravs.in/2013/05/devils-advocate-facebook.html
 ---
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img border="0" height="247" src="http://2.bp.blogspot.com/-gKY1J-rsIPY/UaHEBlconrI/AAAAAAAABl4/QkUlu-amRxQ/s400/Ra+Vi+-+Profile+2013-05-26+13-39-17.png" style="margin-left: auto; margin-right: auto;" width="400"></td></tr><tr><td class="tr-caption" style="text-align: center;">FB led me download my whole profile as HTML files in a neat 60 MB archive. Sweet!</td></tr></tbody></table>

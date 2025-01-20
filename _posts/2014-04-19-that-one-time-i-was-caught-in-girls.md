@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: That One Time I was caught in Girls' Toilet
-date: 2014-04-19T16:28:00.000+05:30
-author:
-  - RavS
+date: 2014-04-19
 tags:
   - humor
-modified_time: 2014-04-19T16:28:28.879+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5003257590401533999
-blogger_orig_url: https://ravs.in/2014/04/that-one-time-i-was-caught-in-girls.html
 ---
 
 I was coming out and she was going in. She raised both her eyebrows to acknowledge me. I pouted in response and tried to hurry up. We almost passed each other until she realized the scandal. 

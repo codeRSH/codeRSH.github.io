@@ -2,14 +2,10 @@
 public: yes
 layout: post
 title: When you came in thoughts... (An year ago)
-date: '2012-07-08T22:31:00.000+05:30'
-author: RavS
+date: 2012-07-08
 tags:
   - poem 
   - Love
-modified_time: '2012-07-08T22:34:58.425+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-583741879920073633
-blogger_orig_url: https://ravs.in/2012/07/when-you-came-in-thoughts-year-ago
 ---
 
 You know I have never met you  

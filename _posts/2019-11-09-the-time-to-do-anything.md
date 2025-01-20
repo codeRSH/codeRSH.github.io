@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: The Time to do Anything.
-date: 2019-11-09T23:30:00.000+05:30
-author:
-  - RavS
+date: 2019-11-09
 tags:
   - writing
-modified_time: 2019-11-10T00:11:40.965+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3584301054777969587
-blogger_orig_url: https://ravs.in/2019/11/the-time-to-do-anything.html
 ---
 
 We all have a natural time to do everything. Time to sleep, time to wake up refreshed, time to eat and time to work etc. And while we are taught early to bed and early to rise, that schedule doesn't work best for everyone ( including me ). Everyone's circadian cycle is different. Whether that can be reset permanent is what I am not sure of. But what's definitely sure is that when you do something out of your best time to do it, then you can't put your best efforts in it (redundant statement?).

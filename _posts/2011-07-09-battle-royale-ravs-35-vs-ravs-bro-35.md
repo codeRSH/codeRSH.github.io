@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: 'Battle Royale: RavS 3.5 Vs RavS'' Bro 3.5'
-date: '2011-07-09T10:35:00.000+05:30'
-author: RavS
+date: 2011-07-09
 tags:
 - nostalgia
 - humor
 - ravs
-modified_time: '2011-07-09T10:35:40.192+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-579929698732688752
-blogger_orig_url: https://ravs.in/2011/07/battle-royale-ravs-35-vs-ravs-bro-35.html
 ---
 
 So, here is something interesting I thought about writing for today. You know I have a little brother (technically he is my cousin, but now since he lives with us permanently, I don't like to call him a cousin, so no more explanation about him from now on). And he is really crazy (like you would like little kids to be). He has left me wondering how was I at his age. So, I thought a little bit about it and came up with following points for comparison:

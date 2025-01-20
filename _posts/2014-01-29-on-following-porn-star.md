@@ -2,16 +2,10 @@
 public: yes
 layout: post
 title: On Following A Porn Star
-date: 2014-01-29T00:27:00.000+05:30
-author:
-  - RavS
+date: 2014-01-29
 tags:
   - porn
   - twitter
-modified_time: 2014-01-29T08:00:22.627+05:30
-thumbnail: http://2.bp.blogspot.com/-7P4XN\_uAOP4/UuVeQwf2nqI/AAAAAAAADhQ/CjQKY5HXfso/s72-c/Screenshot+from+2014+01+27+00+15+10.png
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4481088894203190655
-blogger_orig_url: https://ravs.in/2014/01/on-following-porn-star.html
 ---
 
 Ahh... The post about porn. The post about a porn star. Well if you are one of the conservatives, you can probably skip this. If you are a hypocrite, you can read it and pretend that you skipped it. If you are reading it just to "haww" me, I welcome you. Let's schedule a meeting to discuss porn and "haww" someday. In any case, let's begin...

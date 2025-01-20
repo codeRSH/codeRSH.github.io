@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: My Tux Story
-date: '2013-05-14T22:38:00.000+05:30'
-author: RavS
+date: 2013-05-14
 tags: 
 - linux 
 - story
-modified_time: '2013-05-19T22:46:09.754+05:30'
-thumbnail: http://2.bp.blogspot.com/-TVhHShafQuc/UZkIkMl8BCI/AAAAAAAABjY/Ld\_r2to6K1c/s72-c/Linux.jpg 
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5423764583845022336 
-blogger_orig_url: https://ravs.in/2013/05/my-tux-story.html
 ---
 
 Long ago I wrote about **[How I bid XP goodbye]({% post_url 2010-12-22-good-bye-xp-will-miss-you %})** and I also mentioned a little bit about my **[love for Linux]({% post_url 2011-06-28-what-do-you-love-linux %})**. Here I elaborate my decade long journey with Linux OS and my current views on it. 

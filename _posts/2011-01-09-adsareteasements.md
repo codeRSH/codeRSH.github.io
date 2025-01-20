@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: AdsAreTeasements
-date: '2011-01-09T14:04:00.000+05:30'
-author: RavS
+date: 2011-01-09
 tags:
 - tv
 - cricket
 - nostalgia
-modified_time: '2011-07-22T14:06:26.449+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1908721009131141931
-blogger_orig_url: https://ravs.in/2011/01/adsareteasements.html
 ---
 
 So, India-South-Africa Test Series concluded recently. And what a great series it was. Though India couldn't come out trumps but it was heartening to see them fighting RSA ball to ball (literally!).

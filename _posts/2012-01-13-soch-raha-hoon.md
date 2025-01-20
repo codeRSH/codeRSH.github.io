@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: सोच रहा हूँ... एक गर्लफ्रेंड बना लूं...
-date: '2012-01-13T13:33:00.000+05:30'
-author: RavS
+date: 2012-01-13
 tags:
   - poem 
   - hindi 
   - humor
-modified_time: '2014-01-12T23:35:52.393+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4920499592189391875
-blogger_orig_url: https://ravs.in/2012/01/blog-post
 ---
 
 सोच  रहा  हूँ  बहुत  दिनों  से ,  

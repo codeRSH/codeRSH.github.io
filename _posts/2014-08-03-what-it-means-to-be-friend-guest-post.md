@@ -2,16 +2,10 @@
 public: yes
 layout: post
 title: "What it means to be a Friend? (Guest Post)"
-date: 2014-08-03T10:54:00.000+05:30
-author:
-  - RavS
+date: 2014-08-03
 tags:
   - guest
   - friends
-modified_time: 2014-08-03T10:54:06.272+05:30
-thumbnail: http://3.bp.blogspot.com/-tuFfQ0T9bAo/U93HCMJYRFI/AAAAAAAAE-8/9APs3L6uuMo/s72-c/IMG-20140803-WA0017.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-892033414797827046
-blogger_orig_url: https://ravs.in/2014/08/what-it-means-to-be-friend-guest-post.html
 ---
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><img border="0" src="http://3.bp.blogspot.com/-tuFfQ0T9bAo/U93HCMJYRFI/AAAAAAAAE-8/9APs3L6uuMo/s1600/IMG-20140803-WA0017.jpg" style="margin-left: auto; margin-right: auto;"></td></tr><tr><td class="tr-caption" style="text-align: center;">One of 'those' pages.</td></tr></tbody></table>

@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: I want to be a fiction writer.
-date: '2019-11-04T23:59:00.000+05:30'
-author: RavS
+date: 2019-11-04
 tags:
 - fiction
-modified_time: '2019-11-05T00:00:28.274+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1896173755079321140
-blogger_orig_url: https://ravs.in/2019/11/i-want-to-be-fiction-writer.html
 ---
 
 If you are reading this, I have a ask from you. But let's come to that in a moment. Let me first tell you the story of how my first novella came into being - The Eleventh Hour (if you don't know it already).

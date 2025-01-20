@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: मेरठ के कीड़े
-date: '2014-01-19T01:00:00.000+05:30'
-author: RavS
+date: 2014-01-19
 tags: 
 - fiction 
 - society 
 - hindi
-modified_time: '2014-01-19T02:47:23.034+05:30' 
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3948324109670201787 
-blogger_orig_url: https://ravs.in/2014/01/blog-post.html
 ---
 
 **Note:** Below is a work of fiction. While any resemblance with anyone would be totally coincidental, I have tried to keep it 'believable' by using real places and settings. It should be taken as my commentary and thoughts on one of India's prime social issues.  

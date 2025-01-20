@@ -2,17 +2,13 @@
 public: yes
 layout: post
 title: My First Mental Vomit [Poem]
-date: '2010-12-25T15:13:00.000+05:30'
-author: RavS
+date: 2010-12-25
 tags:
 - poem
 - special
 - christmas
 - sad
 - first
-modified_time: '2013-01-01T18:57:41.231+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-9213260204258156047
-blogger_orig_url: https://ravs.in/2010/12/my-first-mental-vomit-poem.html
 ---
 
 Well its frustrating,  

@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: ज़िन्दगी - एक ट्रेन
-date: '2012-07-31T17:11:00.000+05:30'
-author: RavS
+date: 2012-07-31
 tags: 
 - poem 
 - hindi
-modified_time: '2012-08-05T17:13:38.241+05:30' 
-thumbnail: http://3.bp.blogspot.com/-GZ4Kq8ebXtU/UB5bstaKl-I/AAAAAAAABCo/CUKPpocwsiA/s72-c/IMG\_0746.JPG
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-9180410675086647450
-blogger_orig_url: https://ravs.in/2012/07/blog-post
 ---
 
 तेरे बिना ये ज़िन्दगी, वो ट्रेन का डिब्बा है लगता,

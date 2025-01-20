@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: Demonetisation. Why keep people in dark?
-date: 2019-11-08T23:46:00.001+05:30
-author:
-  - RavS
+date: 2019-11-08
 tags:
   - politics
-modified_time: 2019-11-08T23:46:18.179+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1320944492166353780
-blogger_orig_url: https://ravs.in/2019/11/demonetisation-why-keep-people-in-dark.html
 ---
 
 I just watched [this video](https://www.youtube.com/watch?v=U2oQPJou4Tw) very elaborately describing Demonetization story :  the process and the ill-effects of it .

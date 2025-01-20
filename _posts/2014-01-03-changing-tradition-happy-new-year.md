@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: 'Changing Tradition: "Happy New Year"'
-date: '2014-01-03T00:58:00.000+05:30'
-author: RavS
+date: 2014-01-03
 tags:
 - new-year
-modified_time: '2014-01-03T00:58:00.419+05:30'
-thumbnail: http://1.bp.blogspot.com/-a2JACTGGQeQ/UsRzF4LdoNI/AAAAAAAADdM/JMBgrYyHNnc/s72-c/media-20140101.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-184554846733455456
-blogger_orig_url: https://ravs.in/2014/01/changing-tradition-happy-new-year.html
 ---
 
 **Note:** _This post was written last year, but still remains relevant for this year. The update for this year is at the bottom._ 

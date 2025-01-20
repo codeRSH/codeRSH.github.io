@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: A rant against 'Society'
-date: '2013-05-15T23:01:00.000+05:30'
-author: RavS
+date: 2013-05-15
 tags: 
 - society 
-modified_time: '2013-05-19T23:02:27.639+05:30' 
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1398527588573024691 
-blogger_orig_url: https://ravs.in/2013/05/a-rant-against-society.html
 ---
 
 **Society:** _A community of people living in a particular region and having shared customs, laws and organizations._

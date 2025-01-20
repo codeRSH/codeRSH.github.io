@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: "February : The Toughest Month Yet. Review"
-date: 2014-03-23T10:44:00.000+05:30
-author:
-  - RavS
+date: 2014-03-23
 tags:
   - experiment
-modified_time: 2014-04-15T10:48:12.855+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7442291082770596708
-blogger_orig_url: https://ravs.in/2014/03/february-toughest-month-yet-review.html
 ---
 
 I thought February was **[my toughest month yet]({% post_url 2014-01-30-february-toughest-month-yet %})**, but March is turning out to be tougher than anything. I am dealing with some personal issues and hence have lost the will to write. I have ideas, but I don't feel like writing. But then, the only way to keep writing is to somehow keep writing. So, let's try. 

@@ -2,16 +2,12 @@
 public: yes
 layout: post
 title: My Idea... of an Ideal Teacher
-date: '2010-09-05T13:01:00.000+05:30'
-author: RavS
+date: 2010-09-05
 tags:
 - teacher
 - school
 - college
 - humor
-modified_time: '2011-07-21T13:08:21.479+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6696589039546098839
-blogger_orig_url: https://ravs.in/2010/09/my-idea-of-ideal-teacher.html
 ---
 
 >  _"Teachers teachers everywhere, everyone has to preach_

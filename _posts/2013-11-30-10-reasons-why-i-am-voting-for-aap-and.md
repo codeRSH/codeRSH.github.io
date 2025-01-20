@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: 10 reasons why I am voting for AAP... And why you should too.
-date: '2013-11-30T00:15:00.000+05:30'
-author: RavS
+date: 2013-11-30
 tags:
 - politics
 - aap
-modified_time: '2013-11-30T00:40:12.638+05:30'
-thumbnail: http://4.bp.blogspot.com/-UKsuqoOW3vk/Upjdzrm6mmI/AAAAAAAADIo/6RGXK03LEdQ/s72-c/BaPsJiaCUAEoM\_n.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-200273350485918976
-blogger_orig_url: https://ravs.in/2013/11/10-reasons-why-i-am-voting-for-aap-and.html
 ---
 
 Delhi goes to Election on the 4th of December, and if you live in Delhi with a valid Voter-ID, I sincerely hope that you will go and cast your vote. Because if you don't, then you would be worse than those who can't caste their vote and those who don't know the value of casting a vote.

@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: The Voice of a Writer
-date: '2019-11-06T23:21:00.003+05:30'
-author: RavS
+date: 2019-11-06
 tags:
 - writing
-modified_time: '2019-11-06T23:21:32.029+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7101359952320813473
-blogger_orig_url: https://ravs.in/2019/11/the-voice-of-writer.html
 ---
 
 I believe every writer has a voice. While a writer by definition puts written words on paper, but when you read them you get a sense of familiarity. I don't know what defines a writer's voice, it may be the tone of the passage (authoritative vs reflective), the length of the sentences (short exclamatory ones vs long sermons) or  the usage of words (simple vs terse) or the topics they choose to write on (philosophy, politics, historical fiction etc.). Or it may be something completely different. But what's true is that an accomplished writer's content will always distinguish her from her peers.

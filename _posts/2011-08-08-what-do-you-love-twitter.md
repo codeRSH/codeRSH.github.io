@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: 'What do you Love?: Twitter'
-date: '2011-08-08T14:10:00.010+05:30'
-author: RavS
+date: 2011-08-08
 tags:
 - friends
-modified_time: '2011-08-09T07:17:37.133+05:30'
-thumbnail: http://3.bp.blogspot.com/-YPl7ipgubno/Tj1HIXYohHI/AAAAAAAAAn0/8S6wCngtwq8/s72-c/Version-Diversion.png
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7038849525126858033
-blogger_orig_url: https://ravs.in/2011/08/what-do-you-love-twitter.html
 ---
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://3.bp.blogspot.com/-YPl7ipgubno/Tj1HIXYohHI/AAAAAAAAAn0/8S6wCngtwq8/s1600/Version-Diversion.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" height="265" src="http://3.bp.blogspot.com/-YPl7ipgubno/Tj1HIXYohHI/AAAAAAAAAn0/8S6wCngtwq8/s400/Version-Diversion.png" width="400"></a></td></tr><tr><td class="tr-caption" style="font-size: 13px; text-align: center;"><b>Miss the lady with the phone :'(</b></td></tr></tbody></table>

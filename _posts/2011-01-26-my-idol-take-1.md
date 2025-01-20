@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: My Idol. Take 1
-date: '2011-01-26T18:00:00.001+05:30'
-author: RavS
+date: 2011-01-26
 tags:
 - idol
-modified_time: '2011-01-26T22:22:22.691+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1384746277410588750
-blogger_orig_url: https://ravs.in/2011/01/my-idol-take-1.html
 ---
 
 During college, I have been asked this question 2 times "Who is your idol?". Both of the time I wrote/said about Michael Schumacher, the most successful F1 driver in history (at least statistically). But both times I asked myself, is MSC really your idol? And both times, the inner voice answered... NO. But then, who is my Idol?

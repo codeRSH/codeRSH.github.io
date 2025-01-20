@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: 'Gootle: Defined.'
-date: '2012-03-29T00:12:00.001+05:30'
-author: RavS
+date: 2012-03-29
 tags: 
 - humor 
 - friends 
-modified_time: '2012-03-29T00:12:31.384+05:30' 
-thumbnail: http://3.bp.blogspot.com/-pFTd0m9MCxM/T3ICKEimt3I/AAAAAAAAA3A/-9lHXHqMjPI/s72-c/IMG\_0561.png
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-162875959515333978
-blogger_orig_url: https://ravs.in/2012/03/gootle-defined
 ---
 
 **A Very Brief History**

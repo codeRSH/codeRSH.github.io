@@ -2,17 +2,12 @@
 public: yes
 layout: post
 title: Why Sunny Bhabhi must be the Prime Ministerial Candidate for India
-date: 2014-04-15T08:37:00.000+05:30
-author:
-  - RavS
+date: 2014-04-15
 tags:
   - india
   - politics
   - porn
   - humor
-modified_time: 2014-04-15T08:37:21.969+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6072183286353221288
-blogger_orig_url: https://ravs.in/2014/04/why-sunny-bhabhi-must-be-prime.html
 ---
 
 I am just fed up. I have stopped watching news now. When I wrote about **[AAP]({% post_url 2013-11-30-10-reasons-why-i-am-voting-for-aap-and %})** half an year ago, I was excited. Excited about where Indian politics was going. Hopeful that AAP was the real game changer as they promised to be. But alas they weren't. While I still support some off their leaders, I am disappointed with the way party exited from Delhi without proverbial warning.

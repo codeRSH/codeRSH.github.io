@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: "What are we becoming as a Society? "
-date: 2015-09-11T21:37:00.000+05:30
-author:
-  - RavS
+date: 2015-09-11
 tags:
   - birthday
   - 9-11
-modified_time: 2015-09-13T21:38:48.153+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6763219827836428098
-blogger_orig_url: https://ravs.in/2015/09/what-are-we-becoming-as-society.html
 ---
 
 Who am I really? What am I doing? Why doesn't "it", (it being whatever the heck I am doing ), "feel good"? 

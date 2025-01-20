@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: 'HR Interview: Part 1'
-date: '2011-05-31T14:49:00.002+05:30'
-author: RavS
+date: 2011-05-31
 tags:
 - job
-modified_time: '2011-07-09T11:47:41.996+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-960876295360916486
-blogger_orig_url: https://ravs.in/2011/05/hr-interview-part-1.html
 ---
 
 Well I gave two-three interviews (the HR ones) almost back to back, not a long time ago. Well I might have been successful in (at least one of) them (!) but I think I could have given the interview much-much better. The problem was that I wasn't really prepared to face those interviews (big mistake!). So here I am giving my views of how I should have given the interview so it would have looked perfect (in my eyes).

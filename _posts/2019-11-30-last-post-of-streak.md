@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: Last post of the Streak.
-date: '2019-11-30T00:32:00.000+05:30'
-author: RavS
+date: 2019-11-30
 tags:
 - writing
-modified_time: '2019-12-01T00:36:14.754+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-590995921017551214
-blogger_orig_url: https://ravs.in/2019/11/last-post-of-streak.html
 ---
 
 I had originally planned to continue this streak till end of the year, breaking my own record on this blog. However, I have decided to take a (hopefully small) break from the streak. I haven't been writing to my liking since past few days. I know it's not easy every day to write fluently, but it shouldn't feel like a chore either. Writing should come from the heart.

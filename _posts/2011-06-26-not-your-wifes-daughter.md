@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: Not Your Wife’s Daughter
-date: '2011-06-26T20:44:00.003+05:30'
-author: RavS
+date: 2011-06-26
 tags:
 - india
-modified_time: '2011-07-09T11:50:45.786+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4217781368453386354
-blogger_orig_url: https://ravs.in/2011/06/not-your-wifes-daughter.html
 ---
 
 _“A newly-born baby girl was found abandoned behind the Ram temple near a garbage depot in Dehu Road on Saturday around 7 am.....”_

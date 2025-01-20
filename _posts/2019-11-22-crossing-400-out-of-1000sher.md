@@ -2,16 +2,11 @@
 public: yes
 layout: post
 title: Crossing 400 out of 1000Sher
-date: 2019-11-22T00:30:00.000+05:30
-author:
-  - RavS
+date: 2019-11-22
 tags:
   - poem
   - special
   - 1000sher
-modified_time: 2019-11-23T00:31:44.175+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7348660626386702386
-blogger_orig_url: https://ravs.in/2019/11/crossing-400-out-of-1000sher.html
 ---
 
 After crossing 200 posts on this blog,  I have recently crossed 400 posts on my poetry blog [1000Sher.in](http://1000sher.in/) too :) Again a very happy moment and a great milestone for me.

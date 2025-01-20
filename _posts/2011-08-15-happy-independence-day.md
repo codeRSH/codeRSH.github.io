@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: Happy? Independence Day
-date: '2011-08-15T20:56:00.004+05:30'
-author: RavS
+date: 2011-08-15
 tags:
 - india
-modified_time: '2011-08-15T21:02:28.646+05:30'
-thumbnail: http://farm3.static.flickr.com/2256/2214658212_9d9183226f_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2476190934837134510
-blogger_orig_url: https://ravs.in/2011/08/happy-independence-day.html
 ---
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://www.flickr.com/photos/esparta/2214658212/" style="margin-left: auto; margin-right: auto;" title="Bengal Tiger / Tigre de Bengala (Panthera Tigris) by Esparta, on Flickr"><img alt="Bengal Tiger / Tigre de Bengala (Panthera Tigris)" height="333" src="http://farm3.static.flickr.com/2256/2214658212_9d9183226f.jpg" width="500"></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><b>The Indian Tiger. Sleeping.. or Defeated?</b></td></tr></tbody></table>

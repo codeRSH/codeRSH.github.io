@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: Maha Drama in Maharashtra
-date: '2019-11-26T23:52:00.001+05:30'
-author: RavS
+date: 2019-11-26
 tags:
 - politics
-modified_time: '2019-11-26T23:52:49.892+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2916261683369719010
-blogger_orig_url: https://ravs.in/2019/11/maha-drama-in-maharashtra.html
 ---
 
 If you have any interest in politics-or even if you don't have but have been following news-then you must be aware of the drama that's been unfolding in Maharashtra for the post of CM and for government formation. 

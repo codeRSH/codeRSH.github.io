@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: " When should you Write? On Inspiration or Daily? "
-date: 2019-11-20T00:14:00.000+05:30
-author:
-  - RavS
+date: 2019-11-20
 tags:
   - writing
-modified_time: 2019-11-21T00:16:59.467+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2891102470709551337
-blogger_orig_url: https://ravs.in/2019/11/when-should-you-write-on-inspiration-or.html
 ---
 
 One of the hardest aspect of writing daily blogs is to find a new topic every day. Sometimes you have an urgent or pressing issue/idea to talk about, so it's easy on those days. Sometimes, you have to think about what's bothering you or making you upset, and then share those thoughts. But other days you are just blank thinking what the heck to write today. Today was one of those days. 

@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: Mandir Vahin Banega!
-date: 2019-11-13T23:40:00.000+05:30
-author:
-  - RavS
+date: 2019-11-13
 tags:
   - ram
   - politics
-modified_time: 2019-11-13T23:40:22.747+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2392480597336724986
-blogger_orig_url: https://ravs.in/2019/11/mandir-vahin-banega.html
 ---
 
 I wrote about Ram Mandir/Babri Masjid dispute [just before the verdict]({{ site.baseurl }}{% post_url 2019-11-07-mandir-vahin-banayenge %}). Now that the verdict has confirm and a lot of people have given their views, I thought it warrants another post elaborating my own views on the verdict. 

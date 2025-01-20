@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: The NO Internet Experiment
-date: '2011-07-17T20:24:00.001+05:30'
-author: RavS
+date: 2011-07-17
 tags:
   - experiment
   - internet
-modified_time: '2011-07-17T20:34:29.802+05:30'
-thumbnail: http://farm4.static.flickr.com/3092/2807100863_4878e36d73_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8325583516565290529
-blogger_orig_url: https://ravs.in/2011/07/no-internet-experiment.html
 ---
 
 **AIM**

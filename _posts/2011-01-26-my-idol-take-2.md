@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: My Idol. Take 2
-date: '2011-01-26T22:18:00.002+05:30'
-author: RavS
+date: 2011-01-26
 tags:
 - idol
-modified_time: '2011-07-09T11:46:57.849+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2604159779235615325
-blogger_orig_url: https://ravs.in/2011/01/my-idol-take-2.html
 ---
 
 My whole life I have been in search for "My Idol". I consider an idol as a guru; someone to look up to every time you find yourself in a dilemma. Thinking what he/she would have done in this situation and then doing the same. But well till now I haven't been successful in my search.

@@ -2,14 +2,10 @@
 public: yes
 layout: post
 title: तुझे तराशने में उसको बहुत वक्त लगा होगा...
-date: '2012-02-18T18:19:00.003+05:30'
-author: RavS
+date: 2012-02-18
 tags:
   - poem 
   - hindi
-modified_time: '2012-08-10T18:26:17.998+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8343972882122406200
-blogger_orig_url: https://ravs.in/2012/02/blog-post\_18
 ---
 
 काजल के घेरे में महफूज़ दो आँखें,  

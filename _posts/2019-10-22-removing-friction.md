@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: Removing Friction
-date: '2019-10-22T00:10:00.000+05:30'
-author: RavS
+date: 2019-10-22
 tags:
 - thoughts
-modified_time: '2019-10-22T00:10:34.864+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3894731882459351240
-blogger_orig_url: https://ravs.in/2019/10/removing-friction.html
 ---
 
 I have talked about inertia before. How it's mind numbing and soul sucking. How the unfinished tasks just keep denting your confidence, and make you feel guilty until you are ready to bury yourself somewhere.

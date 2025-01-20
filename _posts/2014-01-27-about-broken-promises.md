@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: About Broken Promises
-date: 2014-01-27T01:26:00.000+05:30
-author:
-  - RavS
+date: 2014-01-27
 tags:
   - experiment
   - friends
-modified_time: 2014-01-27T01:31:30.586+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6705499752590160250
-blogger_orig_url: https://ravs.in/2014/01/about-broken-promises.html
 ---
 
 You always want to be remembered as a good person, don't you? Someone who mattered in the lives of other persons. Someone whom people can trust. I am no different. I am constantly on the edge, scared to lose family and friends. How would all the money, fame and happiness matter if you have no one to share with? 
@@ -25,7 +20,7 @@ There have been innumerable instances where I have promised something and not de
 - So many times I have been late for my appointments just because I wanted to listen to one more track from an album before I start getting ready.
 - So many times I have let my friends wait because I was probably coding something or writing a piece and didn’t want to leave it in between (or was too lazy to bath and get ready).
 - So many times I have promised to call someone but never did, just because I was ‘busy’. Sometimes I am actually busy or in a situation where taking up or making calls might not be possible or convenient. But often I deliberately put myself into such situations just so that I don’t have to indulge in ‘small talk’ which I am really path3tic in.
-- Some many times I have resolved (self-promised) to do something and then got lazy and lost motivation and came back to step 1 (or step 0). I am running so far behind in my new year resolutions, I have already started to doubt if 2014 could really be my **[greatest year yet]({% post_url 2014-01-01-2014-greatest-year-yet_1 %})**. It's just soul crushing.
+- Some many times I have resolved (self-promised) to do something and then got lazy and lost motivation and came back to step 1 (or step 0). I am running so far behind in my new year resolutions, I have already started to doubt if 2014 could really be my **[greatest year yet]({% post_url 2014-01-01-2014-greatest-year-yet %})**. It's just soul crushing.
 
 ...As I said, the instances are numerous and enumerating more is only going to make me **[more depressed]({% post_url 2014-01-04-i-am-depressed %})**. 
 

@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: My Experiments with -Truth- Life (during exams)
-date: '2010-10-10T19:52:00.001+05:30'
-author: RavS
+date: 2010-10-10
 tags:
 - experiment
-modified_time: '2011-07-17T19:59:19.821+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4822318335577986033
-blogger_orig_url: https://ravs.in/2010/10/my-experiments-with-truth-life-during.html
 ---
 
 Well 3 weeks ago I had my exam week. But hey, every student has exams. What's so special about them? Well, exams days _are_ special to me. Because during these days only, I don't know why, I do all kinds of experiments with my life, exams. Some of these experiments are pretty trivial like using black pen rather than usual blue ones, but some of them are so weird, I better not discuss them here. So, what all experiments did I perform during these exams? Lets see them:

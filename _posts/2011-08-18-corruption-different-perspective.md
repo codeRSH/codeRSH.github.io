@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: 'Corruption: A Different Perspective'
-date: '2011-08-18T23:30:00.000+05:30'
-author: RavS
+date: 2011-08-18
 tags:
 - india
 - corruption
-modified_time: '2011-08-22T11:07:23.046+05:30'
-thumbnail: http://farm2.static.flickr.com/1253/1402363280_5b6de07f20_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1047764628146492817
-blogger_orig_url: https://ravs.in/2011/08/corruption-different-perspective.html
 ---
 
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right; margin-left: 1em; text-align: right;"><tbody><tr><td style="text-align: center;"><a href="http://www.flickr.com/photos/watchsmart/1402363280/" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;" title="Corruption box by watchsmart, on Flickr"><img alt="Corruption box" height="320" src="http://farm2.static.flickr.com/1253/1402363280_5b6de07f20_b.jpg" width="240"></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Taken From Flickr, under CC License</td></tr></tbody></table>

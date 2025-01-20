@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: Superstitious Views
-date: '2011-08-02T06:35:00.000+05:30'
-author: RavS
+date: 2011-08-02
 tags:
 - thoughts
 - special
 - friends
-modified_time: '2011-08-02T06:35:21.342+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1028659013896195373
-blogger_orig_url: https://ravs.in/2011/08/superstitious-views.html
 ---
 
 OK, so I thought of something different this time. I asked my colleagues/friends to write down something like a guest post for me, on a common topic. And I chose the topic \*Superstition\* because I thought we were bound to get different opinions. I even didn't let them see each other’s post, so their own views doesn't get influenced. I gotta say, I wasn't disappointed! Indulge:

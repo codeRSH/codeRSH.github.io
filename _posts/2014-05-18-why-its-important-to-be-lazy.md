@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: Why It's Important To Be Lazy
-date: 2014-05-18T13:35:00.000+05:30
-author:
-  - RavS
+date: 2014-05-18
 tags:
   - advice
-modified_time: 2014-05-18T13:35:15.648+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1290579241198256054
-blogger_orig_url: https://ravs.in/2014/05/why-its-important-to-be-lazy.html
 ---
 
 **PS:** I wrote this article 2 months ago, but was too lazy to edit it and post. Until...

@@ -2,16 +2,11 @@
 public: yes
 layout: post
 title: Air Pollution. Suffering. Dear Politicians, are you listening?
-date: 2019-11-01T23:52:00.001+05:30
-author:
-  - RavS
+date: 2019-11-01
 tags:
   - politics
   - pollution
   - delhi
-modified_time: 2019-11-01T23:52:11.043+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-388375281263525116
-blogger_orig_url: https://ravs.in/2019/11/air-pollution-suffering-dear.html
 ---
 
 Dear PM of India Mr. Modi and CM Of Delhi Mr. Kejriwal. I am sure you would be seeing the kind of condition that us Delhites are going through . I am also quite sure that you are also breathing the same toxic air that we are forced to breath . I am sure you are concerned and even taking some measures to counteract this ‘disaster’. I can see Delhi Govt announcing leaves for school children , stopping construction work for a few days , Odd-Even Scheme getting implemented for 2 weeks etc.

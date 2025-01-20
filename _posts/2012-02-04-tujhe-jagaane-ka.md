@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: तुझे जगाने का मन नहीं करता...
-date: '2012-02-04T20:17:00.000+05:30'
-author: RavS
+date: 2012-02-04
 tags:
   - poem 
   - special 
   - hindi
-modified_time: '2012-02-04T20:20:06.617+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5033611382333433626
-blogger_orig_url: https://ravs.in/2012/02/blog-post
 ---
 
 सर रक्खा है मेरे कांधे पर,  

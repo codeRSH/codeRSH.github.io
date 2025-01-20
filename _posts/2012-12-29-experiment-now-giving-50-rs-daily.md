@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: "Experiment: Now Giving 50 Rs. Daily"
-date: 2012-12-29T21:12:00.002+05:30
-author:
-  - RavS
+date: 2012-12-29
 tags:
   - special
   - experiment
-modified_time: 2012-12-29T21:12:31.605+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2545802305766027162
-blogger_orig_url: https://ravs.in/2012/12/experiment-now-giving-50-rs-daily
 ---
 
 I recently reached 100 posts on this blog. Although I am pretty happy with what I have achieved, I'm a tad disappointed as well. It's been 978 days since [**my first post**]({% post_url 2010-04-26-journey-begins %}) here and it took me 132 days since [**the 100th one**]({% post_url 2012-12-20-december-21-when-i-die-tomorrow %}). While a lot of excuses for not writing enough can be given, there is no denying the fact that these stats could have been much better.

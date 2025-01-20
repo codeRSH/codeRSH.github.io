@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: Experience of working in Indian IT Services Sector
-date: '2014-01-28T01:30:00.000+05:30'
-author: RavS
+date: 2014-01-28
 tags:
 - job
-modified_time: '2014-01-28T01:30:03.956+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6608221824243818257
-blogger_orig_url: https://ravs.in/2014/01/experience-of-working-in-indian-it.html
 ---
 
 I am not going to mention the name of the organization that I work for, because it's irrelevant.  My comments are on Indian IT sector in general, after hearing a similar plight from people of other organizations. And before I start, I must clarify that this is totally my experience, yours could be worse or much better than this and that's perfectly OK. 

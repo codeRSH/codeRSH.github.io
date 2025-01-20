@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: The Journey Begins..
-date: '2010-04-26T00:05:00.002+05:30'
-author: RavS
+date: 2010-04-26
 tags:
   - special
   - first
   - start
-modified_time: '2011-07-30T19:19:29.623+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3202046174925722024
-blogger_orig_url: https://ravs.in/2010/04/journey-begins.html
 ---
 
 > **" साईं श्रद्धा शक्ति "**

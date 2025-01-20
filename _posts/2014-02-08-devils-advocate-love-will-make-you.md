@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: "Devil's advocate: Love will make you Bankrupt"
-date: 2014-02-08T10:12:00.001+05:30
-author:
-  - RavS
+date: 2014-02-08
 tags:
   - Love
   - advocate
-modified_time: 2014-02-08T10:12:11.746+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3543737715532821547
-blogger_orig_url: https://ravs.in/2014/02/devils-advocate-love-will-make-you.html
 ---
 
 So let's talk about Love for a while. I have been "in Love" quite a few times. Some of them turned out to be short term flings, others proved to be a catastrophe. It has given some blessed times, and has also shown me how it feels to breakdown completely with no hope of recovery. I have fallen in Love, then fallen some more, until I hit rock bottom. Only to rise up and try all over again. And after years of in and out of all this, I have come to one conclusion _"Love is a Business in Loss"_.  

@@ -6,7 +6,6 @@ tags:
   - thoughts
   - procrastination
 layout: post
-author: RavS
 permalink: /blog/right-time
 ---
 

@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: 'Newspapers: A Habit lost.'
-date: '2012-12-25T21:30:00.001+05:30'
-author: RavS
+date: 2012-12-25
 tags:
   - habit
-modified_time: '2012-12-25T22:03:34.564+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3715303503359538882
-blogger_orig_url: https://ravs.in/2012/12/newspapers-habit-lost
 ---
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://www.flickr.com/photos/62693815@N03/6280553392/" style="margin-left: auto; margin-right: auto;" title="Newspaper sunny yellow by NS Newsflash, on Flickr"><img alt="Newspaper sunny yellow" height="277" src="https://farm7.staticflickr.com/6220/6280553392_c25c67ca80.jpg" width="500"></a></td></tr><tr><td class="tr-caption" style="text-align: center;">From Flick. Under CC License.</td></tr></tbody></table>

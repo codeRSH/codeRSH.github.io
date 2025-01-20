@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: But there is just one little problem... Part-2
-date: '2014-11-19T04:00:00.000+05:30'
-author: RavS
+date: 2014-11-19
 tags:
 - fiction
-modified_time: '2014-11-21T09:28:36.470+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7785797553374651196
-blogger_orig_url: https://ravs.in/2014/11/but-there-is-just-one-little-problem.html
 ---
 
 Before Aakash could react, the cars behind him started honking impatiently. He had a total stranger in the car, that too a lady; she could be anyone. But there was no time to argue with her right now. The honking of the cars was increasing as the seconds passed. The green light was less than a minute. Should he move? Should he stop?

@@ -2,16 +2,11 @@
 public: yes
 layout: post
 title: All Hail Buffalo!
-date: '2013-04-08T23:22:00.004+05:30'
-author: RavS
+date: 2013-04-08
 tags:
 - buffalo
 - life
 - humor
-modified_time: '2013-04-08T23:22:57.877+05:30'
-thumbnail: http://2.bp.blogspot.com/-3IKdNjigtPw/UWMAD\_iGmrI/AAAAAAAABUA/FhYYYksSmQE/s72-c/IMG\_1345.JPG
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1471610574186262723
-blogger_orig_url: https://ravs.in/2013/04/all-hail-buffalo.html
 ---
 
 I have never been able to understand why people look into ancient religious texts or look up to expired 'great people' to know how to live life. We can always learn from people and animals nearby us, roaming around in our everyday life.

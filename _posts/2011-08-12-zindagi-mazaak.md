@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: जिंदगी भी सही मजाक है!
-date: '2011-08-12T13:52:00.002+05:30'
-author: RavS
+date: 2011-08-12
 tags:
 - poem
 - hindi
 - humor
-modified_time: '2011-09-05T18:44:19.468+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4711204533647713937
-blogger_orig_url: https://ravs.in/2011/08/blog-post.html
 ---
 
 **Note**: This is NOT Poem. This is Life.

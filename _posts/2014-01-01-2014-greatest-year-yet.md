@@ -2,17 +2,12 @@
 public: yes
 layout: post
 title: "2014: The Greatest Year Yet."
-date: 2014-01-01T14:26:00.000+05:30
-author:
-  - RavS
+date: 2014-01-01
 tags:
   - resolutions
-modified_time: 2014-01-01T14:38:27.222+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7189777933545829253
-blogger_orig_url: https://ravs.in/2014/01/2014-greatest-year-yet\_1.html
 ---
 
-**I am betting 2014 to be the greatest year of my life yet**. It's scary to say that, and even a little embarassing especially when I haven't done even a single damn thing in 2014; and also because 2013 was way below the mark that I had thought of. Now I must start by saying that, I am not good with this resolution thing (just like many others). But then, do you have any alternative but to set goals and try and hope to achieve them?
+**I am betting 2014 to be the greatest year of my life yet**. It's scary to say that, and even a little embarrassing especially when I haven't done even a single damn thing in 2014; and also because 2013 was way below the mark that I had thought of. Now I must start by saying that, I am not good with this resolution thing (just like many others). But then, do you have any alternative but to set goals and try and hope to achieve them?
 
 This time I am doing an experiment (don't I do always?!) as part of these resolutions. **I am making 6 of them, will make 4 public and 2 private.** I want to check which of them have better chances of sticking. Many times I have heard public ones are easier to stick with, but I have also completed goals while keeping them private. So, this will be interesting. I am fed-up with making tonnes of wishes and not accomplishing any. I am sick of thinking small, hence they all are at least a little out of my comfort level.
 

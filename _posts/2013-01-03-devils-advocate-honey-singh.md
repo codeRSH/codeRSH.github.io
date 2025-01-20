@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: 'Devil''s Advocate: Honey Singh'
-date: '2013-01-03T00:41:00.000+05:30'
-author: RavS
+date: 2013-01-03
 tags:
 - advocate
-modified_time: '2013-04-19T00:46:54.583+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8736484876654112572
-blogger_orig_url: https://ravs.in/2013/01/devils-advocate-honey-singh.html
 ---
 
 First up, let me admit I like "Yo Yo" Honey Singh's songs (Not Honey Singh per se!). And the **[recent controversy](http://indiatoday.intoday.in/story/honey-singh-offensive-lyrics/1/240219.html)** that's going on is just baffling to me.The songs that are being shouted upon are Not new. They have been out there since at least an year. 

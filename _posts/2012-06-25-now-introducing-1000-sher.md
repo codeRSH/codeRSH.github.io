@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: 'Now Introducing: 1000 Sher'
-date: '2012-06-25T23:50:00.000+05:30'
-author: RavS
+date: 2012-06-25
 tags:
   - special 
   - 1000sher 
   - start
-modified_time: '2012-06-29T23:56:05.894+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4823397059616842980
-blogger_orig_url: https://ravs.in/2012/06/now-introducing-1000-sher
 ---
 
 Being one dimensional sucks. I never ever wanted to be "just a techie guy". That's why I started blogging. Another thing that I have always wanted to do is to compose stuffs. Write poems, write lyrics, write stories, write dramas, write satires...

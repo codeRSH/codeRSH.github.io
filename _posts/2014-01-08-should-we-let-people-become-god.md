@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: Should we let people become God?
-date: '2014-01-08T01:00:00.000+05:30'
-author: RavS
+date: 2014-01-08
 tags:
 - god
-modified_time: '2014-01-08T01:00:01.263+05:30'
-thumbnail: http://4.bp.blogspot.com/-KtpK01877mg/Use45hkItjI/AAAAAAAADd0/-A6hxkOls0c/s72-c/God++TheTweetOfGod++on+Twitter.png
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6999606272263169991
-blogger_orig_url: https://ravs.in/2014/01/should-we-let-people-become-god.html
 ---
 
 **Note:** _This article is what I think about God, and the trend of worshiping man as God. Some of the 'facts' might be wrong due to my ignorance and I don't intend to hurt anyone's sentiments._

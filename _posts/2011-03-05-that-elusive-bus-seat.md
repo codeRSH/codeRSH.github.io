@@ -2,14 +2,10 @@
 public: yes
 layout: post
 title: That Elusive (Bus) Seat
-date: '2011-03-05T21:20:00.004+05:30'
-author: RavS
+date: 2011-03-05
 tags:
 - bus
 - travelling
-modified_time: '2011-07-30T20:33:31.069+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3337551333160527567
-blogger_orig_url: https://ravs.in/2011/03/that-elusive-bus-seat.html
 ---
 
 I am a daily user of public transport (which is a classier way of saying that I travel by buses daily). And usually it involves long journeys (>=40 mins). This of course demands a seat to sit, otherwise one ends up draining all the energy in travelling only. Now I am not the only daily long traveler, there are many others like me, which means everybody wants seat. But like all good things in life, they are limited. And from here starts the competition to grab that elusive seat...

@@ -2,14 +2,10 @@
 public: yes
 layout: post
 title: Why Buffalo should be declared the National Animal of India
-date: '2012-01-02T19:19:00.001+05:30'
-author: RavS
+date: 2012-01-02
 tags:
   - buffalo
   - humor
-modified_time: '2012-01-02T19:28:09.380+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5536288157578059170
-blogger_orig_url: https://ravs.in/2012/01/why-buffaloes-should-be-declared
 ---
 
 [![Bubalus Bubalis](http://farm5.staticflickr.com/4025/4378266575_06b7dda4f5.jpg)](http://www.flickr.com/photos/vinothchandar/4378266575/ 'Bubalus Bubalis by VinothChandar, on Flickr') [![Male Tiger Ranthambhore](http://farm4.staticflickr.com/3652/3646793728_32ef780583.jpg)](http://www.flickr.com/photos/kkoshy/3646793728/ 'Male Tiger Ranthambhore by Koshyk, on Flickr')

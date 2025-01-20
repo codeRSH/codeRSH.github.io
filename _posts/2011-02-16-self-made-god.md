@@ -2,14 +2,10 @@
 public: yes
 layout: post
 title: Self Made God
-date: '2011-02-16T15:31:00.019+05:30'
-author: RavS
+date: 2011-02-16
 tags:
 - god
 - religion
-modified_time: '2011-07-30T20:28:45.612+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2317824856906773783
-blogger_orig_url: https://ravs.in/2011/02/self-made-god.html
 ---
 
 **Caution**: _The blogger here is simply presenting his views on God, Religion etc. If you are not a free minded person then please don't read this blog as you may feel hurt. These topics can evoke strong emotions, so my apologies if you don't like something written here. As I said, I am simply putting up my own beliefs not questioning anyone's_.

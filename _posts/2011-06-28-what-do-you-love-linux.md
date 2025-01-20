@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: 'What do You Love: Linux'
-date: '2011-06-28T20:47:00.003+05:30'
-author: RavS
+date: 2011-06-28
 tags:
 - technology
 - linux
-modified_time: '2011-07-30T20:32:42.897+05:30'
-thumbnail: http://1.bp.blogspot.com/-ORGEE7VJJxQ/TgnmZkMw-PI/AAAAAAAAAbg/-XjAMd2zzeI/s72-c/Linux+ScreenShot.png
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3174653278110296326
-blogger_orig_url: https://ravs.in/2011/06/what-do-you-love-linux.html
 ---
 
 ![blog-linux-love](../../../assets/blog-linux-love.png)

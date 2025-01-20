@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: Can't Let It Go
-date: '2011-03-27T23:35:00.006+05:30'
-author: RavS
+date: 2011-03-27
 tags:
 - friends
-modified_time: '2011-07-09T11:44:11.426+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3282692866386052559
-blogger_orig_url: https://ravs.in/2011/03/cant-let-it-go.html
 ---
 
 **Warning:** Highly sentimental content. Adults only. Not for the funny hearted.

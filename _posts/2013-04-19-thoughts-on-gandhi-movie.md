@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: 'Thoughts on Gandhi: The movie'
-date: '2013-04-19T00:17:00.002+05:30'
-author: RavS
+date: 2013-04-19
 tags:
 - gandhi
-modified_time: '2013-04-19T00:17:54.016+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6083432243394827192
-blogger_orig_url: https://ravs.in/2013/04/thoughts-on-gandhi-movie.html
 ---
 
 Last weekend I got to watch the epic Oscar winning movie "Gandhi". Such a brilliantly crafted movie, and it left me with a number of things to ponder upon:

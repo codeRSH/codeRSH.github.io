@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: 8 months without FB... and still running
-date: '2014-01-06T01:25:00.000+05:30'
-author: RavS
+date: 2014-01-06
 tags:
 - facebook
-modified_time: '2014-01-06T01:25:00.554+05:30'
-thumbnail: http://2.bp.blogspot.com/-gQ\_D0ICEdq0/UsXHqo8vs-I/AAAAAAAADdk/5FC9U5bYOSk/s72-c/2013-06-05+10.33.26.png
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-404226883423835094
-blogger_orig_url: https://ravs.in/2014/01/8-months-without-fb-and-still-running.html
 ---
 
 A while ago, I realized it has been over 6 months since I left Facebook. And yes, I had to ‘realize’ it because I haven’t really missed FB in all these days. This is a little surprising even for me, considering FB had been a swiss-knife of my online activities for over 2 years.

@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: An Open Letter to My Dad
-date: '2012-04-02T15:40:00.000+05:30'
-author: RavS
+date: 2012-04-02
 tags:
   - open-letter 
   - family 
   - Love 
-modified_time: '2012-12-30T15:46:23.962+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1715360972772671768
-blogger_orig_url: https://ravs.in/2012/04/an-open-letter-to-my-dad
 ---
 
 Dear Dad,

@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: 12 Random Wishes for 2012...
-date: '2012-01-01T12:33:00.000+05:30'
-author: RavS
+date: 2012-01-01
 tags:
   - new-year
   - special
   - occasion
-modified_time: '2012-01-01T12:33:44.155+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5769464361147654712
-blogger_orig_url: <https://ravs.in/2012/01/12-random-wishes-for-2012.html>
 ---
 
 <table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://www.flickr.com/photos/purplegothicqueen/6609572443/" style="margin-left: auto; margin-right: auto;" title="Michael Jackson Happy New Year by purplegothicqueen, on Flickr"><img alt="Michael Jackson Happy New Year" height="265" src="http://farm8.staticflickr.com/7015/6609572443_b16b1467ab.jpg" width="400"></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><b>All images taken from Flickr.</b></td></tr></tbody></table>

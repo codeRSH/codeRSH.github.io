@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: How to talk to a Girl you Like, without falling in Love with her?
-date: 2014-01-11T00:55:00.001+05:30
-author:
-  - RavS
+date: 2014-01-11
 tags:
   - advice
   - Love
-modified_time: 2014-01-11T00:58:56.808+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8785151704258070055
-blogger_orig_url: https://ravs.in/2014/01/how-to-talk-to-girl-you-like-without.html
 ---
 
 I will keep it short and terse. And I would ask for very specific advice at the end. So read carefully. Let's start...

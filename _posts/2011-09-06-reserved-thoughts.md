@@ -2,16 +2,11 @@
 public: yes
 layout: post
 title: Reserved Thoughts
-date: '2011-09-06T21:50:00.000+05:30'
-author: RavS
+date: 2011-09-06
 tags:
 - college
 - education
 - friends
-modified_time: '2011-09-06T21:50:58.024+05:30'
-thumbnail: http://farm4.static.flickr.com/3274/3107780632_70ff6d0235_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1713632573632613466
-blogger_orig_url: https://ravs.in/2011/09/reserved-thoughts.html
 ---
 
 So much has been said and acted upon reservation that it seems nothing else is left to be said or done. And yet, **[every year the same question arises again](http://thinkxp.blogspot.com/2011/07/reservation.html)**. I always wanted to say something of my own on this flaming topic. I know, a lot of people might not agree with what I say but what needs to be said, needs to be said.

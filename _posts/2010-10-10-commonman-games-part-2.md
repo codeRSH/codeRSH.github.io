@@ -2,16 +2,12 @@
 public: yes
 layout: post
 title: 'The CommonMan Games: Part 2'
-date: '2010-10-10T13:48:00.000+05:30'
-author: RavS
+date: 2010-10-10
 tags:
 - india
 - commonwealth-games
 - friends
 - travelling
-modified_time: '2011-07-21T13:48:31.561+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3006272533431542094
-blogger_orig_url: https://ravs.in/2010/10/commonman-games-part-2.html
 ---
 
 **Venue:** Major Dhyanchand Stadium **Date:** 07.10.2010 **Time:** 4 PM **Event:** Hockey 

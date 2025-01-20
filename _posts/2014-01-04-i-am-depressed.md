@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: I am depressed
-date: '2014-01-04T01:51:00.000+05:30'
-author: RavS
+date: 2014-01-04
 tags:
 - depression
-modified_time: '2014-01-04T01:51:00.339+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6869943269363871746
-blogger_orig_url: https://ravs.in/2014/01/i-am-depressed.html
 ---
 
 **Note:** _This was written a few days ago, after a long period of introspection. I don't feel these intense emotions right now, but I strongly feel this bout of depression would return sooner or later. If someone feels a little bit like me, may be we can share notes on how to cope with this._

@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: Crap worth 500 words
-date: '2011-07-13T20:27:00.000+05:30'
-author: RavS
+date: 2011-07-13
 tags:
 - experiment
-modified_time: '2011-07-15T20:28:25.961+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1505891938748560108
-blogger_orig_url: https://ravs.in/2011/07/crap-worth-500-words.html
 ---
 
 Alright, so I am starting to write this blog now. Well I should tell you that you need not read this because I am going aimlessly here. All this is not going to make any sense to you. So why am I writing this rubbish post anyways? Well the reason is that I haven't posted anything for sometime now. And it is again me hitting the writer's block.

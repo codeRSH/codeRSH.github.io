@@ -2,14 +2,10 @@
 public: yes
 layout: post
 title: So What do You Think?
-date: '2011-03-14T09:26:00.001+05:30'
-author: RavS
+date: 2011-03-14
 tags:
 - humor
 - friends
-modified_time: '2011-07-09T11:56:28.610+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3906244343393813766
-blogger_orig_url: https://ravs.in/2011/03/so-what-do-you-think.html
 ---
 
 As you know, my blog right now is under limited preview (kind of like the beta version to remove any bugs that might have been left). So, only you who is reading this right now, has the right to comment also. So, comments, for me are mostly like feedbacks whether you are liking what I am writing or not. Unfortunately, I don't get a very regular stream of comments. But I know, most of you read what I write (even if that's only for friend's sake). So, I keep wondering what goes into your mind when you read my blog.

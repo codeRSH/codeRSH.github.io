@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: 'Killing Multiple Online Identities: The Experience'
-date: '2013-05-12T00:32:00.000+05:30'
-author: RavS
+date: 2013-05-12
 tags:
 - internet
-modified_time: '2013-05-20T00:35:29.030+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-696834574809537254
-blogger_orig_url: https://ravs.in/2013/05/killing-multiple-online-identities.html
 ---
 
 Time and again a new Online service starts, and I being a trier of all things new would be there to catch it up. The problem with me (and most of us) is that we never think about the footprints we are leaving with all these accounts over time. Of course, most of the information shared on these networks would be harmless, but with people spending more and more of their lives over Internet, you can' really be sure what information you may end up sharing on the network which may compromise your privacy/security.

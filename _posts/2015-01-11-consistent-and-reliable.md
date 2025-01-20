@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: Consistent and Reliable
-date: '2015-01-11T09:00:00.000+05:30'
-author: RavS
+date: 2015-01-11
 tags:
 - new-year
-modified_time: '2015-01-11T19:41:42.218+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6904161946866705407
-blogger_orig_url: https://ravs.in/2015/01/consistent-and-reliable.html
 ---
 
 Everyone can write, right? You, me, my neighborhood girl, and with proper guidance and training probably her dog as well. Then why do we have far less writers than we see readers in the world? Why do I know of over a dozen friends who started a blog at some point of time, but haven't written anything on it for over an year? And a lot many others have said they wish to start writing. But never get around to writing it. 

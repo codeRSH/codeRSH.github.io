@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: "Project #1000Sher : Origins & The Inspiration"
-date: 2014-08-12T10:27:00.000+05:30
-author:
-  - RavS
+date: 2014-08-12
 tags:
   - 1000sher
   - friends
-modified_time: 2014-08-12T10:27:07.925+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-334787699737396287
-blogger_orig_url: https://ravs.in/2014/08/project-1000sher-origins-inspiration.html
 ---
 
 > _क्या तूने कहा किसे खबर किसे मालूम,  

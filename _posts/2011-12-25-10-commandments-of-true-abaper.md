@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: 10 commandments of a true ABAPer
-date: '2011-12-25T22:07:00.000+05:30'
-author: RavS
+date: 2011-12-25
 tags:
   - abap
   - humor
-modified_time: '2013-01-01T18:55:28.611+05:30'
-thumbnail: http://2.bp.blogspot.com/-iL9TnoXxM7w/TvnxFN0DoeI/AAAAAAAAAs0/UdjVt72GYhc/s72-c/IMG_0100.JPG
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8500700570988699300
-blogger_orig_url: https://ravs.in/2011/12/10-commandments-of-true-abaper.html
 ---
 
 1. Thou shall write the actual code for 1 hour and spend next 5 hours on commenting and aligning the code.

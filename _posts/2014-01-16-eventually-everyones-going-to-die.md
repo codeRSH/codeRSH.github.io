@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: Eventually, everyone's going to die
-date: '2014-01-16T02:42:00.000+05:30'
-author: RavS
+date: 2014-01-16
 tags:
 - death
-modified_time: '2014-01-16T02:42:36.384+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1165835460362015361
-blogger_orig_url: https://ravs.in/2014/01/eventually-everyones-going-to-die.html
 ---
 
 Death is one of the most interesting topics I like to contemplate on.  I have writtern a few on it **[before](http://1000sher.tumblr.com/post/60153621224/musings-in-icu)**. And this is a never ending chain of thoughts. It keeps me grounded when other unimportant things start to cloud up my judgement. 

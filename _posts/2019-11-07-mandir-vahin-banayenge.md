@@ -2,16 +2,11 @@
 public: yes
 layout: post
 title: Mandir Vahin Banayenge?
-date: 2019-11-07T23:54:00.001+05:30
-author:
-  - RavS
+date: 2019-11-07
 tags:
   - ram
   - politics
   - advocate
-modified_time: 2019-11-07T23:54:31.559+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2659851689615966931
-blogger_orig_url: https://ravs.in/2019/11/mandir-vahin-banayenge.html
 ---
 
 If you live in India and haven't been living in a borewell, then you would know that the verdict on Ram-Mandir/Babri Masjid case will probably come on or before 17 November. Like me you might have also been reading and watching news about how the Govt and the various religious organizations are preparing themselves for the verdict, appealing for peace and appealing for maintaining communal harmony, and how the people of Ayodhya are on their toes, some even leaving their homes, fearing the worse.

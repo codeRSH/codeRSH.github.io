@@ -2,16 +2,11 @@
 public: yes
 layout: post
 title: HAPPY BIRTHDAY "KAALU" ... Or ... WHY AM I SUCH A BIG RACIST
-date: 2014-04-27T10:22:00.000+05:30
-author:
-  - RavS
+date: 2014-04-27
 tags:
   - birthday
   - racism
   - friends
-modified_time: 2014-04-27T10:22:05.329+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7583026265449000129
-blogger_orig_url: https://ravs.in/2014/04/happy-birthday-kaalu-or-why-am-i-such.html
 ---
 
 "Tomorrow if you come again in this black color, I will beat the living hell out of you", said the white boy (or something like that). I was afraid. This was probably the 6th time he had bullied me in past 1 year or so (pay attention, I am narrating my only experience of being bullied.). It all started in KG standard and now I was in 1st.  When was it going to end?

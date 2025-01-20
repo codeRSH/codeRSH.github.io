@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: My Phone. My Rules.
-date: '2013-05-29T08:49:00.004+05:30'
-author: RavS
+date: 2013-05-29
 tags: 
 - rules 
 - mobile
-modified_time: '2013-05-29T08:49:59.282+05:30'
-thumbnail: http://2.bp.blogspot.com/-dnskKLMWg\_U/UaVzTD2GbLI/AAAAAAAABmY/q8HbeDovSz8/s72-c/This+pic+is+pretty+coo+I+would+say,+w+r+t+backgrou.jpg 
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6577744482813583331 
-blogger_orig_url: https://ravs.in/2013/05/my-phone-my-rules.html
 ---
 
 I don't like Mobile Phones. Mobile Phone might be single biggest annoying device for introverts like me, ever invented. Life was simpler when I didn't have a phone. But now it has become something that I can't avoid. 

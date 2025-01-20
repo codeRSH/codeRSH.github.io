@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: "\"Happy Valentine's Day, Love\""
-date: 2014-02-14T00:30:00.000+05:30
-author:
-  - RavS
+date: 2014-02-14
 tags:
   - fiction
   - Love
-modified_time: 2014-02-15T11:27:12.350+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8486025419784185924
-blogger_orig_url: https://ravs.in/2014/02/happy-valentines-day-love.html
 ---
 
 14th February was less than 2 hours away. Naina was going to raped and killed. She knew that well by now. She was just grateful they hadn't touched her yet.  She could hear them laughing and hooting, as the animals had found their prey for tonight. She guessed there were 4 people in the jeep that was running fast into the jungles. 4 men, who were going to rip her apart soon. But she didn't know what to feel. She had stopped crying and screaming for help. It was clear now that no one was coming for help in the deep dark jungles of Assam. Even her captors had tied her hands and legs but did not bother to gag her. The trees and snakes and occasional leopards weren't going to be her savior. She just wanted the inevitable to happen now, so that she could die and be done with all this.

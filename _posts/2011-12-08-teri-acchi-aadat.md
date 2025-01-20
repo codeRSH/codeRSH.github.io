@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: तेरी  हर  अच्छी  आदत  को  मैं  खराब  कर  दूंगा ...
-date: '2011-12-08T00:36:00.001+05:30'
-author: RavS
+date: 2011-12-08
 tags:
 - poem
 - special
 - hindi
-modified_time: '2012-12-25T22:01:43.789+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5967463050101113645
-blogger_orig_url: https://ravs.in/2011/12/blog-post.html
 ---
 
 मत  आ  मेरे  पास , तुझे  मैं  बर्बाद  कर  दूंगा ।  

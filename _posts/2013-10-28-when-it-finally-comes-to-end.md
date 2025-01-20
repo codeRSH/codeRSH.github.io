@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: When it finally comes to the end...
-date: '2013-10-28T10:17:00.002+05:30'
-author: RavS
+date: 2013-10-28
 tags:
 - nostalgia
-modified_time: '2013-10-28T10:17:50.771+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5537041840265785452
-blogger_orig_url: https://ravs.in/2013/10/when-it-finally-comes-to-end.html
 ---
 
 \[**Note:** _This post was written about 3 months ago and had been sitting in my draft since then. I wasn't sure of posting it. But today, as I watched the finale of "Dexter", one of my favorite series, and I experienced the same emotions as while watching the end of "The Office". This one deserves to be posted_\]

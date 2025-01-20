@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: You "Mean" Teachers...
-date: '2011-09-05T18:09:00.001+05:30'
-author: RavS
+date: 2011-09-05
 tags:
 - teacher
 - occasion
-modified_time: '2011-09-05T18:09:51.847+05:30'
-thumbnail: http://3.gvt0.com/vi/YTfbh3aeo9s/0.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-999286196473240873
-blogger_orig_url: https://ravs.in/2011/09/you-mean-teachers.html
 ---
 
 When I was in 2nd standard, I had a nexus with 2-3 kids; we used to sit close to each other during tests  and cheat from each other. As the time went on, I became better and better as a student but my cheating powers kept on diminishing. In fact, I became so bad in copying, that I have been caught 'cheating' even when I wasn't! And as one can imagine, a lot of my friends have also suffered due to this 'inability' of mine. Sometimes, they used to feel guilty that I was caught helping them cheat (but invigilator always thought it was me  :-/) while other times they would make me feel guilty saying they failed only because I couldn't help them cheat (:O).

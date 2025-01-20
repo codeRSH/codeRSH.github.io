@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: Why I want a Gay friend
-date: '2014-01-13T01:00:00.000+05:30'
-author: RavS
+date: 2014-01-13
 tags:
 - thoughts
-modified_time: '2014-01-14T00:58:49.755+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8595168232757901369
-blogger_orig_url: https://ravs.in/2014/01/i-want-gay-friend.html
 ---
 
 **Caution:** _Mature Content._ _This has been written with utmost seriousness, I would advise those looking for humor to wait for a few days._ 

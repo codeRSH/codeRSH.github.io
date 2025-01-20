@@ -2,14 +2,10 @@
 public: yes
 layout: post
 title: 'Ravi Ji: Conditions Apply'
-date: '2012-07-19T08:22:00.001+05:30'
-author: RavS
+date: 2012-07-19
 tags:
   - humor
   - friends
-modified_time: '2012-07-19T08:34:05.799+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3862655813418484657
-blogger_orig_url: https://ravs.in/2012/07/ravi-ji-conditions-apply
 ---
 
 I have been noticing that the phrase "Ravi Ji" is being abused and misused all over India. I greatly object to this utter non-adherence to the rules. People don't realize that "Ravi Ji" is a copyrighted phrase (the copyright has been lost somewhere but it will be found soon). Hence only selected few people are allowed to use this phrase:

@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: "February: The Toughest Month Yet"
-date: 2014-01-30T00:42:00.000+05:30
-author:
-  - RavS
+date: 2014-01-30
 tags:
   - experiment
-modified_time: 2014-01-30T00:56:05.527+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8916666698354317907
-blogger_orig_url: https://ravs.in/2014/01/february-toughest-month-yet.html
 ---
 
 > > _What will happen when all your sources of distraction/procrastination are taken away from you?  
@@ -51,7 +46,7 @@ Here's what I have already done, before posting this.
 So, what will I do (or at least theoretically try to do) instead?
 
 - **[Keep Promises]({% post_url 2014-01-27-about-broken-promises %})**
-- [**Work on my Resolutions**]({% post_url 2014-01-01-2014-greatest-year-yet_1 %}) (Reading/Talking/Training)
+- [**Work on my Resolutions**]({% post_url 2014-01-01-2014-greatest-year-yet %}) (Reading/Talking/Training)
 - Sleep
 - Write
 - Learn or try something new.

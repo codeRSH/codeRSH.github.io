@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: My list of Things/People to kill before I die... this Doomsday
-date: '2012-01-16T21:13:00.000+05:30'
-author: RavS
+date: 2012-01-16
 tags: 
 - humor
-modified_time: '2012-01-16T22:57:12.321+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8030087956271454625
-blogger_orig_url: https://ravs.in/2012/01/my-list-of-thingspeople-to-kill-before
 ---
 
 **Disclaimer:** I am **NOT** actually going to kill any of them. So if they die tomorrow, I should not be held responsible.

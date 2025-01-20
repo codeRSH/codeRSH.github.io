@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: 'December 21: When I die tomorrow...'
-date: '2012-12-20T05:00:00.000+05:30'
-author: RavS
+date: 2012-12-20
 tags:
   - death
   - family
   - friends
-modified_time: '2012-12-20T22:07:11.510+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6386012310970384478
-blogger_orig_url: https://ravs.in/2012/12/december-21-when-i-die-tomorrow
 ---
 
 _Following has been written considering **if the world DOES end tomorrow**. I know it's a joke, but I have just tried to imagine the impossible. What would my feelings be today, if I knew that not just me, everyone I know is going to die tomorrow...._

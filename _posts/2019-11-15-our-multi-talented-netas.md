@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: Our Multi-Talented Netas
-date: 2019-11-15T00:34:00.000+05:30
-author:
-  - RavS
+date: 2019-11-15
 tags:
   - politics
   - pollution
-modified_time: 2019-11-16T00:34:48.988+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2612895529506636739
-blogger_orig_url: https://ravs.in/2019/11/our-multi-talented-netas.html
 ---
 
 Most of us work in some company or not, to higher or lower post, but as workers nonetheless. Now you can work on another side gig, but try disclosing this to your company and see their reaction. They would make you read (and probably re-sign) the contract that you had signed while joining the company. You are simply not allowed to work anywhere else until you are on the payroll of a certain company.

@@ -2,16 +2,12 @@
 public: yes
 layout: post
 title: Kill me... So I don't feel terrorized
-date: '2011-07-15T20:23:00.003+05:30'
-author: RavS
+date: 2011-07-15
 tags:
 - special
 - india
 - politics
 - terror
-modified_time: '2011-07-30T20:31:50.829+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6550616375379553223
-blogger_orig_url: https://ravs.in/2011/07/kill-me-so-i-dont-feel-terrorized.html
 ---
 
 This is going to be [**another blog post**]({% post_url 2011-06-26-not-your-wifes-daughter %}) written in a fit of rage. And I have reasons to feel this way. Because once again I feel like crap. Yet another terrorists attack in an Indian city and as it usually happens yet another failure on part of us to stop it.

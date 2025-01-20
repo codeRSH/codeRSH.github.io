@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: The RavS and The Art of Changing Hair Styles
-date: 2014-01-24T01:00:00.000+05:30
-author:
-  - RavS
+date: 2014-01-24
 tags:
   - ravs
-modified_time: 2014-01-24T01:00:00.132+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-5845202659863077620
-blogger_orig_url: https://ravs.in/2014/01/the-ravs-and-art-of-changing-hair-styles.html
 ---
 
 I have this itch to constantly tinker with my looks. It's almost an obsession and I have been called a number of things due to it. Good too, but mostly bad - show off, cartoon, attention seeker and what not. Do I mind? Yeah, I mind. I mind it so much that I want to punch the person on the nose. But I don't care about it that much to stop doing something that "I do for myself".

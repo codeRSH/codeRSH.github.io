@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: 19 ways to backstab people
-date: 2014-04-18T08:33:00.000+05:30
-author:
-  - RavS
+date: 2014-04-18
 tags:
   - humor
-modified_time: 2014-04-18T08:33:10.151+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8190047772186960284
-blogger_orig_url: https://ravs.in/2014/04/19-ways-to-backstab-people.html
 ---
 
 I am a nice guy. Also, in my spare time I hate myself. I am coming to realize that nice guys are the unhappiest lot. So I tried to change the perception (in my eyes at least). 

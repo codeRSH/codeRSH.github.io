@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: The importance of various days in my life
-date: '2010-08-29T12:43:00.001+05:30'
-author: RavS
+date: 2010-08-29
 tags:
 - humor
-modified_time: '2011-07-21T12:45:47.882+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-592149934607217792
-blogger_orig_url: https://ravs.in/2010/08/importance-of-various-days-in-my-life.html
 ---
 
 About 4 weeks ago I got 3 messages on the occasion of Friendship day. One message felt like it was made out of a Christmas SMS, so it felt more of an obligation for the day. Another felt apologetic for wishing, since the person knew I don't believe in Friendship day. And the third message was guilt ridden, since it came late to me! And it was amusing, because I never wanted any of those messages to remind me that they were one of my most cherished friends.

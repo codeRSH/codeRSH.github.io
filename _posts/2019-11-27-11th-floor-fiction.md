@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: 11th Floor (Fiction)
-date: 2019-11-27T00:21:00.000+05:30
-author:
-  - RavS
+date: 2019-11-27
 tags:
   - story
   - fiction
-modified_time: 2019-11-28T00:21:46.003+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-6944925921365789475
-blogger_orig_url: https://ravs.in/2019/11/11th-floor-fiction.html
 ---
 
 _Following is a short story I wrote about 5 years ago. This was embedded in my last working day email in my previous organization. I got to read it again today, thanks to a friend. I didn't like it that much at the time I wrote it. But I found it great while rereading it today. So, while I won't be sharing the whole mail, as it was personal and mostly irrelevant to you. But the story is worth sharing. I did a slight one line change at the very end of the story. Enjoy the story and do tell if you like it. I might write another one soon :)_  

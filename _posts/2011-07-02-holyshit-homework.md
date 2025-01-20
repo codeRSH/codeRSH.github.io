@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: HolyShit... Homework!
-date: '2011-07-02T21:52:00.001+05:30'
-author: RavS
+date: 2011-07-02
 tags:
 - thoughts
-modified_time: '2011-07-03T08:47:25.931+05:30'
-thumbnail: http://farm4.static.flickr.com/3042/2460522850_a95c6356db_t.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-3199563697897766059
-blogger_orig_url: https://ravs.in/2011/07/holyshit-homework.html
 ---
 
 As I write this I have tonnes of holiday homework of my sister to take care of. And that includes having to search the internet for non-existent research papers, make models that I might have considered for my own major project (no just kidding :) and having to make chart papers; with some notebook work thrown in between for good measures. And I should tell you that I haven't really made any significant progress in 'my' homework yet. Time for frank admission: 

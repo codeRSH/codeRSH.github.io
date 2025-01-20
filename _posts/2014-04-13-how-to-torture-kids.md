@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: How To Torture Kids
-date: '2014-04-13T09:04:00.000+05:30'
-author: RavS
+date: 2014-04-13
 tags:
 - humor
-modified_time: '2014-04-13T09:04:59.553+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8959058570450371040
-blogger_orig_url: https://blogrsh.blogspot.com/2014/04/how-to-torture-kids.html
 ---
 
 I have a problem. My 7 (or less, I don't remember) year old brother doesn't let me adore him. Which means no kissing cheeks, no hugging, not even high-fives. The only time I am allowed to even touch him is after 9 pm. When he is sleeping. And he is knows this very well that I can't live without adoring him. So he trades his hugs with all kinds of stuffs. Chocolates, ice creams, half an hour drawing room cricket, a game (or 10) on tablet. A word "Prostitution" comes in mind. But then he can't even spell P for "Parrot", so that's that. 

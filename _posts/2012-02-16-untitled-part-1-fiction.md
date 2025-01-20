@@ -2,15 +2,11 @@
 public: yes
 layout: post
 title: 'Untitled: Part 1 (Fiction)'
-date: '2012-02-16T00:45:00.000+05:30'
-author: RavS
+date: 2012-02-16
 tags:
   - special 
   - fiction 
   - first
-modified_time: '2012-12-28T12:49:36.007+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1512490920140608882
-blogger_orig_url: https://ravs.in/2012/02/untitled-part-1-fiction
 ---
 
 It was a Sunday morning. She had been sitting on the bench at the bus stop for last 10 minutes. She seemed a little stressed, waiting anxiously for the bus. She kept fiddling with the pen in her fingers, clicking it rapidly. In fact, I was a little worried about the pen in her hands. For every bus that came on the stop her eyes would lit up, only to glow down realizing it's not what she was looking for. For a moment I thought of asking what bus she was looking for, only to realize that it won't matter anyway.

@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: '... It feels good.'
-date: '2012-01-22T20:35:00.000+05:30'
-author: RavS
+date: 2012-01-22
 tags:
   - poem 
-modified_time: '2012-01-22T20:41:07.829+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8175489913628941322
-blogger_orig_url: https://ravs.in/2012/01/it-feels-good
 ---
 
 

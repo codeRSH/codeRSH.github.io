@@ -2,16 +2,11 @@
 public: yes
 layout: post
 title: Goals Vs Life
-date: 2019-11-05T23:16:00.002+05:30
-author:
-  - RavS
+date: 2019-11-05
 tags:
   - life
   - goals
   - writing
-modified_time: 2019-11-05T23:17:06.709+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4084664495592251685
-blogger_orig_url: https://ravs.in/2019/11/life-vs-goals.html
 ---
 
 How times has it happened with you? You don't like something or are stuck. So you decide to make a grand change, or to improve something or to chase a goal. You pump yourself up, make a grand plan and swear to God that THIS time you are going to achieve your goal, or make a permanent change to your life.

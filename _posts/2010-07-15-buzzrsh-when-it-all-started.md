@@ -2,16 +2,12 @@
 public: yes
 layout: post
 title: '### buzzRSH ### (When it all started...)'
-date: '2010-07-15T13:48:00.003+05:30'
-author: RavS
+date: 2010-07-15
 tags:
   - special
   - start
   - buzzrsh
   - friends
-modified_time: '2011-07-30T19:20:02.568+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-85621446573780874
-blogger_orig_url: https://ravs.in/2010/07/buzzrsh-when-it-all-started.html
 ---
 
 This may just turn out to be interesting....

@@ -2,14 +2,10 @@
 public: yes
 layout: post
 title: Why I don't Like FaceBook (Anyway!)
-date: '2011-06-24T19:08:00.001+05:30'
-author: RavS
+date: 2011-06-24
 tags:
 - internet
 - friends
-modified_time: '2011-06-24T19:59:51.924+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1052151689831015951
-blogger_orig_url: https://ravs.in/2011/06/why-i-dont-like-facebook-anyway.html
 ---
 
 Well I have been getting numerous requests for joining Facebook for months now. I had to make a filter in my inbox to keep all requests away (but I still get one or 2 a month anyway). No, I am not a celebrity whom people would be delighted to see. It's just that a lot of my friends are on the "The" Social Network and they want to see me there too. And that's pretty understandable because I want to see more and more people in my own little network, interacting, participating and sharing stuffs. So what's the big deal in joining (or not joining) FB? Well, this post is a PR blog that explains the same:

@@ -2,15 +2,10 @@
 public: yes
 layout: post
 title: An year long affair... with Mobile Phone
-date: '2012-12-28T19:31:00.000+05:30'
-author: RavS
+date: 2012-12-28
 tags:
   - mobile
   - habit
-modified_time: '2012-12-28T19:31:09.619+05:30'
-thumbnail: http://1.bp.blogspot.com/-JTtUFJvp7To/UN2ljEoKgOI/AAAAAAAABHc/jb6dAfNS-Mk/s72-c/12.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8436718115161352710
-blogger_orig_url: https://ravs.in/2012/12/an-year-long-affair-with-mobile-phone
 ---
 
 For those who know me and have been following this blog know that I [**never liked**]({% post_url 2010-08-28-why-i-dont-have-mobile %}) to keep a phone in my pocket and have a little "[**phono-phobia**]({% post_url 2011-01-23-that-awkward-phone-conversation %})".

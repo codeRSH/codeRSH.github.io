@@ -2,16 +2,12 @@
 public: yes
 layout: post
 title: The Life Philosophers!
-date: '2013-02-03T01:10:00.000+05:30'
-author: RavS
+date: 2013-02-03
 tags: 
 - collaboration 
 - special 
 - life 
 - friends
-modified_time: '2013-02-03T01:10:28.595+05:30' 
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-2807244824578560513 
-blogger_orig_url: https://ravs.in/2013/02/the-life-philosophers.html
 ---
 
 In yet **[another attempt]({% post_url 2013-01-27-ethics-absolute-or-relative %})** to crowd-source views on a common topic, I asked people (known to me):  

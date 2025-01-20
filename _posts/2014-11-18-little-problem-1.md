@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: But there is just one little problem... Part-1
-date: '2014-11-18T10:34:00.000+05:30'
-author: RavS
+date: 2014-11-18
 tags:
  - fiction
-modified_time: '2014-11-21T09:27:55.207+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-7605340569552083653
-blogger_orig_url: https://ravs.in/2014/11/sure-but-there-is-just-one-problem-part.html
 ---
 
 "Why me, why me!", he kicked his foot over the accelerator. The Duster had crossed the 100 threshold. Aakash was furious. So many thoughts were bursting in his head right now.  They were clouding his ability to think clearly.

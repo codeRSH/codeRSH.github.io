@@ -2,14 +2,9 @@
 public: yes
 layout: post
 title: '12 Random Wishes for 2012: A Review'
-date: '2012-12-31T14:11:00.000+05:30'
-author: RavS
+date: 2012-12-31
 tags:
  - review
-modified_time: '2012-12-31T14:11:26.464+05:30'
-thumbnail: http://i.ytimg.com/vi/ZKzJATPF210/0.jpg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-397358230951534396
-blogger_orig_url: https://ravs.in/2012/12/12-random-wishes-for-2012-review
 ---
 
 On the first day of this year, I **[had made 12 random]({% post_url 2012-01-01-12-random-wishes-for-2012 %})** top-of-the-mind wishes. Today being the last day of the year, it's appropriate we do a quick review of them. Here we go:

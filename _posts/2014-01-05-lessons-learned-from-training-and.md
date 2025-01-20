@@ -2,15 +2,9 @@
 public: yes
 layout: post
 title: Lessons learned from training and running a half marathon
-date: 2014-01-05T02:02:00.002+05:30
-author:
-  - RavS
+date: 2014-01-05
 tags:
   - lessons
-modified_time: 2014-01-05T02:02:29.866+05:30
-thumbnail: http://1.bp.blogspot.com/-7hEwNWex8g4/UshrKQqSHYI/AAAAAAAADeE/WjiKdGb-oqQ/s72-c/dl\_cp20x30-DDDA2818-9709.jpeg
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-224523071981869348
-blogger_orig_url: https://ravs.in/2014/01/lessons-learned-from-training-and.html
 ---
 
 <table cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto; text-align: center;"><tbody><tr><td style="text-align: center;"><a href="http://1.bp.blogspot.com/-7hEwNWex8g4/UshrKQqSHYI/AAAAAAAADeE/WjiKdGb-oqQ/s1600/dl_cp20x30-DDDA2818-9709.jpeg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" src="http://1.bp.blogspot.com/-7hEwNWex8g4/UshrKQqSHYI/AAAAAAAADeE/WjiKdGb-oqQ/s1600/dl_cp20x30-DDDA2818-9709.jpeg" height="424" width="640"></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Don't really remember what I was looking at there.</td></tr></tbody></table>

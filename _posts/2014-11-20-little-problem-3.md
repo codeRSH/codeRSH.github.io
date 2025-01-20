@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: But there is just one little problem... Part-3
-date: '2014-11-20T04:00:00.000+05:30'
-author: RavS
+date: 2014-11-20
 tags:
 - fiction
-modified_time: '2014-11-20T04:00:00.885+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8442352214943964574
-blogger_orig_url: https://ravs.in/2014/11/but-there-is-just-one-little-problem\_20.html
 ---
 
 Aakash shirked his head and focused on the road.

@@ -2,13 +2,9 @@
 public: yes
 layout: post
 title: The Death of a Class
-date: '2012-03-10T11:53:00.001+05:30'
-author: RavS
+date: 2012-03-10
 tags:
   - cricket 
-modified_time: '2012-03-10T12:11:04.612+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-4951914652745334237
-blogger_orig_url: https://ravs.in/2012/03/death-of-class
 ---
 
 [![Rahul dravid Candid Dressing room](http://farm6.staticflickr.com/5293/5417426251_2994c3eda6.jpg)](http://www.flickr.com/photos/chubbychandru/5417426251/ 'Rahul dravid Candid Dressing room by lensbug.chandru, on Flickr')

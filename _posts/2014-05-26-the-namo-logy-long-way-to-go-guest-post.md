@@ -2,16 +2,11 @@
 public: yes
 layout: post
 title: "The NaMo-logy : A Long Way To Go. [Guest Post]"
-date: 2014-05-26T07:30:00.000+05:30
-author:
-  - RavS
+date: 2014-05-26
 tags:
   - india
   - politics
   - guest
-modified_time: 2014-05-26T07:30:01.628+05:30
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-1275300591311547337
-blogger_orig_url: https://ravs.in/2014/05/the-namo-logy-long-way-to-go-guest-post.html
 ---
 
 Ahh... The NaMo. Swearing in as Prime Minister of the Republic of India today. India having an "Obama moment" of her own. 

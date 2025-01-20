@@ -2,16 +2,12 @@
 public: yes
 layout: post
 title: ToDo Today
-date: '2011-01-01T15:06:00.003+05:30'
-author: RavS
+date: 2011-01-01
 tags:
 - new-year
 - experiment
 - humor
 - friends
-modified_time: '2011-07-22T15:11:16.354+05:30'
-blogger_id: tag:blogger.com,1999:blog-5435629330016169213.post-8471368595974423051
-blogger_orig_url: https://ravs.in/2011/01/todo-today.html
 ---
 
 People say whatever you do on first day of the year, you tend to repeat the whole year. Last time, the first thing I did when clock rang 12 was to call XP and chatted with him for some good time. Had a tiff with him for sometime of the year!
