@@ -47,10 +47,10 @@ minima:
   skin: auto
   date_format: '%b %-d, %Y'
   social_links:
-    - platform: gitlab # same as SVG filename.
+    - platform: hugo # same as SVG filename.
       user_url: 'https://1000sher.in' # URL of profile page.
       title: 1000Sher - My Poetry Project # Optional. Text displayed on hovering over link.
-    - platform: github
+    - platform: gitlab
       user_url: 'https://github.com/codeRSH'
       title: My Repos
 

@@ -8,9 +8,9 @@ layout: base
   {%- endif -%}
   {{ content }}
   {% if site.paginate %}
-  {% assign posts = paginator.posts %}
+  {% assign posts = paginator.posts  | where_exp: 'post', 'post.date <= site.time'  %}
   {% else %}
-  {% assign posts = site.posts %}
+  {% assign posts = site.posts  | where_exp: 'post', 'post.date <= site.time' %}
   {% endif %}
 
   {%- if posts.size > 0 -%}
