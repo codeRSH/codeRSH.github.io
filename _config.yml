@@ -50,9 +50,9 @@ minima:
     - platform: gitlab # same as SVG filename.
       user_url: 'https://1000sher.in' # URL of profile page.
       title: 1000Sher - My Poetry Project # Optional. Text displayed on hovering over link.
-    # - platform: github
-    #   user_url: 'https://github.com/codeRSH'
-    #   title: My Repos
+    - platform: github
+      user_url: 'https://github.com/codeRSH'
+      title: My Repos
 
 future: true
 # show_excerpts: true
