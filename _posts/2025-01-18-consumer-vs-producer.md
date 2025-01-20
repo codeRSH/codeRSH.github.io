@@ -1,7 +1,7 @@
 ---
 public: yes
 title: Consumer Vs Producer
-date: 2025-01-19
+date: 2025-01-18
 tags: 
 - thoughts
 - social-media

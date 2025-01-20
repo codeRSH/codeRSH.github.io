@@ -43,12 +43,13 @@ paginate_path: '/blog/page:num/'
 remote_theme: jekyll/minima
 
 minima:
-  skin: solarized
+  # skin: solarized
+  skin: auto
   date_format: '%b %-d, %Y'
   social_links:
-    - platform: tumblr # same as SVG filename.
+    - platform: gitlab # same as SVG filename.
       user_url: 'https://1000sher.in' # URL of profile page.
-      title: My Poetry Project called 1000Sher # Optional. Text displayed on hovering over link.
+      title: 1000Sher - My Poetry Project # Optional. Text displayed on hovering over link.
     # - platform: github
     #   user_url: 'https://github.com/codeRSH'
     #   title: My Repos
