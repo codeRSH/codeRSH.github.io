@@ -1,12 +1,12 @@
 ---
 public: yes
-title: Why I won't Vote for AAP this time
+title: "Why I won't Vote for AAP this time"
 date: 2025-01-21
 tags:
   - politics
+layout: post
 permalink: /blog/no-aap
 ---
-
 
 
 
