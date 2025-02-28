@@ -27,8 +27,8 @@ description: |
 desc2: |
   Jekyll. Minima Theme.
 
-baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://ravs.in' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ravs.in" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 # theme: minima
@@ -38,20 +38,20 @@ plugins:
   - jekyll-paginate
 
 paginate: 15
-paginate_path: '/blog/page:num/'
+paginate_path: "/blog/page:num/"
 
 remote_theme: jekyll/minima
 
 minima:
   # skin: solarized
   skin: auto
-  date_format: '%b %-d, %Y'
+  date_format: "%b %-d, %Y"
   social_links:
-    - platform: hugo # same as SVG filename.
-      user_url: 'https://1000sher.in' # URL of profile page.
+    - icon: blogger # Take the icon name from font awesome site
+      url: "https://1000sher.in" # URL of profile page.
       title: 1000Sher - My Poetry Project # Optional. Text displayed on hovering over link.
-    - platform: github
-      user_url: 'https://github.com/codeRSH'
+    - icon: github
+      url: "https://github.com/codeRSH"
       title: My Repos
 
 future: true
@@ -66,7 +66,6 @@ header_pages:
 
 sass:
   quiet_deps: true
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
