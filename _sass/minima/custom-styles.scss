@@ -4,6 +4,10 @@
 @import url('https://fonts.googleapis.com/css?family=Philosopher&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
 
+:root {
+  --navbar-height: 60px; /* Set your navbar height here */
+}
+
 // .site-nav {
 .site-header {
   font-family: Courgette;
@@ -69,8 +73,9 @@ p {
   margin: 0 auto; /* Center the content */
 }
 
-@media screen and (min-width: 800px) { /* Adjust breakpoint as needed */
+@media screen and (min-width: 800px) {
   .page-content {
-    padding: 20px; /* Adjust padding as needed */
+    padding: 20px;
+    padding-top: calc(20px + var(--navbar-height));
   }
 }
