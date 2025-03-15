@@ -12,8 +12,8 @@ gem "jekyll", "~> 4.3.2"
 # gem "minima", "~> 2.5"    # RSH--
 
 # RSH++
-gem "minima", github: "jekyll/minima"     # This is to use the latest git version of Minima V3
-# gem "minima", github: "jekyll/minima", ref: "43f3ed0"   # This is to use the last known commit version which worked on the site
+# gem "minima", github: "jekyll/minima"     # This is to use the latest git version of Minima V3
+gem "minima", github: "jekyll/minima", ref: "43f3ed0"   # This is to use the last known commit version which worked on the site
 # RSH++
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -46,16 +46,5 @@ gem "jekyll-paginate"
 gem 'logger'
 gem 'base64'
 gem "csv"
-# RSH++ Paginate
+# RSH++ 
 
-# if Gem.win_platform?
-#   # Do nothing on Windows
-# else
-# macOS specific gems
-# platforms :ruby do
-#   if RUBY_PLATFORM.include?('darwin')
-#     gem 'logger'
-#     gem 'base64'
-#     gem "csv"
-#   end
-# end
