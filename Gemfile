@@ -10,6 +10,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 4.3.2"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"    # RSH--
+
 # RSH++
 # gem "minima", github: "jekyll/minima"     # This is to use the latest git version of Minima V3
 gem "minima", github: "jekyll/minima", ref: "43f3ed0"   # This is to use the last known commit version which worked on the site
