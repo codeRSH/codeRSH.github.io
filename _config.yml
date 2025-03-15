@@ -29,8 +29,8 @@ plugins:
 paginate: 15
 paginate_path: "/blog/page:num/"
 
-# remote_theme: jekyll/minima #This is to use the latest commit version of the V3. But may break site.
-remote_theme: "jekyll/minima@43f3ed0" # This is to use the last known version which worked on the site.
+remote_theme: jekyll/minima #This is to use the latest commit version of the V3. But may break site.
+# remote_theme: "jekyll/minima@43f3ed0" # This is to use the last known version which worked on the site.
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
