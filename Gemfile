@@ -37,12 +37,16 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-# RSH++ Remote Theme Gem for Github
+# RSH++ 
+# Remote Theme Gem for Github
 gem "jekyll-remote-theme"
+gem "jekyll-paginate"
 
 gem 'logger'
 gem 'base64'
 gem "csv"
+# RSH++ Paginate
+
 # if Gem.win_platform?
 #   # Do nothing on Windows
 # else
@@ -54,5 +58,3 @@ gem "csv"
 #     gem "csv"
 #   end
 # end
-# RSH++ Paginate
-gem "jekyll-paginate"
